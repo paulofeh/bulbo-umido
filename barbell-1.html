@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Comparação de Temperaturas Máximas 2010-2020</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      .tooltip {
+        position: absolute;
+        background: white;
+        border: 1px solid #ddd;
+        padding: 5px;
+        display: none;
+        font-size: 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Comparação de temperaturas de bulbo úmido máximas</h1>
+    <span>Dados referentes aos períodos 1981-2010 e 1991-2020</span>
+    <svg id="svg-container" width="1000" height="800"></svg>
+    <div id="tooltip" class="tooltip"></div>
+
+    <script>
+      // Coloque o seu JSON aqui
+      const data = [
+        {
+          codigo: 82445,
+          tmax2010: 27.1,
+          tmax2020: 26.8,
+          variacao: "redução",
+          nome_estacao_UF: "ITAITUBA - PA",
+        },
+        {
+          codigo: 82263,
+          tmax2010: 26.1,
+          tmax2020: 26.5,
+          variacao: "aumento",
+          nome_estacao_UF: "CAMETA - PA",
+        },
+        {
+          codigo: 82184,
+          tmax2010: 26.3,
+          tmax2020: 26.2,
+          variacao: "redução",
+          nome_estacao_UF: "PORTO DE MOZ - PA",
+        },
+        {
+          codigo: 82361,
+          tmax2010: 26.4,
+          tmax2020: 26.2,
+          variacao: "redução",
+          nome_estacao_UF: "TUCURUI - PA",
+        },
+        {
+          codigo: 82861,
+          tmax2010: 26.5,
+          tmax2020: 25.9,
+          variacao: "redução",
+          nome_estacao_UF: "CONCEICAO DO ARAGUAIA - PA",
+        },
+        {
+          codigo: 82178,
+          tmax2010: 25.8,
+          tmax2020: 25.9,
+          variacao: "aumento",
+          nome_estacao_UF: "OBIDOS - PA",
+        },
+        {
+          codigo: 82331,
+          tmax2010: 25.5,
+          tmax2020: 25.8,
+          variacao: "aumento",
+          nome_estacao_UF: "MANAUS - AM",
+        },
+        {
+          codigo: 82098,
+          tmax2010: 25.8,
+          tmax2020: 25.8,
+          variacao: "estabilidade",
+          nome_estacao_UF: "MACAPA - AP",
+        },
+        {
+          codigo: 82141,
+          tmax2010: 25.7,
+          tmax2020: 25.8,
+          variacao: "aumento",
+          nome_estacao_UF: "SOURE - PA",
+        },
+        {
+          codigo: 83513,
+          tmax2010: 25.8,
+          tmax2020: 25.7,
+          variacao: "redução",
+          nome_estacao_UF: "NHUMIRIM (NHECOLANDIA) - MS",
+        },
+        {
+          codigo: 82191,
+          tmax2010: 25.5,
+          tmax2020: 25.7,
+          variacao: "aumento",
+          nome_estacao_UF: "BELEM - PA",
+        },
+        {
+          codigo: 82246,
+          tmax2010: 25.5,
+          tmax2020: 25.7,
+          variacao: "aumento",
+          nome_estacao_UF: "BELTERRA - PA",
+        },
+        {
+          codigo: 82280,
+          tmax2010: 25.3,
+          tmax2020: 25.6,
+          variacao: "aumento",
+          nome_estacao_UF: "SAO LUIS - MA",
+        },
+        {
+          codigo: 82562,
+          tmax2010: 25.5,
+          tmax2020: 25.6,
+          variacao: "aumento",
+          nome_estacao_UF: "MARABA - PA",
+        },
+        {
+          codigo: 82198,
+          tmax2010: 25.4,
+          tmax2020: 25.5,
+          variacao: "aumento",
+          nome_estacao_UF: "TURIACU - MA",
+        },
+        {
+          codigo: 82353,
+          tmax2010: 25.3,
+          tmax2020: 25.5,
+          variacao: "aumento",
+          nome_estacao_UF: "ALTAMIRA - PA",
+        },
+        {
+          codigo: 82145,
+          tmax2010: 25.7,
+          tmax2020: 25.5,
+          variacao: "redução",
+          nome_estacao_UF: "TRACUATEUA - PA",
+        },
+        {
+          codigo: 82598,
+          tmax2010: 25.3,
+          tmax2020: 25.5,
+          variacao: "aumento",
+          nome_estacao_UF: "NATAL - RN",
+        },
+        {
+          codigo: 82564,
+          tmax2010: 24.8,
+          tmax2020: 25.4,
+          variacao: "aumento",
+          nome_estacao_UF: "IMPERATRIZ - MA",
+        },
+        {
+          codigo: 82996,
+          tmax2010: 25.2,
+          tmax2020: 25.2,
+          variacao: "estabilidade",
+          nome_estacao_UF: "PORTO DE PEDRAS - AL",
+        },
+        {
+          codigo: 82376,
+          tmax2010: 25.0,
+          tmax2020: 25.2,
+          variacao: "aumento",
+          nome_estacao_UF: "ZE DOCA - MA",
+        },
+        {
+          codigo: 82798,
+          tmax2010: 25.0,
+          tmax2020: 25.2,
+          variacao: "aumento",
+          nome_estacao_UF: "JOAO PESSOA - PB",
+        },
+        {
+          codigo: 82578,
+          tmax2010: 25.1,
+          tmax2020: 25.2,
+          variacao: "aumento",
+          nome_estacao_UF: "TERESINA - PI",
+        },
+        {
+          codigo: 82397,
+          tmax2010: 25.1,
+          tmax2020: 25.1,
+          variacao: "estabilidade",
+          nome_estacao_UF: "FORTALEZA - CE",
+        },
+        {
+          codigo: 82493,
+          tmax2010: 25.0,
+          tmax2020: 25.1,
+          variacao: "aumento",
+          nome_estacao_UF: "JAGUARUANA - CE",
+        },
+        {
+          codigo: 82287,
+          tmax2010: 25.1,
+          tmax2020: 25.1,
+          variacao: "estabilidade",
+          nome_estacao_UF: "PARNAIBA - PI",
+        },
+      ];
+
+      const svg = document.getElementById("svg-container");
+      const tooltip = document.getElementById("tooltip");
+      const margin = { top: 40, right: 20, bottom: 40, left: 200 };
+      const width = 1000 - margin.left - margin.right;
+      const height = 800 - margin.top - margin.bottom;
+
+      const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+      g.setAttribute("transform", `translate(${margin.left},${margin.top})`);
+      svg.appendChild(g);
+
+      const xScale = (value) => (value - 24.5) * (width / 3);
+      const yScale = (i) => i * 28;
+
+      // Função para desenhar o grid
+      function drawGrid() {
+        // Linhas horizontais (para cada localização)
+        data.forEach((_, i) => {
+          const y = yScale(i);
+          const line = document.createElementNS(
+            "http://www.w3.org/2000/svg",
+            "line"
+          );
+          line.setAttribute("x1", 0);
+          line.setAttribute("y1", y);
+          line.setAttribute("x2", width);
+          line.setAttribute("y2", y);
+          line.setAttribute("stroke", "#ddd");
+          line.setAttribute("stroke-width", 1);
+          g.appendChild(line);
+        });
+
+        // Linhas verticais (para cada faixa de temperatura)
+        for (let i = 25; i <= 28; i += 0.5) {
+          const x = xScale(i);
+          const line = document.createElementNS(
+            "http://www.w3.org/2000/svg",
+            "line"
+          );
+          line.setAttribute("x1", x);
+          line.setAttribute("y1", 0);
+          line.setAttribute("x2", x);
+          line.setAttribute("y2", height);
+          line.setAttribute("stroke", "#ddd");
+          line.setAttribute("stroke-width", 1);
+          g.appendChild(line);
+        }
+      }
+
+      function drawXAxis() {
+        const axis = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "g"
+        );
+        axis.setAttribute("transform", `translate(0,${height})`);
+
+        for (let i = 25; i <= 28; i += 0.5) {
+          const x = xScale(i);
+          const line = document.createElementNS(
+            "http://www.w3.org/2000/svg",
+            "line"
+          );
+          line.setAttribute("x1", x);
+          line.setAttribute("y1", 0);
+          line.setAttribute("x2", x);
+          line.setAttribute("y2", 6);
+          line.setAttribute("stroke", "black");
+          axis.appendChild(line);
+
+          const text = document.createElementNS(
+            "http://www.w3.org/2000/svg",
+            "text"
+          );
+          text.setAttribute("x", x);
+          text.setAttribute("y", 20);
+          text.setAttribute("text-anchor", "middle");
+          text.textContent = i.toFixed(1);
+          axis.appendChild(text);
+        }
+
+        const label = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "text"
+        );
+        label.setAttribute("x", width / 2);
+        label.setAttribute("y", 35);
+        label.setAttribute("text-anchor", "middle");
+        label.textContent = "Temperatura Máxima (°C)";
+        axis.appendChild(label);
+
+        g.appendChild(axis);
+      }
+
+      drawGrid(); // Desenha o grid
+
+      data.forEach((d, i) => {
+        const y = yScale(i);
+
+        // Desenhar a linha
+        const line = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "line"
+        );
+        line.setAttribute("x1", xScale(d.tmax2010));
+        line.setAttribute("y1", y);
+        line.setAttribute("x2", xScale(d.tmax2020));
+        line.setAttribute("y2", y);
+        line.setAttribute(
+          "stroke",
+          d.variacao === "aumento"
+            ? "red"
+            : d.variacao === "redução"
+            ? "blue"
+            : "gray"
+        );
+        line.setAttribute("stroke-width", 4);
+        g.appendChild(line);
+
+        // Desenhar os círculos com cores distintas
+        const circle2010 = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "circle"
+        );
+        circle2010.setAttribute("cx", xScale(d.tmax2010));
+        circle2010.setAttribute("cy", y);
+        circle2010.setAttribute("r", 6);
+        circle2010.setAttribute("fill", "#4CAF50"); // Verde para 2010
+        g.appendChild(circle2010);
+
+        const circle2020 = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "circle"
+        );
+        circle2020.setAttribute("cx", xScale(d.tmax2020));
+        circle2020.setAttribute("cy", y);
+        circle2020.setAttribute("r", 6);
+        circle2020.setAttribute("fill", "#FFA500"); // Laranja para 2020
+        g.appendChild(circle2020);
+
+        // Adicionar o nome da estação
+        const text = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "text"
+        );
+        text.setAttribute("x", -10);
+        text.setAttribute("y", y + 4);
+        text.setAttribute("text-anchor", "end");
+        text.setAttribute("font-size", "12px");
+        text.textContent = d.nome_estacao_UF;
+        g.appendChild(text);
+
+        // Adicionar interatividade
+        [circle2010, circle2020].forEach((circle, index) => {
+          circle.addEventListener("mouseover", (event) => {
+            tooltip.style.display = "block";
+            tooltip.style.left = `${event.pageX + 10}px`;
+            tooltip.style.top = `${event.pageY - 10}px`;
+            tooltip.innerHTML = `
+              <strong>${d.nome_estacao_UF}</strong><br>
+              <strong>2010:</strong> ${d.tmax2010}°C<br>
+              <strong>2020:</strong> ${d.tmax2020}°C<br>
+              <strong>Variação:</strong> ${d.variacao} (${(
+              d.tmax2020 - d.tmax2010
+            ).toFixed(1)}°C)`;
+          });
+
+          circle.addEventListener("mouseout", () => {
+            tooltip.style.display = "none";
+          });
+        });
+      });
+
+      drawXAxis();
+
+      // Atualizar a legenda
+      const legend = document.createElementNS(
+        "http://www.w3.org/2000/svg",
+        "g"
+      );
+      legend.setAttribute("transform", `translate(${width + 100}, 250)`);
+
+      const items = [
+        { color: "red", label: "Aumento" },
+        { color: "blue", label: "Redução" },
+        { color: "#4CAF50", label: "1981-2010" },
+        { color: "#FFA500", label: "1991-2020" },
+      ];
+
+      items.forEach((item, i) => {
+        const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+        g.setAttribute("transform", `translate(0, ${i * 20})`);
+
+        const shape = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          i < 2 ? "rect" : "circle"
+        );
+        if (i < 2) {
+          shape.setAttribute("width", 15);
+          shape.setAttribute("height", 3);
+        } else {
+          shape.setAttribute("cx", 7.5);
+          shape.setAttribute("cy", 0);
+          shape.setAttribute("r", 6);
+        }
+        shape.setAttribute("fill", item.color);
+        g.appendChild(shape);
+
+        const text = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "text"
+        );
+        text.setAttribute("x", 20);
+        text.setAttribute("y", 5);
+        text.setAttribute("font-size", "12px");
+        text.textContent = item.label;
+        g.appendChild(text);
+
+        legend.appendChild(g);
+      });
+
+      svg.appendChild(legend);
+    </script>
+  </body>
+</html>
