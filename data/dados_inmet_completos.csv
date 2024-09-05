@@ -1,0 +1,3097 @@
+codigo,nome_estacao,uf,mes,temperatura,ano,mes_num
+82098.0,Macapá,AP,janeiro,25.9,1961 - 1991,1
+82098.0,Macapá,AP,fevereiro,25.7,1961 - 1991,2
+82098.0,Macapá,AP,marco,25.7,1961 - 1991,3
+82098.0,Macapá,AP,abril,26.0,1961 - 1991,4
+82098.0,Macapá,AP,maio,26.2,1961 - 1991,5
+82098.0,Macapá,AP,junho,26.2,1961 - 1991,6
+82098.0,Macapá,AP,julho,26.1,1961 - 1991,7
+82098.0,Macapá,AP,agosto,26.8,1961 - 1991,8
+82098.0,Macapá,AP,setembro,27.5,1961 - 1991,9
+82098.0,Macapá,AP,outubro,28.0,1961 - 1991,10
+82098.0,Macapá,AP,novembro,27.8,1961 - 1991,11
+82098.0,Macapá,AP,dezembro,27.1,1961 - 1991,12
+82098.0,Macapá,AP,janeiro,26.3,1981 - 2011,1
+82098.0,Macapá,AP,fevereiro,26.0,1981 - 2011,2
+82098.0,Macapá,AP,marco,26.2,1981 - 2011,3
+82098.0,Macapá,AP,abril,26.5,1981 - 2011,4
+82098.0,Macapá,AP,maio,26.7,1981 - 2011,5
+82098.0,Macapá,AP,junho,26.7,1981 - 2011,6
+82098.0,Macapá,AP,julho,26.7,1981 - 2011,7
+82098.0,Macapá,AP,agosto,27.5,1981 - 2011,8
+82098.0,Macapá,AP,setembro,28.2,1981 - 2011,9
+82098.0,Macapá,AP,outubro,28.5,1981 - 2011,10
+82098.0,Macapá,AP,novembro,28.3,1981 - 2011,11
+82098.0,Macapá,AP,dezembro,27.5,1981 - 2011,12
+82098.0,Macapá,AP,janeiro,26.6,1991 - 2021,1
+82098.0,Macapá,AP,fevereiro,26.2,1991 - 2021,2
+82098.0,Macapá,AP,marco,26.4,1991 - 2021,3
+82098.0,Macapá,AP,abril,26.6,1991 - 2021,4
+82098.0,Macapá,AP,maio,27.0,1991 - 2021,5
+82098.0,Macapá,AP,junho,27.1,1991 - 2021,6
+82098.0,Macapá,AP,julho,27.2,1991 - 2021,7
+82098.0,Macapá,AP,agosto,27.9,1991 - 2021,8
+82098.0,Macapá,AP,setembro,28.5,1991 - 2021,9
+82098.0,Macapá,AP,outubro,28.8,1991 - 2021,10
+82098.0,Macapá,AP,novembro,28.7,1991 - 2021,11
+82098.0,Macapá,AP,dezembro,27.8,1991 - 2021,12
+82113.0,Barcelos,AM,janeiro,25.9,1961 - 1991,1
+82113.0,Barcelos,AM,fevereiro,26.3,1961 - 1991,2
+82113.0,Barcelos,AM,marco,26.3,1961 - 1991,3
+82113.0,Barcelos,AM,abril,26.0,1961 - 1991,4
+82113.0,Barcelos,AM,maio,25.6,1961 - 1991,5
+82113.0,Barcelos,AM,junho,25.4,1961 - 1991,6
+82113.0,Barcelos,AM,julho,25.4,1961 - 1991,7
+82113.0,Barcelos,AM,agosto,25.7,1961 - 1991,8
+82113.0,Barcelos,AM,setembro,25.9,1961 - 1991,9
+82113.0,Barcelos,AM,outubro,26.2,1961 - 1991,10
+82113.0,Barcelos,AM,novembro,26.3,1961 - 1991,11
+82113.0,Barcelos,AM,dezembro,26.3,1961 - 1991,12
+82113.0,Barcelos,AM,janeiro,26.9,1981 - 2011,1
+82113.0,Barcelos,AM,fevereiro,26.8,1981 - 2011,2
+82113.0,Barcelos,AM,marco,26.7,1981 - 2011,3
+82113.0,Barcelos,AM,abril,26.4,1981 - 2011,4
+82113.0,Barcelos,AM,maio,26.0,1981 - 2011,5
+82113.0,Barcelos,AM,junho,25.9,1981 - 2011,6
+82113.0,Barcelos,AM,julho,26.0,1981 - 2011,7
+82113.0,Barcelos,AM,agosto,26.5,1981 - 2011,8
+82113.0,Barcelos,AM,setembro,26.7,1981 - 2011,9
+82113.0,Barcelos,AM,outubro,27.0,1981 - 2011,10
+82113.0,Barcelos,AM,novembro,27.0,1981 - 2011,11
+82113.0,Barcelos,AM,dezembro,27.0,1981 - 2011,12
+82113.0,Barcelos,AM,janeiro,27.1,1991 - 2021,1
+82113.0,Barcelos,AM,fevereiro,27.0,1991 - 2021,2
+82113.0,Barcelos,AM,marco,26.8,1991 - 2021,3
+82113.0,Barcelos,AM,abril,26.5,1991 - 2021,4
+82113.0,Barcelos,AM,maio,26.3,1991 - 2021,5
+82113.0,Barcelos,AM,junho,26.2,1991 - 2021,6
+82113.0,Barcelos,AM,julho,26.3,1991 - 2021,7
+82113.0,Barcelos,AM,agosto,26.8,1991 - 2021,8
+82113.0,Barcelos,AM,setembro,27.1,1991 - 2021,9
+82113.0,Barcelos,AM,outubro,27.3,1991 - 2021,10
+82113.0,Barcelos,AM,novembro,27.2,1991 - 2021,11
+82113.0,Barcelos,AM,dezembro,27.3,1991 - 2021,12
+82181.0,Monte Alegre,PA,janeiro,25.9,1961 - 1991,1
+82181.0,Monte Alegre,PA,fevereiro,25.6,1961 - 1991,2
+82181.0,Monte Alegre,PA,marco,25.7,1961 - 1991,3
+82181.0,Monte Alegre,PA,abril,25.9,1961 - 1991,4
+82181.0,Monte Alegre,PA,maio,26.0,1961 - 1991,5
+82181.0,Monte Alegre,PA,junho,25.9,1961 - 1991,6
+82181.0,Monte Alegre,PA,julho,26.1,1961 - 1991,7
+82181.0,Monte Alegre,PA,agosto,26.7,1961 - 1991,8
+82181.0,Monte Alegre,PA,setembro,27.4,1961 - 1991,9
+82181.0,Monte Alegre,PA,outubro,27.7,1961 - 1991,10
+82181.0,Monte Alegre,PA,novembro,27.5,1961 - 1991,11
+82181.0,Monte Alegre,PA,dezembro,27.0,1961 - 1991,12
+82181.0,Monte Alegre,PA,janeiro,26.5,1981 - 2011,1
+82181.0,Monte Alegre,PA,fevereiro,26.0,1981 - 2011,2
+82181.0,Monte Alegre,PA,marco,26.1,1981 - 2011,3
+82181.0,Monte Alegre,PA,abril,26.2,1981 - 2011,4
+82181.0,Monte Alegre,PA,maio,26.4,1981 - 2011,5
+82181.0,Monte Alegre,PA,junho,26.4,1981 - 2011,6
+82181.0,Monte Alegre,PA,julho,26.6,1981 - 2011,7
+82181.0,Monte Alegre,PA,agosto,27.3,1981 - 2011,8
+82181.0,Monte Alegre,PA,setembro,27.9,1981 - 2011,9
+82181.0,Monte Alegre,PA,outubro,28.2,1981 - 2011,10
+82181.0,Monte Alegre,PA,novembro,27.9,1981 - 2011,11
+82181.0,Monte Alegre,PA,dezembro,27.4,1981 - 2011,12
+82181.0,Monte Alegre,PA,janeiro,26.7,1991 - 2021,1
+82181.0,Monte Alegre,PA,fevereiro,26.2,1991 - 2021,2
+82181.0,Monte Alegre,PA,marco,26.2,1991 - 2021,3
+82181.0,Monte Alegre,PA,abril,26.3,1991 - 2021,4
+82181.0,Monte Alegre,PA,maio,26.5,1991 - 2021,5
+82181.0,Monte Alegre,PA,junho,26.6,1991 - 2021,6
+82181.0,Monte Alegre,PA,julho,26.8,1991 - 2021,7
+82181.0,Monte Alegre,PA,agosto,27.6,1991 - 2021,8
+82181.0,Monte Alegre,PA,setembro,28.1,1991 - 2021,9
+82181.0,Monte Alegre,PA,outubro,28.4,1991 - 2021,10
+82181.0,Monte Alegre,PA,novembro,28.1,1991 - 2021,11
+82181.0,Monte Alegre,PA,dezembro,27.5,1991 - 2021,12
+82184.0,Porto de Moz,PA,janeiro,25.9,1961 - 1991,1
+82184.0,Porto de Moz,PA,fevereiro,25.6,1961 - 1991,2
+82184.0,Porto de Moz,PA,marco,26.0,1961 - 1991,3
+82184.0,Porto de Moz,PA,abril,26.1,1961 - 1991,4
+82184.0,Porto de Moz,PA,maio,26.2,1961 - 1991,5
+82184.0,Porto de Moz,PA,junho,26.2,1961 - 1991,6
+82184.0,Porto de Moz,PA,julho,26.2,1961 - 1991,7
+82184.0,Porto de Moz,PA,agosto,26.7,1961 - 1991,8
+82184.0,Porto de Moz,PA,setembro,27.0,1961 - 1991,9
+82184.0,Porto de Moz,PA,outubro,27.3,1961 - 1991,10
+82184.0,Porto de Moz,PA,novembro,27.2,1961 - 1991,11
+82184.0,Porto de Moz,PA,dezembro,26.7,1961 - 1991,12
+82184.0,Porto de Moz,PA,janeiro,26.4,1981 - 2011,1
+82184.0,Porto de Moz,PA,fevereiro,26.1,1981 - 2011,2
+82184.0,Porto de Moz,PA,marco,26.3,1981 - 2011,3
+82184.0,Porto de Moz,PA,abril,26.4,1981 - 2011,4
+82184.0,Porto de Moz,PA,maio,26.6,1981 - 2011,5
+82184.0,Porto de Moz,PA,junho,26.7,1981 - 2011,6
+82184.0,Porto de Moz,PA,julho,26.7,1981 - 2011,7
+82184.0,Porto de Moz,PA,agosto,27.4,1981 - 2011,8
+82184.0,Porto de Moz,PA,setembro,27.7,1981 - 2011,9
+82184.0,Porto de Moz,PA,outubro,28.0,1981 - 2011,10
+82184.0,Porto de Moz,PA,novembro,27.9,1981 - 2011,11
+82184.0,Porto de Moz,PA,dezembro,27.2,1981 - 2011,12
+82184.0,Porto de Moz,PA,janeiro,26.7,1991 - 2021,1
+82184.0,Porto de Moz,PA,fevereiro,26.3,1991 - 2021,2
+82184.0,Porto de Moz,PA,marco,26.5,1991 - 2021,3
+82184.0,Porto de Moz,PA,abril,26.6,1991 - 2021,4
+82184.0,Porto de Moz,PA,maio,26.9,1991 - 2021,5
+82184.0,Porto de Moz,PA,junho,27.1,1991 - 2021,6
+82184.0,Porto de Moz,PA,julho,27.1,1991 - 2021,7
+82184.0,Porto de Moz,PA,agosto,27.9,1991 - 2021,8
+82184.0,Porto de Moz,PA,setembro,28.2,1991 - 2021,9
+82184.0,Porto de Moz,PA,outubro,28.4,1991 - 2021,10
+82184.0,Porto de Moz,PA,novembro,28.4,1991 - 2021,11
+82184.0,Porto de Moz,PA,dezembro,27.6,1991 - 2021,12
+82191.0,Belém,PA,janeiro,25.6,1961 - 1991,1
+82191.0,Belém,PA,fevereiro,25.4,1961 - 1991,2
+82191.0,Belém,PA,marco,25.5,1961 - 1991,3
+82191.0,Belém,PA,abril,25.6,1961 - 1991,4
+82191.0,Belém,PA,maio,25.8,1961 - 1991,5
+82191.0,Belém,PA,junho,26.0,1961 - 1991,6
+82191.0,Belém,PA,julho,25.7,1961 - 1991,7
+82191.0,Belém,PA,agosto,26.0,1961 - 1991,8
+82191.0,Belém,PA,setembro,26.0,1961 - 1991,9
+82191.0,Belém,PA,outubro,26.4,1961 - 1991,10
+82191.0,Belém,PA,novembro,26.5,1961 - 1991,11
+82191.0,Belém,PA,dezembro,26.2,1961 - 1991,12
+82191.0,Belém,PA,janeiro,26.1,1981 - 2011,1
+82191.0,Belém,PA,fevereiro,25.8,1981 - 2011,2
+82191.0,Belém,PA,marco,26.0,1981 - 2011,3
+82191.0,Belém,PA,abril,26.2,1981 - 2011,4
+82191.0,Belém,PA,maio,26.5,1981 - 2011,5
+82191.0,Belém,PA,junho,26.5,1981 - 2011,6
+82191.0,Belém,PA,julho,26.3,1981 - 2011,7
+82191.0,Belém,PA,agosto,26.7,1981 - 2011,8
+82191.0,Belém,PA,setembro,26.8,1981 - 2011,9
+82191.0,Belém,PA,outubro,26.9,1981 - 2011,10
+82191.0,Belém,PA,novembro,27.1,1981 - 2011,11
+82191.0,Belém,PA,dezembro,26.7,1981 - 2011,12
+82191.0,Belém,PA,janeiro,26.3,1991 - 2021,1
+82191.0,Belém,PA,fevereiro,26.1,1991 - 2021,2
+82191.0,Belém,PA,marco,26.3,1991 - 2021,3
+82191.0,Belém,PA,abril,26.5,1991 - 2021,4
+82191.0,Belém,PA,maio,26.8,1991 - 2021,5
+82191.0,Belém,PA,junho,26.9,1991 - 2021,6
+82191.0,Belém,PA,julho,26.8,1991 - 2021,7
+82191.0,Belém,PA,agosto,27.1,1991 - 2021,8
+82191.0,Belém,PA,setembro,27.3,1991 - 2021,9
+82191.0,Belém,PA,outubro,27.3,1991 - 2021,10
+82191.0,Belém,PA,novembro,27.4,1991 - 2021,11
+82191.0,Belém,PA,dezembro,27.0,1991 - 2021,12
+82246.0,Belterra,PA,janeiro,24.8,1961 - 1991,1
+82246.0,Belterra,PA,fevereiro,24.5,1961 - 1991,2
+82246.0,Belterra,PA,marco,24.6,1961 - 1991,3
+82246.0,Belterra,PA,abril,24.7,1961 - 1991,4
+82246.0,Belterra,PA,maio,24.6,1961 - 1991,5
+82246.0,Belterra,PA,junho,24.4,1961 - 1991,6
+82246.0,Belterra,PA,julho,24.3,1961 - 1991,7
+82246.0,Belterra,PA,agosto,24.8,1961 - 1991,8
+82246.0,Belterra,PA,setembro,25.4,1961 - 1991,9
+82246.0,Belterra,PA,outubro,25.8,1961 - 1991,10
+82246.0,Belterra,PA,novembro,25.8,1961 - 1991,11
+82246.0,Belterra,PA,dezembro,25.3,1961 - 1991,12
+82246.0,Belterra,PA,janeiro,25.5,1981 - 2011,1
+82246.0,Belterra,PA,fevereiro,25.0,1981 - 2011,2
+82246.0,Belterra,PA,marco,25.0,1981 - 2011,3
+82246.0,Belterra,PA,abril,25.2,1981 - 2011,4
+82246.0,Belterra,PA,maio,25.2,1981 - 2011,5
+82246.0,Belterra,PA,junho,25.0,1981 - 2011,6
+82246.0,Belterra,PA,julho,24.9,1981 - 2011,7
+82246.0,Belterra,PA,agosto,25.5,1981 - 2011,8
+82246.0,Belterra,PA,setembro,26.2,1981 - 2011,9
+82246.0,Belterra,PA,outubro,26.6,1981 - 2011,10
+82246.0,Belterra,PA,novembro,26.5,1981 - 2011,11
+82246.0,Belterra,PA,dezembro,26.1,1981 - 2011,12
+82246.0,Belterra,PA,janeiro,25.8,1991 - 2021,1
+82246.0,Belterra,PA,fevereiro,25.3,1991 - 2021,2
+82246.0,Belterra,PA,marco,25.3,1991 - 2021,3
+82246.0,Belterra,PA,abril,25.5,1991 - 2021,4
+82246.0,Belterra,PA,maio,25.6,1991 - 2021,5
+82246.0,Belterra,PA,junho,25.6,1991 - 2021,6
+82246.0,Belterra,PA,julho,25.6,1991 - 2021,7
+82246.0,Belterra,PA,agosto,26.2,1991 - 2021,8
+82246.0,Belterra,PA,setembro,26.9,1991 - 2021,9
+82246.0,Belterra,PA,outubro,27.1,1991 - 2021,10
+82246.0,Belterra,PA,novembro,27.0,1991 - 2021,11
+82246.0,Belterra,PA,dezembro,26.5,1991 - 2021,12
+82263.0,Cametá,PA,janeiro,26.2,1961 - 1991,1
+82263.0,Cametá,PA,fevereiro,25.9,1961 - 1991,2
+82263.0,Cametá,PA,marco,26.1,1961 - 1991,3
+82263.0,Cametá,PA,abril,26.3,1961 - 1991,4
+82263.0,Cametá,PA,maio,26.5,1961 - 1991,5
+82263.0,Cametá,PA,junho,26.6,1961 - 1991,6
+82263.0,Cametá,PA,julho,26.4,1961 - 1991,7
+82263.0,Cametá,PA,agosto,26.7,1961 - 1991,8
+82263.0,Cametá,PA,setembro,26.9,1961 - 1991,9
+82263.0,Cametá,PA,outubro,27.2,1961 - 1991,10
+82263.0,Cametá,PA,novembro,27.3,1961 - 1991,11
+82263.0,Cametá,PA,dezembro,26.9,1961 - 1991,12
+82263.0,Cametá,PA,janeiro,26.6,1981 - 2011,1
+82263.0,Cametá,PA,fevereiro,26.3,1981 - 2011,2
+82263.0,Cametá,PA,marco,26.4,1981 - 2011,3
+82263.0,Cametá,PA,abril,26.6,1981 - 2011,4
+82263.0,Cametá,PA,maio,26.9,1981 - 2011,5
+82263.0,Cametá,PA,junho,27.1,1981 - 2011,6
+82263.0,Cametá,PA,julho,27.1,1981 - 2011,7
+82263.0,Cametá,PA,agosto,27.5,1981 - 2011,8
+82263.0,Cametá,PA,setembro,27.7,1981 - 2011,9
+82263.0,Cametá,PA,outubro,27.9,1981 - 2011,10
+82263.0,Cametá,PA,novembro,28.0,1981 - 2011,11
+82263.0,Cametá,PA,dezembro,27.4,1981 - 2011,12
+82263.0,Cametá,PA,janeiro,26.8,1991 - 2021,1
+82263.0,Cametá,PA,fevereiro,26.5,1991 - 2021,2
+82263.0,Cametá,PA,marco,26.6,1991 - 2021,3
+82263.0,Cametá,PA,abril,26.9,1991 - 2021,4
+82263.0,Cametá,PA,maio,27.3,1991 - 2021,5
+82263.0,Cametá,PA,junho,27.6,1991 - 2021,6
+82263.0,Cametá,PA,julho,27.6,1991 - 2021,7
+82263.0,Cametá,PA,agosto,28.1,1991 - 2021,8
+82263.0,Cametá,PA,setembro,28.2,1991 - 2021,9
+82263.0,Cametá,PA,outubro,28.4,1991 - 2021,10
+82263.0,Cametá,PA,novembro,28.4,1991 - 2021,11
+82263.0,Cametá,PA,dezembro,27.8,1991 - 2021,12
+82331.0,Manaus,AM,janeiro,26.1,1961 - 1991,1
+82331.0,Manaus,AM,fevereiro,25.9,1961 - 1991,2
+82331.0,Manaus,AM,marco,26.0,1961 - 1991,3
+82331.0,Manaus,AM,abril,26.2,1961 - 1991,4
+82331.0,Manaus,AM,maio,26.2,1961 - 1991,5
+82331.0,Manaus,AM,junho,26.4,1961 - 1991,6
+82331.0,Manaus,AM,julho,26.5,1961 - 1991,7
+82331.0,Manaus,AM,agosto,27.3,1961 - 1991,8
+82331.0,Manaus,AM,setembro,27.7,1961 - 1991,9
+82331.0,Manaus,AM,outubro,27.7,1961 - 1991,10
+82331.0,Manaus,AM,novembro,27.2,1961 - 1991,11
+82331.0,Manaus,AM,dezembro,26.6,1961 - 1991,12
+82331.0,Manaus,AM,janeiro,26.3,1981 - 2011,1
+82331.0,Manaus,AM,fevereiro,26.3,1981 - 2011,2
+82331.0,Manaus,AM,marco,26.3,1981 - 2011,3
+82331.0,Manaus,AM,abril,26.4,1981 - 2011,4
+82331.0,Manaus,AM,maio,26.6,1981 - 2011,5
+82331.0,Manaus,AM,junho,26.7,1981 - 2011,6
+82331.0,Manaus,AM,julho,27.0,1981 - 2011,7
+82331.0,Manaus,AM,agosto,27.6,1981 - 2011,8
+82331.0,Manaus,AM,setembro,28.0,1981 - 2011,9
+82331.0,Manaus,AM,outubro,28.0,1981 - 2011,10
+82331.0,Manaus,AM,novembro,27.6,1981 - 2011,11
+82331.0,Manaus,AM,dezembro,26.9,1981 - 2011,12
+82331.0,Manaus,AM,janeiro,26.6,1991 - 2021,1
+82331.0,Manaus,AM,fevereiro,26.6,1991 - 2021,2
+82331.0,Manaus,AM,marco,26.6,1991 - 2021,3
+82331.0,Manaus,AM,abril,26.7,1991 - 2021,4
+82331.0,Manaus,AM,maio,27.0,1991 - 2021,5
+82331.0,Manaus,AM,junho,27.3,1991 - 2021,6
+82331.0,Manaus,AM,julho,27.5,1991 - 2021,7
+82331.0,Manaus,AM,agosto,28.2,1991 - 2021,8
+82331.0,Manaus,AM,setembro,28.6,1991 - 2021,9
+82331.0,Manaus,AM,outubro,28.5,1991 - 2021,10
+82331.0,Manaus,AM,novembro,28.0,1991 - 2021,11
+82331.0,Manaus,AM,dezembro,27.2,1991 - 2021,12
+82336.0,Itacoatiara,AM,janeiro,25.8,1961 - 1991,1
+82336.0,Itacoatiara,AM,fevereiro,25.8,1961 - 1991,2
+82336.0,Itacoatiara,AM,marco,25.9,1961 - 1991,3
+82336.0,Itacoatiara,AM,abril,26.0,1961 - 1991,4
+82336.0,Itacoatiara,AM,maio,26.3,1961 - 1991,5
+82336.0,Itacoatiara,AM,junho,26.3,1961 - 1991,6
+82336.0,Itacoatiara,AM,julho,26.2,1961 - 1991,7
+82336.0,Itacoatiara,AM,agosto,26.7,1961 - 1991,8
+82336.0,Itacoatiara,AM,setembro,27.1,1961 - 1991,9
+82336.0,Itacoatiara,AM,outubro,27.2,1961 - 1991,10
+82336.0,Itacoatiara,AM,novembro,27.1,1961 - 1991,11
+82336.0,Itacoatiara,AM,dezembro,26.4,1961 - 1991,12
+82336.0,Itacoatiara,AM,janeiro,26.1,1981 - 2011,1
+82336.0,Itacoatiara,AM,fevereiro,26.2,1981 - 2011,2
+82336.0,Itacoatiara,AM,marco,26.3,1981 - 2011,3
+82336.0,Itacoatiara,AM,abril,26.4,1981 - 2011,4
+82336.0,Itacoatiara,AM,maio,26.7,1981 - 2011,5
+82336.0,Itacoatiara,AM,junho,26.7,1981 - 2011,6
+82336.0,Itacoatiara,AM,julho,26.8,1981 - 2011,7
+82336.0,Itacoatiara,AM,agosto,27.2,1981 - 2011,8
+82336.0,Itacoatiara,AM,setembro,27.9,1981 - 2011,9
+82336.0,Itacoatiara,AM,outubro,28.0,1981 - 2011,10
+82336.0,Itacoatiara,AM,novembro,27.5,1981 - 2011,11
+82336.0,Itacoatiara,AM,dezembro,26.9,1981 - 2011,12
+82336.0,Itacoatiara,AM,janeiro,26.5,1991 - 2021,1
+82336.0,Itacoatiara,AM,fevereiro,26.5,1991 - 2021,2
+82336.0,Itacoatiara,AM,marco,26.7,1991 - 2021,3
+82336.0,Itacoatiara,AM,abril,26.8,1991 - 2021,4
+82336.0,Itacoatiara,AM,maio,27.1,1991 - 2021,5
+82336.0,Itacoatiara,AM,junho,27.2,1991 - 2021,6
+82336.0,Itacoatiara,AM,julho,27.3,1991 - 2021,7
+82336.0,Itacoatiara,AM,agosto,27.8,1991 - 2021,8
+82336.0,Itacoatiara,AM,setembro,28.5,1991 - 2021,9
+82336.0,Itacoatiara,AM,outubro,28.4,1991 - 2021,10
+82336.0,Itacoatiara,AM,novembro,28.0,1991 - 2021,11
+82336.0,Itacoatiara,AM,dezembro,27.3,1991 - 2021,12
+82376.0,Zé Doca,MA,janeiro,25.6,1961 - 1991,1
+82376.0,Zé Doca,MA,fevereiro,25.7,1961 - 1991,2
+82376.0,Zé Doca,MA,marco,25.6,1961 - 1991,3
+82376.0,Zé Doca,MA,abril,26.1,1961 - 1991,4
+82376.0,Zé Doca,MA,maio,26.3,1961 - 1991,5
+82376.0,Zé Doca,MA,junho,26.0,1961 - 1991,6
+82376.0,Zé Doca,MA,julho,25.8,1961 - 1991,7
+82376.0,Zé Doca,MA,agosto,25.9,1961 - 1991,8
+82376.0,Zé Doca,MA,setembro,26.4,1961 - 1991,9
+82376.0,Zé Doca,MA,outubro,27.3,1961 - 1991,10
+82376.0,Zé Doca,MA,novembro,27.4,1961 - 1991,11
+82376.0,Zé Doca,MA,dezembro,26.6,1961 - 1991,12
+82376.0,Zé Doca,MA,janeiro,26.7,1981 - 2011,1
+82376.0,Zé Doca,MA,fevereiro,26.3,1981 - 2011,2
+82376.0,Zé Doca,MA,marco,26.3,1981 - 2011,3
+82376.0,Zé Doca,MA,abril,26.4,1981 - 2011,4
+82376.0,Zé Doca,MA,maio,26.9,1981 - 2011,5
+82376.0,Zé Doca,MA,junho,26.7,1981 - 2011,6
+82376.0,Zé Doca,MA,julho,26.6,1981 - 2011,7
+82376.0,Zé Doca,MA,agosto,27.2,1981 - 2011,8
+82376.0,Zé Doca,MA,setembro,27.7,1981 - 2011,9
+82376.0,Zé Doca,MA,outubro,28.0,1981 - 2011,10
+82376.0,Zé Doca,MA,novembro,28.2,1981 - 2011,11
+82376.0,Zé Doca,MA,dezembro,27.7,1981 - 2011,12
+82376.0,Zé Doca,MA,janeiro,26.8,1991 - 2021,1
+82376.0,Zé Doca,MA,fevereiro,26.4,1991 - 2021,2
+82376.0,Zé Doca,MA,marco,26.5,1991 - 2021,3
+82376.0,Zé Doca,MA,abril,26.7,1991 - 2021,4
+82376.0,Zé Doca,MA,maio,27.1,1991 - 2021,5
+82376.0,Zé Doca,MA,junho,27.1,1991 - 2021,6
+82376.0,Zé Doca,MA,julho,27.0,1991 - 2021,7
+82376.0,Zé Doca,MA,agosto,27.5,1991 - 2021,8
+82376.0,Zé Doca,MA,setembro,28.0,1991 - 2021,9
+82376.0,Zé Doca,MA,outubro,28.3,1991 - 2021,10
+82376.0,Zé Doca,MA,novembro,28.4,1991 - 2021,11
+82376.0,Zé Doca,MA,dezembro,27.9,1991 - 2021,12
+82392.0,Sobral,CE,janeiro,27.5,1961 - 1991,1
+82392.0,Sobral,CE,fevereiro,26.7,1961 - 1991,2
+82392.0,Sobral,CE,marco,26.1,1961 - 1991,3
+82392.0,Sobral,CE,abril,26.0,1961 - 1991,4
+82392.0,Sobral,CE,maio,26.0,1961 - 1991,5
+82392.0,Sobral,CE,junho,26.0,1961 - 1991,6
+82392.0,Sobral,CE,julho,25.9,1961 - 1991,7
+82392.0,Sobral,CE,agosto,26.8,1961 - 1991,8
+82392.0,Sobral,CE,setembro,27.5,1961 - 1991,9
+82392.0,Sobral,CE,outubro,27.8,1961 - 1991,10
+82392.0,Sobral,CE,novembro,28.1,1961 - 1991,11
+82392.0,Sobral,CE,dezembro,28.1,1961 - 1991,12
+82392.0,Sobral,CE,janeiro,27.5,1981 - 2011,1
+82392.0,Sobral,CE,fevereiro,26.7,1981 - 2011,2
+82392.0,Sobral,CE,marco,26.2,1981 - 2011,3
+82392.0,Sobral,CE,abril,26.0,1981 - 2011,4
+82392.0,Sobral,CE,maio,26.0,1981 - 2011,5
+82392.0,Sobral,CE,junho,26.1,1981 - 2011,6
+82392.0,Sobral,CE,julho,26.8,1981 - 2011,7
+82392.0,Sobral,CE,agosto,27.5,1981 - 2011,8
+82392.0,Sobral,CE,setembro,28.1,1981 - 2011,9
+82392.0,Sobral,CE,outubro,28.3,1981 - 2011,10
+82392.0,Sobral,CE,novembro,28.4,1981 - 2011,11
+82392.0,Sobral,CE,dezembro,28.5,1981 - 2011,12
+82392.0,Sobral,CE,janeiro,27.5,1991 - 2021,1
+82392.0,Sobral,CE,fevereiro,26.7,1991 - 2021,2
+82392.0,Sobral,CE,marco,26.3,1991 - 2021,3
+82392.0,Sobral,CE,abril,26.0,1991 - 2021,4
+82392.0,Sobral,CE,maio,26.2,1991 - 2021,5
+82392.0,Sobral,CE,junho,26.3,1991 - 2021,6
+82392.0,Sobral,CE,julho,26.8,1991 - 2021,7
+82392.0,Sobral,CE,agosto,27.5,1991 - 2021,8
+82392.0,Sobral,CE,setembro,28.1,1991 - 2021,9
+82392.0,Sobral,CE,outubro,28.3,1991 - 2021,10
+82392.0,Sobral,CE,novembro,28.4,1991 - 2021,11
+82392.0,Sobral,CE,dezembro,28.5,1991 - 2021,12
+82397.0,Fortaleza,CE,janeiro,27.1194889545455,1961 - 1991,1
+82397.0,Fortaleza,CE,fevereiro,26.860266049999996,1961 - 1991,2
+82397.0,Fortaleza,CE,marco,26.425648315789466,1961 - 1991,3
+82397.0,Fortaleza,CE,abril,26.24321531578947,1961 - 1991,4
+82397.0,Fortaleza,CE,maio,26.158298349999995,1961 - 1991,5
+82397.0,Fortaleza,CE,junho,25.84284075,1961 - 1991,6
+82397.0,Fortaleza,CE,julho,25.615073149999994,1961 - 1991,7
+82397.0,Fortaleza,CE,agosto,26.014538111111115,1961 - 1991,8
+82397.0,Fortaleza,CE,setembro,26.44878423529412,1961 - 1991,9
+82397.0,Fortaleza,CE,outubro,26.923437947368416,1961 - 1991,10
+82397.0,Fortaleza,CE,novembro,27.20169960869565,1961 - 1991,11
+82397.0,Fortaleza,CE,dezembro,27.296667181818183,1961 - 1991,12
+82397.0,Fortaleza,CE,janeiro,27.4,1981 - 2011,1
+82397.0,Fortaleza,CE,fevereiro,27.4,1981 - 2011,2
+82397.0,Fortaleza,CE,marco,26.9,1981 - 2011,3
+82397.0,Fortaleza,CE,abril,26.6,1981 - 2011,4
+82397.0,Fortaleza,CE,maio,26.7,1981 - 2011,5
+82397.0,Fortaleza,CE,junho,26.1,1981 - 2011,6
+82397.0,Fortaleza,CE,julho,26.1,1981 - 2011,7
+82397.0,Fortaleza,CE,agosto,26.4,1981 - 2011,8
+82397.0,Fortaleza,CE,setembro,26.9,1981 - 2011,9
+82397.0,Fortaleza,CE,outubro,27.3,1981 - 2011,10
+82397.0,Fortaleza,CE,novembro,27.7,1981 - 2011,11
+82397.0,Fortaleza,CE,dezembro,27.8,1981 - 2011,12
+82397.0,Fortaleza,CE,janeiro,27.4,1991 - 2021,1
+82397.0,Fortaleza,CE,fevereiro,27.3,1991 - 2021,2
+82397.0,Fortaleza,CE,marco,27.0,1991 - 2021,3
+82397.0,Fortaleza,CE,abril,26.8,1991 - 2021,4
+82397.0,Fortaleza,CE,maio,26.8,1991 - 2021,5
+82397.0,Fortaleza,CE,junho,26.4,1991 - 2021,6
+82397.0,Fortaleza,CE,julho,26.2,1991 - 2021,7
+82397.0,Fortaleza,CE,agosto,26.6,1991 - 2021,8
+82397.0,Fortaleza,CE,setembro,27.0,1991 - 2021,9
+82397.0,Fortaleza,CE,outubro,27.4,1991 - 2021,10
+82397.0,Fortaleza,CE,novembro,27.7,1991 - 2021,11
+82397.0,Fortaleza,CE,dezembro,27.8,1991 - 2021,12
+82445.0,Itaituba,PA,janeiro,26.2,1961 - 1991,1
+82445.0,Itaituba,PA,fevereiro,25.7,1961 - 1991,2
+82445.0,Itaituba,PA,marco,25.9,1961 - 1991,3
+82445.0,Itaituba,PA,abril,26.3,1961 - 1991,4
+82445.0,Itaituba,PA,maio,26.4,1961 - 1991,5
+82445.0,Itaituba,PA,junho,26.3,1961 - 1991,6
+82445.0,Itaituba,PA,julho,26.4,1961 - 1991,7
+82445.0,Itaituba,PA,agosto,27.1,1961 - 1991,8
+82445.0,Itaituba,PA,setembro,27.5,1961 - 1991,9
+82445.0,Itaituba,PA,outubro,27.7,1961 - 1991,10
+82445.0,Itaituba,PA,novembro,27.6,1961 - 1991,11
+82445.0,Itaituba,PA,dezembro,26.7,1961 - 1991,12
+82445.0,Itaituba,PA,janeiro,26.8,1981 - 2011,1
+82445.0,Itaituba,PA,fevereiro,26.5,1981 - 2011,2
+82445.0,Itaituba,PA,marco,26.5,1981 - 2011,3
+82445.0,Itaituba,PA,abril,26.8,1981 - 2011,4
+82445.0,Itaituba,PA,maio,26.9,1981 - 2011,5
+82445.0,Itaituba,PA,junho,27.0,1981 - 2011,6
+82445.0,Itaituba,PA,julho,27.1,1981 - 2011,7
+82445.0,Itaituba,PA,agosto,27.6,1981 - 2011,8
+82445.0,Itaituba,PA,setembro,28.3,1981 - 2011,9
+82445.0,Itaituba,PA,outubro,28.4,1981 - 2011,10
+82445.0,Itaituba,PA,novembro,28.1,1981 - 2011,11
+82445.0,Itaituba,PA,dezembro,27.5,1981 - 2011,12
+82445.0,Itaituba,PA,janeiro,26.9,1991 - 2021,1
+82445.0,Itaituba,PA,fevereiro,26.7,1991 - 2021,2
+82445.0,Itaituba,PA,marco,26.8,1991 - 2021,3
+82445.0,Itaituba,PA,abril,27.0,1991 - 2021,4
+82445.0,Itaituba,PA,maio,27.2,1991 - 2021,5
+82445.0,Itaituba,PA,junho,27.4,1991 - 2021,6
+82445.0,Itaituba,PA,julho,27.5,1991 - 2021,7
+82445.0,Itaituba,PA,agosto,28.2,1991 - 2021,8
+82445.0,Itaituba,PA,setembro,28.7,1991 - 2021,9
+82445.0,Itaituba,PA,outubro,28.7,1991 - 2021,10
+82445.0,Itaituba,PA,novembro,28.3,1991 - 2021,11
+82445.0,Itaituba,PA,dezembro,27.8,1991 - 2021,12
+82487.0,Guaramiranga,CE,janeiro,21.1,1961 - 1991,1
+82487.0,Guaramiranga,CE,fevereiro,20.9,1961 - 1991,2
+82487.0,Guaramiranga,CE,marco,20.8,1961 - 1991,3
+82487.0,Guaramiranga,CE,abril,20.8,1961 - 1991,4
+82487.0,Guaramiranga,CE,maio,20.5,1961 - 1991,5
+82487.0,Guaramiranga,CE,junho,19.8,1961 - 1991,6
+82487.0,Guaramiranga,CE,julho,19.5,1961 - 1991,7
+82487.0,Guaramiranga,CE,agosto,19.9,1961 - 1991,8
+82487.0,Guaramiranga,CE,setembro,20.4,1961 - 1991,9
+82487.0,Guaramiranga,CE,outubro,20.8,1961 - 1991,10
+82487.0,Guaramiranga,CE,novembro,21.0,1961 - 1991,11
+82487.0,Guaramiranga,CE,dezembro,20.9,1961 - 1991,12
+82487.0,Guaramiranga,CE,janeiro,21.3,1981 - 2011,1
+82487.0,Guaramiranga,CE,fevereiro,21.3,1981 - 2011,2
+82487.0,Guaramiranga,CE,marco,21.2,1981 - 2011,3
+82487.0,Guaramiranga,CE,abril,21.1,1981 - 2011,4
+82487.0,Guaramiranga,CE,maio,20.8,1981 - 2011,5
+82487.0,Guaramiranga,CE,junho,20.2,1981 - 2011,6
+82487.0,Guaramiranga,CE,julho,19.9,1981 - 2011,7
+82487.0,Guaramiranga,CE,agosto,20.1,1981 - 2011,8
+82487.0,Guaramiranga,CE,setembro,20.6,1981 - 2011,9
+82487.0,Guaramiranga,CE,outubro,21.0,1981 - 2011,10
+82487.0,Guaramiranga,CE,novembro,21.2,1981 - 2011,11
+82487.0,Guaramiranga,CE,dezembro,21.5,1981 - 2011,12
+82487.0,Guaramiranga,CE,janeiro,21.3,1991 - 2021,1
+82487.0,Guaramiranga,CE,fevereiro,21.3,1991 - 2021,2
+82487.0,Guaramiranga,CE,marco,21.3,1991 - 2021,3
+82487.0,Guaramiranga,CE,abril,21.2,1991 - 2021,4
+82487.0,Guaramiranga,CE,maio,21.0,1991 - 2021,5
+82487.0,Guaramiranga,CE,junho,20.3,1991 - 2021,6
+82487.0,Guaramiranga,CE,julho,20.0,1991 - 2021,7
+82487.0,Guaramiranga,CE,agosto,20.3,1991 - 2021,8
+82487.0,Guaramiranga,CE,setembro,20.7,1991 - 2021,9
+82487.0,Guaramiranga,CE,outubro,21.0,1991 - 2021,10
+82487.0,Guaramiranga,CE,novembro,21.2,1991 - 2021,11
+82487.0,Guaramiranga,CE,dezembro,21.5,1991 - 2021,12
+82562.0,Marabá,PA,janeiro,25.9,1961 - 1991,1
+82562.0,Marabá,PA,fevereiro,25.7,1961 - 1991,2
+82562.0,Marabá,PA,marco,25.9,1961 - 1991,3
+82562.0,Marabá,PA,abril,26.3,1961 - 1991,4
+82562.0,Marabá,PA,maio,26.6,1961 - 1991,5
+82562.0,Marabá,PA,junho,26.4,1961 - 1991,6
+82562.0,Marabá,PA,julho,26.3,1961 - 1991,7
+82562.0,Marabá,PA,agosto,26.9,1961 - 1991,8
+82562.0,Marabá,PA,setembro,26.9,1961 - 1991,9
+82562.0,Marabá,PA,outubro,26.6,1961 - 1991,10
+82562.0,Marabá,PA,novembro,26.5,1961 - 1991,11
+82562.0,Marabá,PA,dezembro,26.0,1961 - 1991,12
+82562.0,Marabá,PA,janeiro,26.5,1981 - 2011,1
+82562.0,Marabá,PA,fevereiro,26.4,1981 - 2011,2
+82562.0,Marabá,PA,marco,26.5,1981 - 2011,3
+82562.0,Marabá,PA,abril,27.0,1981 - 2011,4
+82562.0,Marabá,PA,maio,27.5,1981 - 2011,5
+82562.0,Marabá,PA,junho,27.5,1981 - 2011,6
+82562.0,Marabá,PA,julho,27.7,1981 - 2011,7
+82562.0,Marabá,PA,agosto,28.1,1981 - 2011,8
+82562.0,Marabá,PA,setembro,28.2,1981 - 2011,9
+82562.0,Marabá,PA,outubro,27.9,1981 - 2011,10
+82562.0,Marabá,PA,novembro,27.3,1981 - 2011,11
+82562.0,Marabá,PA,dezembro,26.7,1981 - 2011,12
+82562.0,Marabá,PA,janeiro,26.6,1991 - 2021,1
+82562.0,Marabá,PA,fevereiro,26.6,1991 - 2021,2
+82562.0,Marabá,PA,marco,26.7,1991 - 2021,3
+82562.0,Marabá,PA,abril,27.2,1991 - 2021,4
+82562.0,Marabá,PA,maio,27.7,1991 - 2021,5
+82562.0,Marabá,PA,junho,27.9,1991 - 2021,6
+82562.0,Marabá,PA,julho,27.9,1991 - 2021,7
+82562.0,Marabá,PA,agosto,28.5,1991 - 2021,8
+82562.0,Marabá,PA,setembro,28.6,1991 - 2021,9
+82562.0,Marabá,PA,outubro,28.3,1991 - 2021,10
+82562.0,Marabá,PA,novembro,27.7,1991 - 2021,11
+82562.0,Marabá,PA,dezembro,27.1,1991 - 2021,12
+82571.0,Barra do Corda,MA,janeiro,25.1,1961 - 1991,1
+82571.0,Barra do Corda,MA,fevereiro,25.0,1961 - 1991,2
+82571.0,Barra do Corda,MA,marco,25.0,1961 - 1991,3
+82571.0,Barra do Corda,MA,abril,25.2,1961 - 1991,4
+82571.0,Barra do Corda,MA,maio,24.9,1961 - 1991,5
+82571.0,Barra do Corda,MA,junho,24.6,1961 - 1991,6
+82571.0,Barra do Corda,MA,julho,24.4,1961 - 1991,7
+82571.0,Barra do Corda,MA,agosto,25.5,1961 - 1991,8
+82571.0,Barra do Corda,MA,setembro,27.0,1961 - 1991,9
+82571.0,Barra do Corda,MA,outubro,27.4,1961 - 1991,10
+82571.0,Barra do Corda,MA,novembro,26.5,1961 - 1991,11
+82571.0,Barra do Corda,MA,dezembro,25.8,1961 - 1991,12
+82571.0,Barra do Corda,MA,janeiro,25.9,1981 - 2011,1
+82571.0,Barra do Corda,MA,fevereiro,25.6,1981 - 2011,2
+82571.0,Barra do Corda,MA,marco,25.5,1981 - 2011,3
+82571.0,Barra do Corda,MA,abril,25.8,1981 - 2011,4
+82571.0,Barra do Corda,MA,maio,25.7,1981 - 2011,5
+82571.0,Barra do Corda,MA,junho,25.5,1981 - 2011,6
+82571.0,Barra do Corda,MA,julho,25.7,1981 - 2011,7
+82571.0,Barra do Corda,MA,agosto,26.9,1981 - 2011,8
+82571.0,Barra do Corda,MA,setembro,28.2,1981 - 2011,9
+82571.0,Barra do Corda,MA,outubro,28.5,1981 - 2011,10
+82571.0,Barra do Corda,MA,novembro,27.9,1981 - 2011,11
+82571.0,Barra do Corda,MA,dezembro,26.9,1981 - 2011,12
+82571.0,Barra do Corda,MA,janeiro,26.3,1991 - 2021,1
+82571.0,Barra do Corda,MA,fevereiro,26.0,1991 - 2021,2
+82571.0,Barra do Corda,MA,marco,25.9,1991 - 2021,3
+82571.0,Barra do Corda,MA,abril,26.2,1991 - 2021,4
+82571.0,Barra do Corda,MA,maio,26.3,1991 - 2021,5
+82571.0,Barra do Corda,MA,junho,26.0,1991 - 2021,6
+82571.0,Barra do Corda,MA,julho,26.2,1991 - 2021,7
+82571.0,Barra do Corda,MA,agosto,27.5,1991 - 2021,8
+82571.0,Barra do Corda,MA,setembro,28.7,1991 - 2021,9
+82571.0,Barra do Corda,MA,outubro,29.0,1991 - 2021,10
+82571.0,Barra do Corda,MA,novembro,28.2,1991 - 2021,11
+82571.0,Barra do Corda,MA,dezembro,27.3,1991 - 2021,12
+82598.0,Natal,RN,janeiro,27.0,1961 - 1991,1
+82598.0,Natal,RN,fevereiro,27.2,1961 - 1991,2
+82598.0,Natal,RN,marco,27.0,1961 - 1991,3
+82598.0,Natal,RN,abril,26.6,1961 - 1991,4
+82598.0,Natal,RN,maio,26.0,1961 - 1991,5
+82598.0,Natal,RN,junho,24.9,1961 - 1991,6
+82598.0,Natal,RN,julho,24.3,1961 - 1991,7
+82598.0,Natal,RN,agosto,24.3,1961 - 1991,8
+82598.0,Natal,RN,setembro,25.1,1961 - 1991,9
+82598.0,Natal,RN,outubro,26.0,1961 - 1991,10
+82598.0,Natal,RN,novembro,26.4,1961 - 1991,11
+82598.0,Natal,RN,dezembro,26.7,1961 - 1991,12
+82598.0,Natal,RN,janeiro,27.3,1981 - 2011,1
+82598.0,Natal,RN,fevereiro,27.5,1981 - 2011,2
+82598.0,Natal,RN,marco,27.4,1981 - 2011,3
+82598.0,Natal,RN,abril,27.0,1981 - 2011,4
+82598.0,Natal,RN,maio,26.5,1981 - 2011,5
+82598.0,Natal,RN,junho,25.2,1981 - 2011,6
+82598.0,Natal,RN,julho,24.7,1981 - 2011,7
+82598.0,Natal,RN,agosto,24.9,1981 - 2011,8
+82598.0,Natal,RN,setembro,25.7,1981 - 2011,9
+82598.0,Natal,RN,outubro,26.5,1981 - 2011,10
+82598.0,Natal,RN,novembro,26.9,1981 - 2011,11
+82598.0,Natal,RN,dezembro,27.3,1981 - 2011,12
+82598.0,Natal,RN,janeiro,27.4,1991 - 2021,1
+82598.0,Natal,RN,fevereiro,27.6,1991 - 2021,2
+82598.0,Natal,RN,marco,27.5,1991 - 2021,3
+82598.0,Natal,RN,abril,27.2,1991 - 2021,4
+82598.0,Natal,RN,maio,26.6,1991 - 2021,5
+82598.0,Natal,RN,junho,25.4,1991 - 2021,6
+82598.0,Natal,RN,julho,24.8,1991 - 2021,7
+82598.0,Natal,RN,agosto,25.0,1991 - 2021,8
+82598.0,Natal,RN,setembro,25.8,1991 - 2021,9
+82598.0,Natal,RN,outubro,26.5,1991 - 2021,10
+82598.0,Natal,RN,novembro,27.0,1991 - 2021,11
+82598.0,Natal,RN,dezembro,27.4,1991 - 2021,12
+82678.0,Floriano,PI,janeiro,25.5,1961 - 1991,1
+82678.0,Floriano,PI,fevereiro,25.5,1961 - 1991,2
+82678.0,Floriano,PI,marco,25.6,1961 - 1991,3
+82678.0,Floriano,PI,abril,25.9,1961 - 1991,4
+82678.0,Floriano,PI,maio,26.0,1961 - 1991,5
+82678.0,Floriano,PI,junho,25.9,1961 - 1991,6
+82678.0,Floriano,PI,julho,26.5,1961 - 1991,7
+82678.0,Floriano,PI,agosto,27.7,1961 - 1991,8
+82678.0,Floriano,PI,setembro,29.1,1961 - 1991,9
+82678.0,Floriano,PI,outubro,28.5,1961 - 1991,10
+82678.0,Floriano,PI,novembro,27.2,1961 - 1991,11
+82678.0,Floriano,PI,dezembro,26.5,1961 - 1991,12
+82678.0,Floriano,PI,janeiro,27.0,1981 - 2011,1
+82678.0,Floriano,PI,fevereiro,26.5,1981 - 2011,2
+82678.0,Floriano,PI,marco,26.5,1981 - 2011,3
+82678.0,Floriano,PI,abril,26.8,1981 - 2011,4
+82678.0,Floriano,PI,maio,27.0,1981 - 2011,5
+82678.0,Floriano,PI,junho,27.0,1981 - 2011,6
+82678.0,Floriano,PI,julho,27.7,1981 - 2011,7
+82678.0,Floriano,PI,agosto,29.3,1981 - 2011,8
+82678.0,Floriano,PI,setembro,30.6,1981 - 2011,9
+82678.0,Floriano,PI,outubro,30.7,1981 - 2011,10
+82678.0,Floriano,PI,novembro,29.3,1981 - 2011,11
+82678.0,Floriano,PI,dezembro,27.9,1981 - 2011,12
+82678.0,Floriano,PI,janeiro,27.1,1991 - 2021,1
+82678.0,Floriano,PI,fevereiro,26.7,1991 - 2021,2
+82678.0,Floriano,PI,marco,26.7,1991 - 2021,3
+82678.0,Floriano,PI,abril,27.1,1991 - 2021,4
+82678.0,Floriano,PI,maio,27.3,1991 - 2021,5
+82678.0,Floriano,PI,junho,27.5,1991 - 2021,6
+82678.0,Floriano,PI,julho,28.0,1991 - 2021,7
+82678.0,Floriano,PI,agosto,29.4,1991 - 2021,8
+82678.0,Floriano,PI,setembro,30.8,1991 - 2021,9
+82678.0,Floriano,PI,outubro,31.0,1991 - 2021,10
+82678.0,Floriano,PI,novembro,29.5,1991 - 2021,11
+82678.0,Floriano,PI,dezembro,28.2,1991 - 2021,12
+82693.0,Cruzeta,RN,janeiro,28.2,1961 - 1991,1
+82693.0,Cruzeta,RN,fevereiro,27.5,1961 - 1991,2
+82693.0,Cruzeta,RN,marco,27.1,1961 - 1991,3
+82693.0,Cruzeta,RN,abril,26.4,1961 - 1991,4
+82693.0,Cruzeta,RN,maio,26.0,1961 - 1991,5
+82693.0,Cruzeta,RN,junho,25.6,1961 - 1991,6
+82693.0,Cruzeta,RN,julho,25.4,1961 - 1991,7
+82693.0,Cruzeta,RN,agosto,25.9,1961 - 1991,8
+82693.0,Cruzeta,RN,setembro,26.9,1961 - 1991,9
+82693.0,Cruzeta,RN,outubro,27.7,1961 - 1991,10
+82693.0,Cruzeta,RN,novembro,27.9,1961 - 1991,11
+82693.0,Cruzeta,RN,dezembro,28.2,1961 - 1991,12
+82693.0,Cruzeta,RN,janeiro,28.3,1981 - 2011,1
+82693.0,Cruzeta,RN,fevereiro,27.9,1981 - 2011,2
+82693.0,Cruzeta,RN,marco,27.5,1981 - 2011,3
+82693.0,Cruzeta,RN,abril,26.8,1981 - 2011,4
+82693.0,Cruzeta,RN,maio,26.5,1981 - 2011,5
+82693.0,Cruzeta,RN,junho,25.8,1981 - 2011,6
+82693.0,Cruzeta,RN,julho,25.7,1981 - 2011,7
+82693.0,Cruzeta,RN,agosto,26.2,1981 - 2011,8
+82693.0,Cruzeta,RN,setembro,27.1,1981 - 2011,9
+82693.0,Cruzeta,RN,outubro,28.0,1981 - 2011,10
+82693.0,Cruzeta,RN,novembro,28.5,1981 - 2011,11
+82693.0,Cruzeta,RN,dezembro,28.6,1981 - 2011,12
+82693.0,Cruzeta,RN,janeiro,28.4,1991 - 2021,1
+82693.0,Cruzeta,RN,fevereiro,28.2,1991 - 2021,2
+82693.0,Cruzeta,RN,marco,27.8,1991 - 2021,3
+82693.0,Cruzeta,RN,abril,27.3,1991 - 2021,4
+82693.0,Cruzeta,RN,maio,27.0,1991 - 2021,5
+82693.0,Cruzeta,RN,junho,26.1,1991 - 2021,6
+82693.0,Cruzeta,RN,julho,25.9,1991 - 2021,7
+82693.0,Cruzeta,RN,agosto,26.4,1991 - 2021,8
+82693.0,Cruzeta,RN,setembro,27.3,1991 - 2021,9
+82693.0,Cruzeta,RN,outubro,28.2,1991 - 2021,10
+82693.0,Cruzeta,RN,novembro,28.7,1991 - 2021,11
+82693.0,Cruzeta,RN,dezembro,28.8,1991 - 2021,12
+82765.0,Carolina,MA,janeiro,25.0,1961 - 1991,1
+82765.0,Carolina,MA,fevereiro,25.1,1961 - 1991,2
+82765.0,Carolina,MA,marco,25.3,1961 - 1991,3
+82765.0,Carolina,MA,abril,25.8,1961 - 1991,4
+82765.0,Carolina,MA,maio,26.1,1961 - 1991,5
+82765.0,Carolina,MA,junho,26.0,1961 - 1991,6
+82765.0,Carolina,MA,julho,26.2,1961 - 1991,7
+82765.0,Carolina,MA,agosto,27.1,1961 - 1991,8
+82765.0,Carolina,MA,setembro,28.0,1961 - 1991,9
+82765.0,Carolina,MA,outubro,26.7,1961 - 1991,10
+82765.0,Carolina,MA,novembro,26.0,1961 - 1991,11
+82765.0,Carolina,MA,dezembro,25.5,1961 - 1991,12
+82765.0,Carolina,MA,janeiro,26.1,1981 - 2011,1
+82765.0,Carolina,MA,fevereiro,26.0,1981 - 2011,2
+82765.0,Carolina,MA,marco,26.1,1981 - 2011,3
+82765.0,Carolina,MA,abril,26.5,1981 - 2011,4
+82765.0,Carolina,MA,maio,26.9,1981 - 2011,5
+82765.0,Carolina,MA,junho,26.8,1981 - 2011,6
+82765.0,Carolina,MA,julho,27.2,1981 - 2011,7
+82765.0,Carolina,MA,agosto,28.5,1981 - 2011,8
+82765.0,Carolina,MA,setembro,29.0,1981 - 2011,9
+82765.0,Carolina,MA,outubro,27.7,1981 - 2011,10
+82765.0,Carolina,MA,novembro,26.8,1981 - 2011,11
+82765.0,Carolina,MA,dezembro,26.1,1981 - 2011,12
+82765.0,Carolina,MA,janeiro,26.1,1991 - 2021,1
+82765.0,Carolina,MA,fevereiro,26.2,1991 - 2021,2
+82765.0,Carolina,MA,marco,26.3,1991 - 2021,3
+82765.0,Carolina,MA,abril,26.8,1991 - 2021,4
+82765.0,Carolina,MA,maio,27.1,1991 - 2021,5
+82765.0,Carolina,MA,junho,27.0,1991 - 2021,6
+82765.0,Carolina,MA,julho,27.4,1991 - 2021,7
+82765.0,Carolina,MA,agosto,28.7,1991 - 2021,8
+82765.0,Carolina,MA,setembro,29.4,1991 - 2021,9
+82765.0,Carolina,MA,outubro,28.1,1991 - 2021,10
+82765.0,Carolina,MA,novembro,27.1,1991 - 2021,11
+82765.0,Carolina,MA,dezembro,26.5,1991 - 2021,12
+82784.0,Barbalha,CE,janeiro,25.3,1961 - 1991,1
+82784.0,Barbalha,CE,fevereiro,24.6,1961 - 1991,2
+82784.0,Barbalha,CE,marco,24.2,1961 - 1991,3
+82784.0,Barbalha,CE,abril,24.0,1961 - 1991,4
+82784.0,Barbalha,CE,maio,23.9,1961 - 1991,5
+82784.0,Barbalha,CE,junho,23.7,1961 - 1991,6
+82784.0,Barbalha,CE,julho,23.7,1961 - 1991,7
+82784.0,Barbalha,CE,agosto,24.6,1961 - 1991,8
+82784.0,Barbalha,CE,setembro,26.0,1961 - 1991,9
+82784.0,Barbalha,CE,outubro,26.4,1961 - 1991,10
+82784.0,Barbalha,CE,novembro,26.5,1961 - 1991,11
+82784.0,Barbalha,CE,dezembro,26.2,1961 - 1991,12
+82784.0,Barbalha,CE,janeiro,26.1,1981 - 2011,1
+82784.0,Barbalha,CE,fevereiro,25.4,1981 - 2011,2
+82784.0,Barbalha,CE,marco,25.3,1981 - 2011,3
+82784.0,Barbalha,CE,abril,25.1,1981 - 2011,4
+82784.0,Barbalha,CE,maio,24.7,1981 - 2011,5
+82784.0,Barbalha,CE,junho,24.4,1981 - 2011,6
+82784.0,Barbalha,CE,julho,24.4,1981 - 2011,7
+82784.0,Barbalha,CE,agosto,25.5,1981 - 2011,8
+82784.0,Barbalha,CE,setembro,26.7,1981 - 2011,9
+82784.0,Barbalha,CE,outubro,27.8,1981 - 2011,10
+82784.0,Barbalha,CE,novembro,27.8,1981 - 2011,11
+82784.0,Barbalha,CE,dezembro,27.4,1981 - 2011,12
+82784.0,Barbalha,CE,janeiro,26.2,1991 - 2021,1
+82784.0,Barbalha,CE,fevereiro,25.6,1991 - 2021,2
+82784.0,Barbalha,CE,marco,25.4,1991 - 2021,3
+82784.0,Barbalha,CE,abril,25.2,1991 - 2021,4
+82784.0,Barbalha,CE,maio,25.0,1991 - 2021,5
+82784.0,Barbalha,CE,junho,24.7,1991 - 2021,6
+82784.0,Barbalha,CE,julho,24.6,1991 - 2021,7
+82784.0,Barbalha,CE,agosto,25.5,1991 - 2021,8
+82784.0,Barbalha,CE,setembro,26.8,1991 - 2021,9
+82784.0,Barbalha,CE,outubro,27.8,1991 - 2021,10
+82784.0,Barbalha,CE,novembro,27.8,1991 - 2021,11
+82784.0,Barbalha,CE,dezembro,27.3,1991 - 2021,12
+82797.0,Surubim,PE,janeiro,24.8,1961 - 1991,1
+82797.0,Surubim,PE,fevereiro,24.9,1961 - 1991,2
+82797.0,Surubim,PE,marco,24.6,1961 - 1991,3
+82797.0,Surubim,PE,abril,24.3,1961 - 1991,4
+82797.0,Surubim,PE,maio,23.3,1961 - 1991,5
+82797.0,Surubim,PE,junho,22.3,1961 - 1991,6
+82797.0,Surubim,PE,julho,21.6,1961 - 1991,7
+82797.0,Surubim,PE,agosto,21.9,1961 - 1991,8
+82797.0,Surubim,PE,setembro,22.7,1961 - 1991,9
+82797.0,Surubim,PE,outubro,23.8,1961 - 1991,10
+82797.0,Surubim,PE,novembro,24.4,1961 - 1991,11
+82797.0,Surubim,PE,dezembro,24.7,1961 - 1991,12
+82797.0,Surubim,PE,janeiro,25.3,1981 - 2011,1
+82797.0,Surubim,PE,fevereiro,25.5,1981 - 2011,2
+82797.0,Surubim,PE,marco,25.5,1981 - 2011,3
+82797.0,Surubim,PE,abril,25.0,1981 - 2011,4
+82797.0,Surubim,PE,maio,24.1,1981 - 2011,5
+82797.0,Surubim,PE,junho,22.6,1981 - 2011,6
+82797.0,Surubim,PE,julho,21.9,1981 - 2011,7
+82797.0,Surubim,PE,agosto,21.8,1981 - 2011,8
+82797.0,Surubim,PE,setembro,22.8,1981 - 2011,9
+82797.0,Surubim,PE,outubro,24.1,1981 - 2011,10
+82797.0,Surubim,PE,novembro,24.8,1981 - 2011,11
+82797.0,Surubim,PE,dezembro,25.2,1981 - 2011,12
+82797.0,Surubim,PE,janeiro,25.3,1991 - 2021,1
+82797.0,Surubim,PE,fevereiro,25.6,1991 - 2021,2
+82797.0,Surubim,PE,marco,25.6,1991 - 2021,3
+82797.0,Surubim,PE,abril,25.2,1991 - 2021,4
+82797.0,Surubim,PE,maio,24.1,1991 - 2021,5
+82797.0,Surubim,PE,junho,22.7,1991 - 2021,6
+82797.0,Surubim,PE,julho,21.9,1991 - 2021,7
+82797.0,Surubim,PE,agosto,22.0,1991 - 2021,8
+82797.0,Surubim,PE,setembro,22.9,1991 - 2021,9
+82797.0,Surubim,PE,outubro,24.1,1991 - 2021,10
+82797.0,Surubim,PE,novembro,24.9,1991 - 2021,11
+82797.0,Surubim,PE,dezembro,25.3,1991 - 2021,12
+82798.0,João Pessoa,PB,janeiro,27.1,1961 - 1991,1
+82798.0,João Pessoa,PB,fevereiro,27.2,1961 - 1991,2
+82798.0,João Pessoa,PB,marco,27.0,1961 - 1991,3
+82798.0,João Pessoa,PB,abril,26.7,1961 - 1991,4
+82798.0,João Pessoa,PB,maio,26.0,1961 - 1991,5
+82798.0,João Pessoa,PB,junho,25.2,1961 - 1991,6
+82798.0,João Pessoa,PB,julho,24.2,1961 - 1991,7
+82798.0,João Pessoa,PB,agosto,24.3,1961 - 1991,8
+82798.0,João Pessoa,PB,setembro,25.1,1961 - 1991,9
+82798.0,João Pessoa,PB,outubro,26.3,1961 - 1991,10
+82798.0,João Pessoa,PB,novembro,26.7,1961 - 1991,11
+82798.0,João Pessoa,PB,dezembro,26.9,1961 - 1991,12
+82798.0,João Pessoa,PB,janeiro,27.8,1981 - 2011,1
+82798.0,João Pessoa,PB,fevereiro,27.9,1981 - 2011,2
+82798.0,João Pessoa,PB,marco,27.9,1981 - 2011,3
+82798.0,João Pessoa,PB,abril,27.5,1981 - 2011,4
+82798.0,João Pessoa,PB,maio,26.8,1981 - 2011,5
+82798.0,João Pessoa,PB,junho,25.6,1981 - 2011,6
+82798.0,João Pessoa,PB,julho,25.1,1981 - 2011,7
+82798.0,João Pessoa,PB,agosto,25.2,1981 - 2011,8
+82798.0,João Pessoa,PB,setembro,26.2,1981 - 2011,9
+82798.0,João Pessoa,PB,outubro,27.0,1981 - 2011,10
+82798.0,João Pessoa,PB,novembro,27.4,1981 - 2011,11
+82798.0,João Pessoa,PB,dezembro,27.7,1981 - 2011,12
+82798.0,João Pessoa,PB,janeiro,27.9,1991 - 2021,1
+82798.0,João Pessoa,PB,fevereiro,28.1,1991 - 2021,2
+82798.0,João Pessoa,PB,marco,28.1,1991 - 2021,3
+82798.0,João Pessoa,PB,abril,27.6,1991 - 2021,4
+82798.0,João Pessoa,PB,maio,26.9,1991 - 2021,5
+82798.0,João Pessoa,PB,junho,25.7,1991 - 2021,6
+82798.0,João Pessoa,PB,julho,25.2,1991 - 2021,7
+82798.0,João Pessoa,PB,agosto,25.4,1991 - 2021,8
+82798.0,João Pessoa,PB,setembro,26.3,1991 - 2021,9
+82798.0,João Pessoa,PB,outubro,27.1,1991 - 2021,10
+82798.0,João Pessoa,PB,novembro,27.6,1991 - 2021,11
+82798.0,João Pessoa,PB,dezembro,27.9,1991 - 2021,12
+82861.0,Conceição do Araguaia,PA,janeiro,25.1,1961 - 1991,1
+82861.0,Conceição do Araguaia,PA,fevereiro,25.1,1961 - 1991,2
+82861.0,Conceição do Araguaia,PA,marco,25.3,1961 - 1991,3
+82861.0,Conceição do Araguaia,PA,abril,25.6,1961 - 1991,4
+82861.0,Conceição do Araguaia,PA,maio,25.9,1961 - 1991,5
+82861.0,Conceição do Araguaia,PA,junho,25.3,1961 - 1991,6
+82861.0,Conceição do Araguaia,PA,julho,25.1,1961 - 1991,7
+82861.0,Conceição do Araguaia,PA,agosto,25.9,1961 - 1991,8
+82861.0,Conceição do Araguaia,PA,setembro,26.4,1961 - 1991,9
+82861.0,Conceição do Araguaia,PA,outubro,25.8,1961 - 1991,10
+82861.0,Conceição do Araguaia,PA,novembro,25.6,1961 - 1991,11
+82861.0,Conceição do Araguaia,PA,dezembro,25.2,1961 - 1991,12
+82861.0,Conceição do Araguaia,PA,janeiro,26.0,1981 - 2011,1
+82861.0,Conceição do Araguaia,PA,fevereiro,26.0,1981 - 2011,2
+82861.0,Conceição do Araguaia,PA,marco,26.0,1981 - 2011,3
+82861.0,Conceição do Araguaia,PA,abril,26.7,1981 - 2011,4
+82861.0,Conceição do Araguaia,PA,maio,27.3,1981 - 2011,5
+82861.0,Conceição do Araguaia,PA,junho,27.3,1981 - 2011,6
+82861.0,Conceição do Araguaia,PA,julho,27.5,1981 - 2011,7
+82861.0,Conceição do Araguaia,PA,agosto,28.2,1981 - 2011,8
+82861.0,Conceição do Araguaia,PA,setembro,28.1,1981 - 2011,9
+82861.0,Conceição do Araguaia,PA,outubro,27.1,1981 - 2011,10
+82861.0,Conceição do Araguaia,PA,novembro,26.5,1981 - 2011,11
+82861.0,Conceição do Araguaia,PA,dezembro,26.2,1981 - 2011,12
+82861.0,Conceição do Araguaia,PA,janeiro,26.3,1991 - 2021,1
+82861.0,Conceição do Araguaia,PA,fevereiro,26.3,1991 - 2021,2
+82861.0,Conceição do Araguaia,PA,marco,26.5,1991 - 2021,3
+82861.0,Conceição do Araguaia,PA,abril,26.9,1991 - 2021,4
+82861.0,Conceição do Araguaia,PA,maio,27.7,1991 - 2021,5
+82861.0,Conceição do Araguaia,PA,junho,27.8,1991 - 2021,6
+82861.0,Conceição do Araguaia,PA,julho,28.0,1991 - 2021,7
+82861.0,Conceição do Araguaia,PA,agosto,28.8,1991 - 2021,8
+82861.0,Conceição do Araguaia,PA,setembro,28.9,1991 - 2021,9
+82861.0,Conceição do Araguaia,PA,outubro,27.8,1991 - 2021,10
+82861.0,Conceição do Araguaia,PA,novembro,26.9,1991 - 2021,11
+82861.0,Conceição do Araguaia,PA,dezembro,26.5,1991 - 2021,12
+82863.0,Pedro Afonso,TO,janeiro,25.3,1961 - 1991,1
+82863.0,Pedro Afonso,TO,fevereiro,25.4,1961 - 1991,2
+82863.0,Pedro Afonso,TO,marco,25.6,1961 - 1991,3
+82863.0,Pedro Afonso,TO,abril,26.0,1961 - 1991,4
+82863.0,Pedro Afonso,TO,maio,26.2,1961 - 1991,5
+82863.0,Pedro Afonso,TO,junho,25.3,1961 - 1991,6
+82863.0,Pedro Afonso,TO,julho,25.4,1961 - 1991,7
+82863.0,Pedro Afonso,TO,agosto,26.4,1961 - 1991,8
+82863.0,Pedro Afonso,TO,setembro,27.2,1961 - 1991,9
+82863.0,Pedro Afonso,TO,outubro,26.4,1961 - 1991,10
+82863.0,Pedro Afonso,TO,novembro,25.9,1961 - 1991,11
+82863.0,Pedro Afonso,TO,dezembro,25.5,1961 - 1991,12
+82863.0,Pedro Afonso,TO,janeiro,25.8,1981 - 2011,1
+82863.0,Pedro Afonso,TO,fevereiro,25.8,1981 - 2011,2
+82863.0,Pedro Afonso,TO,marco,25.9,1981 - 2011,3
+82863.0,Pedro Afonso,TO,abril,26.3,1981 - 2011,4
+82863.0,Pedro Afonso,TO,maio,26.5,1981 - 2011,5
+82863.0,Pedro Afonso,TO,junho,25.6,1981 - 2011,6
+82863.0,Pedro Afonso,TO,julho,25.5,1981 - 2011,7
+82863.0,Pedro Afonso,TO,agosto,26.7,1981 - 2011,8
+82863.0,Pedro Afonso,TO,setembro,27.8,1981 - 2011,9
+82863.0,Pedro Afonso,TO,outubro,27.0,1981 - 2011,10
+82863.0,Pedro Afonso,TO,novembro,26.4,1981 - 2011,11
+82863.0,Pedro Afonso,TO,dezembro,26.0,1981 - 2011,12
+82863.0,Pedro Afonso,TO,janeiro,26.0,1991 - 2021,1
+82863.0,Pedro Afonso,TO,fevereiro,26.0,1991 - 2021,2
+82863.0,Pedro Afonso,TO,marco,26.2,1991 - 2021,3
+82863.0,Pedro Afonso,TO,abril,26.7,1991 - 2021,4
+82863.0,Pedro Afonso,TO,maio,26.8,1991 - 2021,5
+82863.0,Pedro Afonso,TO,junho,26.0,1991 - 2021,6
+82863.0,Pedro Afonso,TO,julho,25.7,1991 - 2021,7
+82863.0,Pedro Afonso,TO,agosto,27.0,1991 - 2021,8
+82863.0,Pedro Afonso,TO,setembro,28.3,1991 - 2021,9
+82863.0,Pedro Afonso,TO,outubro,27.6,1991 - 2021,10
+82863.0,Pedro Afonso,TO,novembro,26.8,1991 - 2021,11
+82863.0,Pedro Afonso,TO,dezembro,26.4,1991 - 2021,12
+82900.0,Recife (Curado),PE,janeiro,26.5,1961 - 1991,1
+82900.0,Recife (Curado),PE,fevereiro,26.5,1961 - 1991,2
+82900.0,Recife (Curado),PE,marco,26.4,1961 - 1991,3
+82900.0,Recife (Curado),PE,abril,25.9,1961 - 1991,4
+82900.0,Recife (Curado),PE,maio,25.2,1961 - 1991,5
+82900.0,Recife (Curado),PE,junho,24.5,1961 - 1991,6
+82900.0,Recife (Curado),PE,julho,23.9,1961 - 1991,7
+82900.0,Recife (Curado),PE,agosto,23.9,1961 - 1991,8
+82900.0,Recife (Curado),PE,setembro,24.6,1961 - 1991,9
+82900.0,Recife (Curado),PE,outubro,25.5,1961 - 1991,10
+82900.0,Recife (Curado),PE,novembro,26.1,1961 - 1991,11
+82900.0,Recife (Curado),PE,dezembro,26.4,1961 - 1991,12
+82900.0,Recife (Curado),PE,janeiro,26.9,1981 - 2011,1
+82900.0,Recife (Curado),PE,fevereiro,27.1,1981 - 2011,2
+82900.0,Recife (Curado),PE,marco,27.1,1981 - 2011,3
+82900.0,Recife (Curado),PE,abril,26.5,1981 - 2011,4
+82900.0,Recife (Curado),PE,maio,25.7,1981 - 2011,5
+82900.0,Recife (Curado),PE,junho,24.7,1981 - 2011,6
+82900.0,Recife (Curado),PE,julho,24.1,1981 - 2011,7
+82900.0,Recife (Curado),PE,agosto,24.2,1981 - 2011,8
+82900.0,Recife (Curado),PE,setembro,25.1,1981 - 2011,9
+82900.0,Recife (Curado),PE,outubro,25.9,1981 - 2011,10
+82900.0,Recife (Curado),PE,novembro,26.6,1981 - 2011,11
+82900.0,Recife (Curado),PE,dezembro,26.9,1981 - 2011,12
+82900.0,Recife (Curado),PE,janeiro,27.1,1991 - 2021,1
+82900.0,Recife (Curado),PE,fevereiro,27.3,1991 - 2021,2
+82900.0,Recife (Curado),PE,marco,27.2,1991 - 2021,3
+82900.0,Recife (Curado),PE,abril,26.6,1991 - 2021,4
+82900.0,Recife (Curado),PE,maio,25.8,1991 - 2021,5
+82900.0,Recife (Curado),PE,junho,24.8,1991 - 2021,6
+82900.0,Recife (Curado),PE,julho,24.2,1991 - 2021,7
+82900.0,Recife (Curado),PE,agosto,24.2,1991 - 2021,8
+82900.0,Recife (Curado),PE,setembro,25.2,1991 - 2021,9
+82900.0,Recife (Curado),PE,outubro,26.1,1991 - 2021,10
+82900.0,Recife (Curado),PE,novembro,26.7,1991 - 2021,11
+82900.0,Recife (Curado),PE,dezembro,27.1,1991 - 2021,12
+82983.0,Petrolina,PE,janeiro,27.2,1961 - 1991,1
+82983.0,Petrolina,PE,fevereiro,26.8,1961 - 1991,2
+82983.0,Petrolina,PE,marco,27.1,1961 - 1991,3
+82983.0,Petrolina,PE,abril,26.2,1961 - 1991,4
+82983.0,Petrolina,PE,maio,25.5,1961 - 1991,5
+82983.0,Petrolina,PE,junho,24.5,1961 - 1991,6
+82983.0,Petrolina,PE,julho,24.1,1961 - 1991,7
+82983.0,Petrolina,PE,agosto,24.7,1961 - 1991,8
+82983.0,Petrolina,PE,setembro,26.2,1961 - 1991,9
+82983.0,Petrolina,PE,outubro,27.7,1961 - 1991,10
+82983.0,Petrolina,PE,novembro,28.2,1961 - 1991,11
+82983.0,Petrolina,PE,dezembro,27.6,1961 - 1991,12
+82983.0,Petrolina,PE,janeiro,28.0,1981 - 2011,1
+82983.0,Petrolina,PE,fevereiro,27.8,1981 - 2011,2
+82983.0,Petrolina,PE,marco,27.5,1981 - 2011,3
+82983.0,Petrolina,PE,abril,27.2,1981 - 2011,4
+82983.0,Petrolina,PE,maio,26.3,1981 - 2011,5
+82983.0,Petrolina,PE,junho,24.9,1981 - 2011,6
+82983.0,Petrolina,PE,julho,24.4,1981 - 2011,7
+82983.0,Petrolina,PE,agosto,25.1,1981 - 2011,8
+82983.0,Petrolina,PE,setembro,26.7,1981 - 2011,9
+82983.0,Petrolina,PE,outubro,28.4,1981 - 2011,10
+82983.0,Petrolina,PE,novembro,28.6,1981 - 2011,11
+82983.0,Petrolina,PE,dezembro,28.4,1981 - 2011,12
+82983.0,Petrolina,PE,janeiro,28.2,1991 - 2021,1
+82983.0,Petrolina,PE,fevereiro,28.1,1991 - 2021,2
+82983.0,Petrolina,PE,marco,28.0,1991 - 2021,3
+82983.0,Petrolina,PE,abril,27.6,1991 - 2021,4
+82983.0,Petrolina,PE,maio,26.6,1991 - 2021,5
+82983.0,Petrolina,PE,junho,25.2,1991 - 2021,6
+82983.0,Petrolina,PE,julho,24.6,1991 - 2021,7
+82983.0,Petrolina,PE,agosto,25.2,1991 - 2021,8
+82983.0,Petrolina,PE,setembro,26.9,1991 - 2021,9
+82983.0,Petrolina,PE,outubro,28.5,1991 - 2021,10
+82983.0,Petrolina,PE,novembro,28.8,1991 - 2021,11
+82983.0,Petrolina,PE,dezembro,28.6,1991 - 2021,12
+83096.0,Aracaju,SE,janeiro,27.0,1961 - 1991,1
+83096.0,Aracaju,SE,fevereiro,27.1,1961 - 1991,2
+83096.0,Aracaju,SE,marco,27.1,1961 - 1991,3
+83096.0,Aracaju,SE,abril,26.7,1961 - 1991,4
+83096.0,Aracaju,SE,maio,26.0,1961 - 1991,5
+83096.0,Aracaju,SE,junho,25.1,1961 - 1991,6
+83096.0,Aracaju,SE,julho,24.4,1961 - 1991,7
+83096.0,Aracaju,SE,agosto,24.4,1961 - 1991,8
+83096.0,Aracaju,SE,setembro,25.0,1961 - 1991,9
+83096.0,Aracaju,SE,outubro,25.9,1961 - 1991,10
+83096.0,Aracaju,SE,novembro,26.3,1961 - 1991,11
+83096.0,Aracaju,SE,dezembro,26.6,1961 - 1991,12
+83096.0,Aracaju,SE,janeiro,27.2,1981 - 2011,1
+83096.0,Aracaju,SE,fevereiro,27.5,1981 - 2011,2
+83096.0,Aracaju,SE,marco,27.6,1981 - 2011,3
+83096.0,Aracaju,SE,abril,27.2,1981 - 2011,4
+83096.0,Aracaju,SE,maio,26.3,1981 - 2011,5
+83096.0,Aracaju,SE,junho,25.4,1981 - 2011,6
+83096.0,Aracaju,SE,julho,24.7,1981 - 2011,7
+83096.0,Aracaju,SE,agosto,24.8,1981 - 2011,8
+83096.0,Aracaju,SE,setembro,25.3,1981 - 2011,9
+83096.0,Aracaju,SE,outubro,26.1,1981 - 2011,10
+83096.0,Aracaju,SE,novembro,26.6,1981 - 2011,11
+83096.0,Aracaju,SE,dezembro,27.0,1981 - 2011,12
+83096.0,Aracaju,SE,janeiro,27.3,1991 - 2021,1
+83096.0,Aracaju,SE,fevereiro,27.5,1991 - 2021,2
+83096.0,Aracaju,SE,marco,27.7,1991 - 2021,3
+83096.0,Aracaju,SE,abril,27.3,1991 - 2021,4
+83096.0,Aracaju,SE,maio,26.5,1991 - 2021,5
+83096.0,Aracaju,SE,junho,25.6,1991 - 2021,6
+83096.0,Aracaju,SE,julho,24.9,1991 - 2021,7
+83096.0,Aracaju,SE,agosto,24.9,1991 - 2021,8
+83096.0,Aracaju,SE,setembro,25.4,1991 - 2021,9
+83096.0,Aracaju,SE,outubro,26.2,1991 - 2021,10
+83096.0,Aracaju,SE,novembro,26.7,1991 - 2021,11
+83096.0,Aracaju,SE,dezembro,27.1,1991 - 2021,12
+83097.0,Propriá,SE,janeiro,27.1,1961 - 1991,1
+83097.0,Propriá,SE,fevereiro,27.1,1961 - 1991,2
+83097.0,Propriá,SE,marco,26.9,1961 - 1991,3
+83097.0,Propriá,SE,abril,26.2,1961 - 1991,4
+83097.0,Propriá,SE,maio,25.0,1961 - 1991,5
+83097.0,Propriá,SE,junho,23.8,1961 - 1991,6
+83097.0,Propriá,SE,julho,22.9,1961 - 1991,7
+83097.0,Propriá,SE,agosto,22.9,1961 - 1991,8
+83097.0,Propriá,SE,setembro,23.8,1961 - 1991,9
+83097.0,Propriá,SE,outubro,25.3,1961 - 1991,10
+83097.0,Propriá,SE,novembro,26.5,1961 - 1991,11
+83097.0,Propriá,SE,dezembro,26.9,1961 - 1991,12
+83097.0,Propriá,SE,janeiro,27.5,1981 - 2011,1
+83097.0,Propriá,SE,fevereiro,27.8,1981 - 2011,2
+83097.0,Propriá,SE,marco,27.8,1981 - 2011,3
+83097.0,Propriá,SE,abril,26.7,1981 - 2011,4
+83097.0,Propriá,SE,maio,25.6,1981 - 2011,5
+83097.0,Propriá,SE,junho,24.1,1981 - 2011,6
+83097.0,Propriá,SE,julho,23.5,1981 - 2011,7
+83097.0,Propriá,SE,agosto,23.5,1981 - 2011,8
+83097.0,Propriá,SE,setembro,24.5,1981 - 2011,9
+83097.0,Propriá,SE,outubro,25.9,1981 - 2011,10
+83097.0,Propriá,SE,novembro,27.1,1981 - 2011,11
+83097.0,Propriá,SE,dezembro,27.5,1981 - 2011,12
+83097.0,Propriá,SE,janeiro,27.7,1991 - 2021,1
+83097.0,Propriá,SE,fevereiro,28.0,1991 - 2021,2
+83097.0,Propriá,SE,marco,28.0,1991 - 2021,3
+83097.0,Propriá,SE,abril,27.1,1991 - 2021,4
+83097.0,Propriá,SE,maio,25.9,1991 - 2021,5
+83097.0,Propriá,SE,junho,24.4,1991 - 2021,6
+83097.0,Propriá,SE,julho,23.6,1991 - 2021,7
+83097.0,Propriá,SE,agosto,23.7,1991 - 2021,8
+83097.0,Propriá,SE,setembro,24.6,1991 - 2021,9
+83097.0,Propriá,SE,outubro,26.1,1991 - 2021,10
+83097.0,Propriá,SE,novembro,27.2,1991 - 2021,11
+83097.0,Propriá,SE,dezembro,27.7,1991 - 2021,12
+83184.0,Morro do Chapéu,BA,janeiro,20.8,1961 - 1991,1
+83184.0,Morro do Chapéu,BA,fevereiro,21.0,1961 - 1991,2
+83184.0,Morro do Chapéu,BA,marco,20.8,1961 - 1991,3
+83184.0,Morro do Chapéu,BA,abril,20.4,1961 - 1991,4
+83184.0,Morro do Chapéu,BA,maio,18.9,1961 - 1991,5
+83184.0,Morro do Chapéu,BA,junho,17.4,1961 - 1991,6
+83184.0,Morro do Chapéu,BA,julho,16.8,1961 - 1991,7
+83184.0,Morro do Chapéu,BA,agosto,17.4,1961 - 1991,8
+83184.0,Morro do Chapéu,BA,setembro,18.7,1961 - 1991,9
+83184.0,Morro do Chapéu,BA,outubro,20.2,1961 - 1991,10
+83184.0,Morro do Chapéu,BA,novembro,20.8,1961 - 1991,11
+83184.0,Morro do Chapéu,BA,dezembro,20.7,1961 - 1991,12
+83184.0,Morro do Chapéu,BA,janeiro,22.1,1981 - 2011,1
+83184.0,Morro do Chapéu,BA,fevereiro,22.4,1981 - 2011,2
+83184.0,Morro do Chapéu,BA,marco,22.1,1981 - 2011,3
+83184.0,Morro do Chapéu,BA,abril,21.3,1981 - 2011,4
+83184.0,Morro do Chapéu,BA,maio,20.0,1981 - 2011,5
+83184.0,Morro do Chapéu,BA,junho,18.4,1981 - 2011,6
+83184.0,Morro do Chapéu,BA,julho,17.7,1981 - 2011,7
+83184.0,Morro do Chapéu,BA,agosto,18.1,1981 - 2011,8
+83184.0,Morro do Chapéu,BA,setembro,19.6,1981 - 2011,9
+83184.0,Morro do Chapéu,BA,outubro,21.2,1981 - 2011,10
+83184.0,Morro do Chapéu,BA,novembro,21.7,1981 - 2011,11
+83184.0,Morro do Chapéu,BA,dezembro,21.9,1981 - 2011,12
+83184.0,Morro do Chapéu,BA,janeiro,22.3,1991 - 2021,1
+83184.0,Morro do Chapéu,BA,fevereiro,22.5,1991 - 2021,2
+83184.0,Morro do Chapéu,BA,marco,22.5,1991 - 2021,3
+83184.0,Morro do Chapéu,BA,abril,21.6,1991 - 2021,4
+83184.0,Morro do Chapéu,BA,maio,20.2,1991 - 2021,5
+83184.0,Morro do Chapéu,BA,junho,18.7,1991 - 2021,6
+83184.0,Morro do Chapéu,BA,julho,17.9,1991 - 2021,7
+83184.0,Morro do Chapéu,BA,agosto,18.3,1991 - 2021,8
+83184.0,Morro do Chapéu,BA,setembro,19.7,1991 - 2021,9
+83184.0,Morro do Chapéu,BA,outubro,21.4,1991 - 2021,10
+83184.0,Morro do Chapéu,BA,novembro,21.8,1991 - 2021,11
+83184.0,Morro do Chapéu,BA,dezembro,22.2,1991 - 2021,12
+83192.0,Cipó,BA,janeiro,26.7,1961 - 1991,1
+83192.0,Cipó,BA,fevereiro,26.8,1961 - 1991,2
+83192.0,Cipó,BA,marco,26.4,1961 - 1991,3
+83192.0,Cipó,BA,abril,25.8,1961 - 1991,4
+83192.0,Cipó,BA,maio,24.5,1961 - 1991,5
+83192.0,Cipó,BA,junho,23.1,1961 - 1991,6
+83192.0,Cipó,BA,julho,22.6,1961 - 1991,7
+83192.0,Cipó,BA,agosto,22.5,1961 - 1991,8
+83192.0,Cipó,BA,setembro,23.8,1961 - 1991,9
+83192.0,Cipó,BA,outubro,25.3,1961 - 1991,10
+83192.0,Cipó,BA,novembro,26.2,1961 - 1991,11
+83192.0,Cipó,BA,dezembro,26.5,1961 - 1991,12
+83192.0,Cipó,BA,janeiro,27.3,1981 - 2011,1
+83192.0,Cipó,BA,fevereiro,27.5,1981 - 2011,2
+83192.0,Cipó,BA,marco,27.4,1981 - 2011,3
+83192.0,Cipó,BA,abril,26.6,1981 - 2011,4
+83192.0,Cipó,BA,maio,25.1,1981 - 2011,5
+83192.0,Cipó,BA,junho,23.5,1981 - 2011,6
+83192.0,Cipó,BA,julho,22.7,1981 - 2011,7
+83192.0,Cipó,BA,agosto,22.8,1981 - 2011,8
+83192.0,Cipó,BA,setembro,24.1,1981 - 2011,9
+83192.0,Cipó,BA,outubro,25.8,1981 - 2011,10
+83192.0,Cipó,BA,novembro,26.7,1981 - 2011,11
+83192.0,Cipó,BA,dezembro,27.3,1981 - 2011,12
+83192.0,Cipó,BA,janeiro,27.4,1991 - 2021,1
+83192.0,Cipó,BA,fevereiro,27.4,1991 - 2021,2
+83192.0,Cipó,BA,marco,27.5,1991 - 2021,3
+83192.0,Cipó,BA,abril,26.7,1991 - 2021,4
+83192.0,Cipó,BA,maio,25.2,1991 - 2021,5
+83192.0,Cipó,BA,junho,23.5,1991 - 2021,6
+83192.0,Cipó,BA,julho,22.7,1991 - 2021,7
+83192.0,Cipó,BA,agosto,22.9,1991 - 2021,8
+83192.0,Cipó,BA,setembro,24.2,1991 - 2021,9
+83192.0,Cipó,BA,outubro,25.7,1991 - 2021,10
+83192.0,Cipó,BA,novembro,26.7,1991 - 2021,11
+83192.0,Cipó,BA,dezembro,27.2,1991 - 2021,12
+83195.0,Itabaianinha,SE,janeiro,25.3,1961 - 1991,1
+83195.0,Itabaianinha,SE,fevereiro,25.4,1961 - 1991,2
+83195.0,Itabaianinha,SE,marco,25.3,1961 - 1991,3
+83195.0,Itabaianinha,SE,abril,24.7,1961 - 1991,4
+83195.0,Itabaianinha,SE,maio,23.8,1961 - 1991,5
+83195.0,Itabaianinha,SE,junho,22.5,1961 - 1991,6
+83195.0,Itabaianinha,SE,julho,21.8,1961 - 1991,7
+83195.0,Itabaianinha,SE,agosto,21.7,1961 - 1991,8
+83195.0,Itabaianinha,SE,setembro,22.5,1961 - 1991,9
+83195.0,Itabaianinha,SE,outubro,23.8,1961 - 1991,10
+83195.0,Itabaianinha,SE,novembro,24.7,1961 - 1991,11
+83195.0,Itabaianinha,SE,dezembro,25.0,1961 - 1991,12
+83195.0,Itabaianinha,SE,janeiro,26.0,1981 - 2011,1
+83195.0,Itabaianinha,SE,fevereiro,26.1,1981 - 2011,2
+83195.0,Itabaianinha,SE,marco,26.1,1981 - 2011,3
+83195.0,Itabaianinha,SE,abril,25.5,1981 - 2011,4
+83195.0,Itabaianinha,SE,maio,24.3,1981 - 2011,5
+83195.0,Itabaianinha,SE,junho,23.0,1981 - 2011,6
+83195.0,Itabaianinha,SE,julho,22.2,1981 - 2011,7
+83195.0,Itabaianinha,SE,agosto,22.2,1981 - 2011,8
+83195.0,Itabaianinha,SE,setembro,23.2,1981 - 2011,9
+83195.0,Itabaianinha,SE,outubro,24.4,1981 - 2011,10
+83195.0,Itabaianinha,SE,novembro,25.4,1981 - 2011,11
+83195.0,Itabaianinha,SE,dezembro,25.9,1981 - 2011,12
+83195.0,Itabaianinha,SE,janeiro,26.1,1991 - 2021,1
+83195.0,Itabaianinha,SE,fevereiro,26.2,1991 - 2021,2
+83195.0,Itabaianinha,SE,marco,26.3,1991 - 2021,3
+83195.0,Itabaianinha,SE,abril,25.6,1991 - 2021,4
+83195.0,Itabaianinha,SE,maio,24.3,1991 - 2021,5
+83195.0,Itabaianinha,SE,junho,23.1,1991 - 2021,6
+83195.0,Itabaianinha,SE,julho,22.3,1991 - 2021,7
+83195.0,Itabaianinha,SE,agosto,22.3,1991 - 2021,8
+83195.0,Itabaianinha,SE,setembro,23.2,1991 - 2021,9
+83195.0,Itabaianinha,SE,outubro,24.5,1991 - 2021,10
+83195.0,Itabaianinha,SE,novembro,25.3,1991 - 2021,11
+83195.0,Itabaianinha,SE,dezembro,25.9,1991 - 2021,12
+83228.0,Peixe,TO,janeiro,25.5,1961 - 1991,1
+83228.0,Peixe,TO,fevereiro,25.5,1961 - 1991,2
+83228.0,Peixe,TO,marco,25.7,1961 - 1991,3
+83228.0,Peixe,TO,abril,26.0,1961 - 1991,4
+83228.0,Peixe,TO,maio,25.6,1961 - 1991,5
+83228.0,Peixe,TO,junho,24.1,1961 - 1991,6
+83228.0,Peixe,TO,julho,24.1,1961 - 1991,7
+83228.0,Peixe,TO,agosto,25.6,1961 - 1991,8
+83228.0,Peixe,TO,setembro,27.1,1961 - 1991,9
+83228.0,Peixe,TO,outubro,26.8,1961 - 1991,10
+83228.0,Peixe,TO,novembro,26.1,1961 - 1991,11
+83228.0,Peixe,TO,dezembro,25.5,1961 - 1991,12
+83228.0,Peixe,TO,janeiro,25.9,1981 - 2011,1
+83228.0,Peixe,TO,fevereiro,25.9,1981 - 2011,2
+83228.0,Peixe,TO,marco,26.0,1981 - 2011,3
+83228.0,Peixe,TO,abril,26.4,1981 - 2011,4
+83228.0,Peixe,TO,maio,26.0,1981 - 2011,5
+83228.0,Peixe,TO,junho,24.6,1981 - 2011,6
+83228.0,Peixe,TO,julho,24.4,1981 - 2011,7
+83228.0,Peixe,TO,agosto,26.1,1981 - 2011,8
+83228.0,Peixe,TO,setembro,27.8,1981 - 2011,9
+83228.0,Peixe,TO,outubro,27.5,1981 - 2011,10
+83228.0,Peixe,TO,novembro,26.5,1981 - 2011,11
+83228.0,Peixe,TO,dezembro,25.9,1981 - 2011,12
+83228.0,Peixe,TO,janeiro,26.1,1991 - 2021,1
+83228.0,Peixe,TO,fevereiro,26.0,1991 - 2021,2
+83228.0,Peixe,TO,marco,26.2,1991 - 2021,3
+83228.0,Peixe,TO,abril,26.5,1991 - 2021,4
+83228.0,Peixe,TO,maio,26.1,1991 - 2021,5
+83228.0,Peixe,TO,junho,24.8,1991 - 2021,6
+83228.0,Peixe,TO,julho,24.5,1991 - 2021,7
+83228.0,Peixe,TO,agosto,26.2,1991 - 2021,8
+83228.0,Peixe,TO,setembro,28.2,1991 - 2021,9
+83228.0,Peixe,TO,outubro,28.1,1991 - 2021,10
+83228.0,Peixe,TO,novembro,26.8,1991 - 2021,11
+83228.0,Peixe,TO,dezembro,26.3,1991 - 2021,12
+83229.0,Salvador (Ondina),BA,janeiro,26.4,1961 - 1991,1
+83229.0,Salvador (Ondina),BA,fevereiro,26.5,1961 - 1991,2
+83229.0,Salvador (Ondina),BA,marco,26.6,1961 - 1991,3
+83229.0,Salvador (Ondina),BA,abril,26.2,1961 - 1991,4
+83229.0,Salvador (Ondina),BA,maio,25.2,1961 - 1991,5
+83229.0,Salvador (Ondina),BA,junho,24.3,1961 - 1991,6
+83229.0,Salvador (Ondina),BA,julho,23.7,1961 - 1991,7
+83229.0,Salvador (Ondina),BA,agosto,23.6,1961 - 1991,8
+83229.0,Salvador (Ondina),BA,setembro,24.3,1961 - 1991,9
+83229.0,Salvador (Ondina),BA,outubro,25.1,1961 - 1991,10
+83229.0,Salvador (Ondina),BA,novembro,25.5,1961 - 1991,11
+83229.0,Salvador (Ondina),BA,dezembro,25.9,1961 - 1991,12
+83229.0,Salvador (Ondina),BA,janeiro,27.0,1981 - 2011,1
+83229.0,Salvador (Ondina),BA,fevereiro,27.1,1981 - 2011,2
+83229.0,Salvador (Ondina),BA,marco,27.1,1981 - 2011,3
+83229.0,Salvador (Ondina),BA,abril,26.4,1981 - 2011,4
+83229.0,Salvador (Ondina),BA,maio,25.5,1981 - 2011,5
+83229.0,Salvador (Ondina),BA,junho,24.4,1981 - 2011,6
+83229.0,Salvador (Ondina),BA,julho,23.8,1981 - 2011,7
+83229.0,Salvador (Ondina),BA,agosto,23.7,1981 - 2011,8
+83229.0,Salvador (Ondina),BA,setembro,24.4,1981 - 2011,9
+83229.0,Salvador (Ondina),BA,outubro,25.5,1981 - 2011,10
+83229.0,Salvador (Ondina),BA,novembro,26.1,1981 - 2011,11
+83229.0,Salvador (Ondina),BA,dezembro,26.6,1981 - 2011,12
+83229.0,Salvador (Ondina),BA,janeiro,26.9,1991 - 2021,1
+83229.0,Salvador (Ondina),BA,fevereiro,27.1,1991 - 2021,2
+83229.0,Salvador (Ondina),BA,marco,27.1,1991 - 2021,3
+83229.0,Salvador (Ondina),BA,abril,26.4,1991 - 2021,4
+83229.0,Salvador (Ondina),BA,maio,25.3,1991 - 2021,5
+83229.0,Salvador (Ondina),BA,junho,24.3,1991 - 2021,6
+83229.0,Salvador (Ondina),BA,julho,23.7,1991 - 2021,7
+83229.0,Salvador (Ondina),BA,agosto,23.6,1991 - 2021,8
+83229.0,Salvador (Ondina),BA,setembro,24.3,1991 - 2021,9
+83229.0,Salvador (Ondina),BA,outubro,25.4,1991 - 2021,10
+83229.0,Salvador (Ondina),BA,novembro,26.1,1991 - 2021,11
+83229.0,Salvador (Ondina),BA,dezembro,26.6,1991 - 2021,12
+83235.0,Taguatinga,TO,janeiro,24.2,1961 - 1991,1
+83235.0,Taguatinga,TO,fevereiro,24.3,1961 - 1991,2
+83235.0,Taguatinga,TO,marco,24.4,1961 - 1991,3
+83235.0,Taguatinga,TO,abril,24.6,1961 - 1991,4
+83235.0,Taguatinga,TO,maio,24.2,1961 - 1991,5
+83235.0,Taguatinga,TO,junho,23.6,1961 - 1991,6
+83235.0,Taguatinga,TO,julho,23.4,1961 - 1991,7
+83235.0,Taguatinga,TO,agosto,25.1,1961 - 1991,8
+83235.0,Taguatinga,TO,setembro,26.6,1961 - 1991,9
+83235.0,Taguatinga,TO,outubro,25.7,1961 - 1991,10
+83235.0,Taguatinga,TO,novembro,24.7,1961 - 1991,11
+83235.0,Taguatinga,TO,dezembro,24.3,1961 - 1991,12
+83235.0,Taguatinga,TO,janeiro,24.9,1981 - 2011,1
+83235.0,Taguatinga,TO,fevereiro,24.9,1981 - 2011,2
+83235.0,Taguatinga,TO,marco,24.9,1981 - 2011,3
+83235.0,Taguatinga,TO,abril,25.4,1981 - 2011,4
+83235.0,Taguatinga,TO,maio,25.2,1981 - 2011,5
+83235.0,Taguatinga,TO,junho,24.4,1981 - 2011,6
+83235.0,Taguatinga,TO,julho,24.2,1981 - 2011,7
+83235.0,Taguatinga,TO,agosto,25.7,1981 - 2011,8
+83235.0,Taguatinga,TO,setembro,27.4,1981 - 2011,9
+83235.0,Taguatinga,TO,outubro,27.0,1981 - 2011,10
+83235.0,Taguatinga,TO,novembro,25.5,1981 - 2011,11
+83235.0,Taguatinga,TO,dezembro,24.9,1981 - 2011,12
+83235.0,Taguatinga,TO,janeiro,25.3,1991 - 2021,1
+83235.0,Taguatinga,TO,fevereiro,25.1,1991 - 2021,2
+83235.0,Taguatinga,TO,marco,25.3,1991 - 2021,3
+83235.0,Taguatinga,TO,abril,25.8,1991 - 2021,4
+83235.0,Taguatinga,TO,maio,25.7,1991 - 2021,5
+83235.0,Taguatinga,TO,junho,24.9,1991 - 2021,6
+83235.0,Taguatinga,TO,julho,24.8,1991 - 2021,7
+83235.0,Taguatinga,TO,agosto,26.2,1991 - 2021,8
+83235.0,Taguatinga,TO,setembro,28.0,1991 - 2021,9
+83235.0,Taguatinga,TO,outubro,28.0,1991 - 2021,10
+83235.0,Taguatinga,TO,novembro,25.9,1991 - 2021,11
+83235.0,Taguatinga,TO,dezembro,25.6,1991 - 2021,12
+83242.0,Lençóis,BA,janeiro,24.5,1961 - 1991,1
+83242.0,Lençóis,BA,fevereiro,24.7,1961 - 1991,2
+83242.0,Lençóis,BA,marco,24.4,1961 - 1991,3
+83242.0,Lençóis,BA,abril,23.8,1961 - 1991,4
+83242.0,Lençóis,BA,maio,22.5,1961 - 1991,5
+83242.0,Lençóis,BA,junho,21.2,1961 - 1991,6
+83242.0,Lençóis,BA,julho,20.7,1961 - 1991,7
+83242.0,Lençóis,BA,agosto,21.4,1961 - 1991,8
+83242.0,Lençóis,BA,setembro,22.7,1961 - 1991,9
+83242.0,Lençóis,BA,outubro,23.7,1961 - 1991,10
+83242.0,Lençóis,BA,novembro,24.0,1961 - 1991,11
+83242.0,Lençóis,BA,dezembro,23.9,1961 - 1991,12
+83242.0,Lençóis,BA,janeiro,25.3,1981 - 2011,1
+83242.0,Lençóis,BA,fevereiro,25.7,1981 - 2011,2
+83242.0,Lençóis,BA,marco,25.0,1981 - 2011,3
+83242.0,Lençóis,BA,abril,24.2,1981 - 2011,4
+83242.0,Lençóis,BA,maio,23.1,1981 - 2011,5
+83242.0,Lençóis,BA,junho,21.6,1981 - 2011,6
+83242.0,Lençóis,BA,julho,21.3,1981 - 2011,7
+83242.0,Lençóis,BA,agosto,21.9,1981 - 2011,8
+83242.0,Lençóis,BA,setembro,23.5,1981 - 2011,9
+83242.0,Lençóis,BA,outubro,24.8,1981 - 2011,10
+83242.0,Lençóis,BA,novembro,24.9,1981 - 2011,11
+83242.0,Lençóis,BA,dezembro,24.9,1981 - 2011,12
+83242.0,Lençóis,BA,janeiro,25.5,1991 - 2021,1
+83242.0,Lençóis,BA,fevereiro,25.8,1991 - 2021,2
+83242.0,Lençóis,BA,marco,25.3,1991 - 2021,3
+83242.0,Lençóis,BA,abril,24.4,1991 - 2021,4
+83242.0,Lençóis,BA,maio,23.2,1991 - 2021,5
+83242.0,Lençóis,BA,junho,21.8,1991 - 2021,6
+83242.0,Lençóis,BA,julho,21.3,1991 - 2021,7
+83242.0,Lençóis,BA,agosto,21.9,1991 - 2021,8
+83242.0,Lençóis,BA,setembro,23.5,1991 - 2021,9
+83242.0,Lençóis,BA,outubro,25.0,1991 - 2021,10
+83242.0,Lençóis,BA,novembro,24.9,1991 - 2021,11
+83242.0,Lençóis,BA,dezembro,25.2,1991 - 2021,12
+83249.0,Alagoinhas,BA,janeiro,25.9,1961 - 1991,1
+83249.0,Alagoinhas,BA,fevereiro,25.7,1961 - 1991,2
+83249.0,Alagoinhas,BA,marco,25.5,1961 - 1991,3
+83249.0,Alagoinhas,BA,abril,25.0,1961 - 1991,4
+83249.0,Alagoinhas,BA,maio,23.6,1961 - 1991,5
+83249.0,Alagoinhas,BA,junho,22.5,1961 - 1991,6
+83249.0,Alagoinhas,BA,julho,21.5,1961 - 1991,7
+83249.0,Alagoinhas,BA,agosto,21.5,1961 - 1991,8
+83249.0,Alagoinhas,BA,setembro,22.6,1961 - 1991,9
+83249.0,Alagoinhas,BA,outubro,24.3,1961 - 1991,10
+83249.0,Alagoinhas,BA,novembro,25.1,1961 - 1991,11
+83249.0,Alagoinhas,BA,dezembro,25.5,1961 - 1991,12
+83249.0,Alagoinhas,BA,janeiro,26.3,1981 - 2011,1
+83249.0,Alagoinhas,BA,fevereiro,26.3,1981 - 2011,2
+83249.0,Alagoinhas,BA,marco,26.4,1981 - 2011,3
+83249.0,Alagoinhas,BA,abril,25.4,1981 - 2011,4
+83249.0,Alagoinhas,BA,maio,24.1,1981 - 2011,5
+83249.0,Alagoinhas,BA,junho,22.7,1981 - 2011,6
+83249.0,Alagoinhas,BA,julho,21.9,1981 - 2011,7
+83249.0,Alagoinhas,BA,agosto,21.9,1981 - 2011,8
+83249.0,Alagoinhas,BA,setembro,22.9,1981 - 2011,9
+83249.0,Alagoinhas,BA,outubro,24.3,1981 - 2011,10
+83249.0,Alagoinhas,BA,novembro,25.5,1981 - 2011,11
+83249.0,Alagoinhas,BA,dezembro,26.0,1981 - 2011,12
+83249.0,Alagoinhas,BA,janeiro,26.4,1991 - 2021,1
+83249.0,Alagoinhas,BA,fevereiro,26.4,1991 - 2021,2
+83249.0,Alagoinhas,BA,marco,26.5,1991 - 2021,3
+83249.0,Alagoinhas,BA,abril,25.5,1991 - 2021,4
+83249.0,Alagoinhas,BA,maio,24.2,1991 - 2021,5
+83249.0,Alagoinhas,BA,junho,22.9,1991 - 2021,6
+83249.0,Alagoinhas,BA,julho,22.0,1991 - 2021,7
+83249.0,Alagoinhas,BA,agosto,22.0,1991 - 2021,8
+83249.0,Alagoinhas,BA,setembro,23.0,1991 - 2021,9
+83249.0,Alagoinhas,BA,outubro,24.3,1991 - 2021,10
+83249.0,Alagoinhas,BA,novembro,25.5,1991 - 2021,11
+83249.0,Alagoinhas,BA,dezembro,26.2,1991 - 2021,12
+83288.0,Bom Jesus da Lapa,BA,janeiro,25.3,1961 - 1991,1
+83288.0,Bom Jesus da Lapa,BA,fevereiro,25.4,1961 - 1991,2
+83288.0,Bom Jesus da Lapa,BA,marco,25.3,1961 - 1991,3
+83288.0,Bom Jesus da Lapa,BA,abril,25.1,1961 - 1991,4
+83288.0,Bom Jesus da Lapa,BA,maio,24.5,1961 - 1991,5
+83288.0,Bom Jesus da Lapa,BA,junho,23.1,1961 - 1991,6
+83288.0,Bom Jesus da Lapa,BA,julho,23.0,1961 - 1991,7
+83288.0,Bom Jesus da Lapa,BA,agosto,24.4,1961 - 1991,8
+83288.0,Bom Jesus da Lapa,BA,setembro,26.2,1961 - 1991,9
+83288.0,Bom Jesus da Lapa,BA,outubro,26.4,1961 - 1991,10
+83288.0,Bom Jesus da Lapa,BA,novembro,25.4,1961 - 1991,11
+83288.0,Bom Jesus da Lapa,BA,dezembro,25.0,1961 - 1991,12
+83288.0,Bom Jesus da Lapa,BA,janeiro,26.1,1981 - 2011,1
+83288.0,Bom Jesus da Lapa,BA,fevereiro,26.4,1981 - 2011,2
+83288.0,Bom Jesus da Lapa,BA,marco,26.0,1981 - 2011,3
+83288.0,Bom Jesus da Lapa,BA,abril,26.0,1981 - 2011,4
+83288.0,Bom Jesus da Lapa,BA,maio,25.4,1981 - 2011,5
+83288.0,Bom Jesus da Lapa,BA,junho,24.1,1981 - 2011,6
+83288.0,Bom Jesus da Lapa,BA,julho,24.1,1981 - 2011,7
+83288.0,Bom Jesus da Lapa,BA,agosto,25.3,1981 - 2011,8
+83288.0,Bom Jesus da Lapa,BA,setembro,27.3,1981 - 2011,9
+83288.0,Bom Jesus da Lapa,BA,outubro,28.3,1981 - 2011,10
+83288.0,Bom Jesus da Lapa,BA,novembro,26.8,1981 - 2011,11
+83288.0,Bom Jesus da Lapa,BA,dezembro,26.0,1981 - 2011,12
+83288.0,Bom Jesus da Lapa,BA,janeiro,26.6,1991 - 2021,1
+83288.0,Bom Jesus da Lapa,BA,fevereiro,26.7,1991 - 2021,2
+83288.0,Bom Jesus da Lapa,BA,marco,26.6,1991 - 2021,3
+83288.0,Bom Jesus da Lapa,BA,abril,26.4,1991 - 2021,4
+83288.0,Bom Jesus da Lapa,BA,maio,25.7,1991 - 2021,5
+83288.0,Bom Jesus da Lapa,BA,junho,24.7,1991 - 2021,6
+83288.0,Bom Jesus da Lapa,BA,julho,24.4,1991 - 2021,7
+83288.0,Bom Jesus da Lapa,BA,agosto,25.7,1991 - 2021,8
+83288.0,Bom Jesus da Lapa,BA,setembro,27.7,1991 - 2021,9
+83288.0,Bom Jesus da Lapa,BA,outubro,28.7,1991 - 2021,10
+83288.0,Bom Jesus da Lapa,BA,novembro,27.1,1991 - 2021,11
+83288.0,Bom Jesus da Lapa,BA,dezembro,26.6,1991 - 2021,12
+83368.0,Aragarças,GO,janeiro,25.3,1961 - 1991,1
+83368.0,Aragarças,GO,fevereiro,25.4,1961 - 1991,2
+83368.0,Aragarças,GO,marco,25.5,1961 - 1991,3
+83368.0,Aragarças,GO,abril,25.3,1961 - 1991,4
+83368.0,Aragarças,GO,maio,23.8,1961 - 1991,5
+83368.0,Aragarças,GO,junho,22.5,1961 - 1991,6
+83368.0,Aragarças,GO,julho,22.2,1961 - 1991,7
+83368.0,Aragarças,GO,agosto,24.3,1961 - 1991,8
+83368.0,Aragarças,GO,setembro,26.1,1961 - 1991,9
+83368.0,Aragarças,GO,outubro,26.7,1961 - 1991,10
+83368.0,Aragarças,GO,novembro,25.9,1961 - 1991,11
+83368.0,Aragarças,GO,dezembro,25.4,1961 - 1991,12
+83368.0,Aragarças,GO,janeiro,25.8,1981 - 2011,1
+83368.0,Aragarças,GO,fevereiro,25.9,1981 - 2011,2
+83368.0,Aragarças,GO,marco,26.0,1981 - 2011,3
+83368.0,Aragarças,GO,abril,26.1,1981 - 2011,4
+83368.0,Aragarças,GO,maio,24.4,1981 - 2011,5
+83368.0,Aragarças,GO,junho,22.9,1981 - 2011,6
+83368.0,Aragarças,GO,julho,22.9,1981 - 2011,7
+83368.0,Aragarças,GO,agosto,25.2,1981 - 2011,8
+83368.0,Aragarças,GO,setembro,27.3,1981 - 2011,9
+83368.0,Aragarças,GO,outubro,27.8,1981 - 2011,10
+83368.0,Aragarças,GO,novembro,26.7,1981 - 2011,11
+83368.0,Aragarças,GO,dezembro,26.0,1981 - 2011,12
+83368.0,Aragarças,GO,janeiro,26.2,1991 - 2021,1
+83368.0,Aragarças,GO,fevereiro,26.2,1991 - 2021,2
+83368.0,Aragarças,GO,marco,26.3,1991 - 2021,3
+83368.0,Aragarças,GO,abril,26.4,1991 - 2021,4
+83368.0,Aragarças,GO,maio,24.8,1991 - 2021,5
+83368.0,Aragarças,GO,junho,23.6,1991 - 2021,6
+83368.0,Aragarças,GO,julho,23.4,1991 - 2021,7
+83368.0,Aragarças,GO,agosto,25.7,1991 - 2021,8
+83368.0,Aragarças,GO,setembro,28.0,1991 - 2021,9
+83368.0,Aragarças,GO,outubro,28.3,1991 - 2021,10
+83368.0,Aragarças,GO,novembro,26.8,1991 - 2021,11
+83368.0,Aragarças,GO,dezembro,26.3,1991 - 2021,12
+83376.0,Pirenópolis,GO,janeiro,22.9,1961 - 1991,1
+83376.0,Pirenópolis,GO,fevereiro,23.2,1961 - 1991,2
+83376.0,Pirenópolis,GO,marco,23.1,1961 - 1991,3
+83376.0,Pirenópolis,GO,abril,22.9,1961 - 1991,4
+83376.0,Pirenópolis,GO,maio,21.7,1961 - 1991,5
+83376.0,Pirenópolis,GO,junho,20.2,1961 - 1991,6
+83376.0,Pirenópolis,GO,julho,20.4,1961 - 1991,7
+83376.0,Pirenópolis,GO,agosto,22.4,1961 - 1991,8
+83376.0,Pirenópolis,GO,setembro,23.8,1961 - 1991,9
+83376.0,Pirenópolis,GO,outubro,24.0,1961 - 1991,10
+83376.0,Pirenópolis,GO,novembro,23.3,1961 - 1991,11
+83376.0,Pirenópolis,GO,dezembro,22.9,1961 - 1991,12
+83376.0,Pirenópolis,GO,janeiro,23.4,1981 - 2011,1
+83376.0,Pirenópolis,GO,fevereiro,23.4,1981 - 2011,2
+83376.0,Pirenópolis,GO,marco,23.4,1981 - 2011,3
+83376.0,Pirenópolis,GO,abril,23.1,1981 - 2011,4
+83376.0,Pirenópolis,GO,maio,21.8,1981 - 2011,5
+83376.0,Pirenópolis,GO,junho,20.5,1981 - 2011,6
+83376.0,Pirenópolis,GO,julho,20.7,1981 - 2011,7
+83376.0,Pirenópolis,GO,agosto,22.8,1981 - 2011,8
+83376.0,Pirenópolis,GO,setembro,24.5,1981 - 2011,9
+83376.0,Pirenópolis,GO,outubro,24.4,1981 - 2011,10
+83376.0,Pirenópolis,GO,novembro,23.6,1981 - 2011,11
+83376.0,Pirenópolis,GO,dezembro,23.4,1981 - 2011,12
+83376.0,Pirenópolis,GO,janeiro,23.7,1991 - 2021,1
+83376.0,Pirenópolis,GO,fevereiro,23.6,1991 - 2021,2
+83376.0,Pirenópolis,GO,marco,23.6,1991 - 2021,3
+83376.0,Pirenópolis,GO,abril,23.4,1991 - 2021,4
+83376.0,Pirenópolis,GO,maio,22.0,1991 - 2021,5
+83376.0,Pirenópolis,GO,junho,20.9,1991 - 2021,6
+83376.0,Pirenópolis,GO,julho,21.0,1991 - 2021,7
+83376.0,Pirenópolis,GO,agosto,23.1,1991 - 2021,8
+83376.0,Pirenópolis,GO,setembro,25.2,1991 - 2021,9
+83376.0,Pirenópolis,GO,outubro,25.1,1991 - 2021,10
+83376.0,Pirenópolis,GO,novembro,24.0,1991 - 2021,11
+83376.0,Pirenópolis,GO,dezembro,23.8,1991 - 2021,12
+83377.0,Brasília,DF,janeiro,21.2,1961 - 1991,1
+83377.0,Brasília,DF,fevereiro,21.3,1961 - 1991,2
+83377.0,Brasília,DF,marco,21.5,1961 - 1991,3
+83377.0,Brasília,DF,abril,20.9,1961 - 1991,4
+83377.0,Brasília,DF,maio,19.6,1961 - 1991,5
+83377.0,Brasília,DF,junho,18.5,1961 - 1991,6
+83377.0,Brasília,DF,julho,18.3,1961 - 1991,7
+83377.0,Brasília,DF,agosto,20.3,1961 - 1991,8
+83377.0,Brasília,DF,setembro,21.7,1961 - 1991,9
+83377.0,Brasília,DF,outubro,21.6,1961 - 1991,10
+83377.0,Brasília,DF,novembro,21.1,1961 - 1991,11
+83377.0,Brasília,DF,dezembro,21.0,1961 - 1991,12
+83377.0,Brasília,DF,janeiro,21.6,1981 - 2011,1
+83377.0,Brasília,DF,fevereiro,21.7,1981 - 2011,2
+83377.0,Brasília,DF,marco,21.6,1981 - 2011,3
+83377.0,Brasília,DF,abril,21.3,1981 - 2011,4
+83377.0,Brasília,DF,maio,20.2,1981 - 2011,5
+83377.0,Brasília,DF,junho,19.0,1981 - 2011,6
+83377.0,Brasília,DF,julho,19.0,1981 - 2011,7
+83377.0,Brasília,DF,agosto,20.6,1981 - 2011,8
+83377.0,Brasília,DF,setembro,22.2,1981 - 2011,9
+83377.0,Brasília,DF,outubro,22.4,1981 - 2011,10
+83377.0,Brasília,DF,novembro,21.5,1981 - 2011,11
+83377.0,Brasília,DF,dezembro,21.4,1981 - 2011,12
+83377.0,Brasília,DF,janeiro,21.9,1991 - 2021,1
+83377.0,Brasília,DF,fevereiro,21.9,1991 - 2021,2
+83377.0,Brasília,DF,marco,21.8,1991 - 2021,3
+83377.0,Brasília,DF,abril,21.6,1991 - 2021,4
+83377.0,Brasília,DF,maio,20.3,1991 - 2021,5
+83377.0,Brasília,DF,junho,19.3,1991 - 2021,6
+83377.0,Brasília,DF,julho,19.3,1991 - 2021,7
+83377.0,Brasília,DF,agosto,21.0,1991 - 2021,8
+83377.0,Brasília,DF,setembro,22.8,1991 - 2021,9
+83377.0,Brasília,DF,outubro,23.1,1991 - 2021,10
+83377.0,Brasília,DF,novembro,21.7,1991 - 2021,11
+83377.0,Brasília,DF,dezembro,21.7,1991 - 2021,12
+83379.0,Formosa,GO,janeiro,22.2,1961 - 1991,1
+83379.0,Formosa,GO,fevereiro,22.4,1961 - 1991,2
+83379.0,Formosa,GO,marco,22.5,1961 - 1991,3
+83379.0,Formosa,GO,abril,22.0,1961 - 1991,4
+83379.0,Formosa,GO,maio,20.7,1961 - 1991,5
+83379.0,Formosa,GO,junho,19.5,1961 - 1991,6
+83379.0,Formosa,GO,julho,19.3,1961 - 1991,7
+83379.0,Formosa,GO,agosto,21.3,1961 - 1991,8
+83379.0,Formosa,GO,setembro,22.8,1961 - 1991,9
+83379.0,Formosa,GO,outubro,22.9,1961 - 1991,10
+83379.0,Formosa,GO,novembro,22.3,1961 - 1991,11
+83379.0,Formosa,GO,dezembro,22.1,1961 - 1991,12
+83379.0,Formosa,GO,janeiro,22.8,1981 - 2011,1
+83379.0,Formosa,GO,fevereiro,23.0,1981 - 2011,2
+83379.0,Formosa,GO,marco,22.8,1981 - 2011,3
+83379.0,Formosa,GO,abril,22.5,1981 - 2011,4
+83379.0,Formosa,GO,maio,21.5,1981 - 2011,5
+83379.0,Formosa,GO,junho,20.1,1981 - 2011,6
+83379.0,Formosa,GO,julho,20.1,1981 - 2011,7
+83379.0,Formosa,GO,agosto,21.8,1981 - 2011,8
+83379.0,Formosa,GO,setembro,23.7,1981 - 2011,9
+83379.0,Formosa,GO,outubro,24.1,1981 - 2011,10
+83379.0,Formosa,GO,novembro,22.9,1981 - 2011,11
+83379.0,Formosa,GO,dezembro,22.7,1981 - 2011,12
+83379.0,Formosa,GO,janeiro,23.2,1991 - 2021,1
+83379.0,Formosa,GO,fevereiro,23.3,1991 - 2021,2
+83379.0,Formosa,GO,marco,23.1,1991 - 2021,3
+83379.0,Formosa,GO,abril,22.9,1991 - 2021,4
+83379.0,Formosa,GO,maio,21.7,1991 - 2021,5
+83379.0,Formosa,GO,junho,20.7,1991 - 2021,6
+83379.0,Formosa,GO,julho,20.6,1991 - 2021,7
+83379.0,Formosa,GO,agosto,22.2,1991 - 2021,8
+83379.0,Formosa,GO,setembro,24.3,1991 - 2021,9
+83379.0,Formosa,GO,outubro,24.7,1991 - 2021,10
+83379.0,Formosa,GO,novembro,23.2,1991 - 2021,11
+83379.0,Formosa,GO,dezembro,23.2,1991 - 2021,12
+83386.0,Januária,MG,janeiro,24.9,1961 - 1991,1
+83386.0,Januária,MG,fevereiro,25.4,1961 - 1991,2
+83386.0,Januária,MG,marco,25.3,1961 - 1991,3
+83386.0,Januária,MG,abril,24.6,1961 - 1991,4
+83386.0,Januária,MG,maio,23.0,1961 - 1991,5
+83386.0,Januária,MG,junho,21.6,1961 - 1991,6
+83386.0,Januária,MG,julho,21.2,1961 - 1991,7
+83386.0,Januária,MG,agosto,23.0,1961 - 1991,8
+83386.0,Januária,MG,setembro,25.0,1961 - 1991,9
+83386.0,Januária,MG,outubro,26.1,1961 - 1991,10
+83386.0,Januária,MG,novembro,25.4,1961 - 1991,11
+83386.0,Januária,MG,dezembro,24.7,1961 - 1991,12
+83386.0,Januária,MG,janeiro,25.2,1981 - 2011,1
+83386.0,Januária,MG,fevereiro,25.4,1981 - 2011,2
+83386.0,Januária,MG,marco,25.0,1981 - 2011,3
+83386.0,Januária,MG,abril,24.4,1981 - 2011,4
+83386.0,Januária,MG,maio,22.9,1981 - 2011,5
+83386.0,Januária,MG,junho,21.3,1981 - 2011,6
+83386.0,Januária,MG,julho,21.1,1981 - 2011,7
+83386.0,Januária,MG,agosto,22.4,1981 - 2011,8
+83386.0,Januária,MG,setembro,25.0,1981 - 2011,9
+83386.0,Januária,MG,outubro,26.5,1981 - 2011,10
+83386.0,Januária,MG,novembro,25.4,1981 - 2011,11
+83386.0,Januária,MG,dezembro,25.1,1981 - 2011,12
+83386.0,Januária,MG,janeiro,25.4,1991 - 2021,1
+83386.0,Januária,MG,fevereiro,25.5,1991 - 2021,2
+83386.0,Januária,MG,marco,25.3,1991 - 2021,3
+83386.0,Januária,MG,abril,24.8,1991 - 2021,4
+83386.0,Januária,MG,maio,23.2,1991 - 2021,5
+83386.0,Januária,MG,junho,21.9,1991 - 2021,6
+83386.0,Januária,MG,julho,21.5,1991 - 2021,7
+83386.0,Januária,MG,agosto,22.9,1991 - 2021,8
+83386.0,Januária,MG,setembro,25.4,1991 - 2021,9
+83386.0,Januária,MG,outubro,27.0,1991 - 2021,10
+83386.0,Januária,MG,novembro,25.7,1991 - 2021,11
+83386.0,Januária,MG,dezembro,25.3,1991 - 2021,12
+83423.0,Goiânia,GO,janeiro,23.8,1961 - 1991,1
+83423.0,Goiânia,GO,fevereiro,23.8,1961 - 1991,2
+83423.0,Goiânia,GO,marco,24.0,1961 - 1991,3
+83423.0,Goiânia,GO,abril,23.6,1961 - 1991,4
+83423.0,Goiânia,GO,maio,22.2,1961 - 1991,5
+83423.0,Goiânia,GO,junho,20.9,1961 - 1991,6
+83423.0,Goiânia,GO,julho,20.9,1961 - 1991,7
+83423.0,Goiânia,GO,agosto,23.0,1961 - 1991,8
+83423.0,Goiânia,GO,setembro,24.5,1961 - 1991,9
+83423.0,Goiânia,GO,outubro,24.6,1961 - 1991,10
+83423.0,Goiânia,GO,novembro,24.1,1961 - 1991,11
+83423.0,Goiânia,GO,dezembro,23.5,1961 - 1991,12
+83423.0,Goiânia,GO,janeiro,24.4,1981 - 2011,1
+83423.0,Goiânia,GO,fevereiro,24.5,1981 - 2011,2
+83423.0,Goiânia,GO,marco,24.5,1981 - 2011,3
+83423.0,Goiânia,GO,abril,24.6,1981 - 2011,4
+83423.0,Goiânia,GO,maio,23.1,1981 - 2011,5
+83423.0,Goiânia,GO,junho,21.8,1981 - 2011,6
+83423.0,Goiânia,GO,julho,22.0,1981 - 2011,7
+83423.0,Goiânia,GO,agosto,24.0,1981 - 2011,8
+83423.0,Goiânia,GO,setembro,25.5,1981 - 2011,9
+83423.0,Goiânia,GO,outubro,25.6,1981 - 2011,10
+83423.0,Goiânia,GO,novembro,24.7,1981 - 2011,11
+83423.0,Goiânia,GO,dezembro,24.3,1981 - 2011,12
+83423.0,Goiânia,GO,janeiro,24.7,1991 - 2021,1
+83423.0,Goiânia,GO,fevereiro,24.7,1991 - 2021,2
+83423.0,Goiânia,GO,marco,24.7,1991 - 2021,3
+83423.0,Goiânia,GO,abril,24.8,1991 - 2021,4
+83423.0,Goiânia,GO,maio,23.3,1991 - 2021,5
+83423.0,Goiânia,GO,junho,22.3,1991 - 2021,6
+83423.0,Goiânia,GO,julho,22.5,1991 - 2021,7
+83423.0,Goiânia,GO,agosto,24.5,1991 - 2021,8
+83423.0,Goiânia,GO,setembro,26.3,1991 - 2021,9
+83423.0,Goiânia,GO,outubro,26.2,1991 - 2021,10
+83423.0,Goiânia,GO,novembro,25.0,1991 - 2021,11
+83423.0,Goiânia,GO,dezembro,24.8,1991 - 2021,12
+83437.0,Montes Claros,MG,janeiro,23.6,1961 - 1991,1
+83437.0,Montes Claros,MG,fevereiro,23.8,1961 - 1991,2
+83437.0,Montes Claros,MG,marco,23.9,1961 - 1991,3
+83437.0,Montes Claros,MG,abril,23.0,1961 - 1991,4
+83437.0,Montes Claros,MG,maio,21.1,1961 - 1991,5
+83437.0,Montes Claros,MG,junho,20.0,1961 - 1991,6
+83437.0,Montes Claros,MG,julho,19.6,1961 - 1991,7
+83437.0,Montes Claros,MG,agosto,21.1,1961 - 1991,8
+83437.0,Montes Claros,MG,setembro,22.8,1961 - 1991,9
+83437.0,Montes Claros,MG,outubro,23.6,1961 - 1991,10
+83437.0,Montes Claros,MG,novembro,23.1,1961 - 1991,11
+83437.0,Montes Claros,MG,dezembro,23.1,1961 - 1991,12
+83437.0,Montes Claros,MG,janeiro,24.3,1981 - 2011,1
+83437.0,Montes Claros,MG,fevereiro,24.5,1981 - 2011,2
+83437.0,Montes Claros,MG,marco,24.1,1981 - 2011,3
+83437.0,Montes Claros,MG,abril,23.4,1981 - 2011,4
+83437.0,Montes Claros,MG,maio,21.7,1981 - 2011,5
+83437.0,Montes Claros,MG,junho,20.2,1981 - 2011,6
+83437.0,Montes Claros,MG,julho,20.3,1981 - 2011,7
+83437.0,Montes Claros,MG,agosto,21.5,1981 - 2011,8
+83437.0,Montes Claros,MG,setembro,23.9,1981 - 2011,9
+83437.0,Montes Claros,MG,outubro,25.3,1981 - 2011,10
+83437.0,Montes Claros,MG,novembro,24.2,1981 - 2011,11
+83437.0,Montes Claros,MG,dezembro,24.0,1981 - 2011,12
+83437.0,Montes Claros,MG,janeiro,24.6,1991 - 2021,1
+83437.0,Montes Claros,MG,fevereiro,24.9,1991 - 2021,2
+83437.0,Montes Claros,MG,marco,24.5,1991 - 2021,3
+83437.0,Montes Claros,MG,abril,23.7,1991 - 2021,4
+83437.0,Montes Claros,MG,maio,22.1,1991 - 2021,5
+83437.0,Montes Claros,MG,junho,20.8,1991 - 2021,6
+83437.0,Montes Claros,MG,julho,20.6,1991 - 2021,7
+83437.0,Montes Claros,MG,agosto,22.0,1991 - 2021,8
+83437.0,Montes Claros,MG,setembro,24.3,1991 - 2021,9
+83437.0,Montes Claros,MG,outubro,25.5,1991 - 2021,10
+83437.0,Montes Claros,MG,novembro,24.5,1991 - 2021,11
+83437.0,Montes Claros,MG,dezembro,24.4,1991 - 2021,12
+83441.0,Salinas,MG,janeiro,24.8,1961 - 1991,1
+83441.0,Salinas,MG,fevereiro,24.9,1961 - 1991,2
+83441.0,Salinas,MG,marco,25.0,1961 - 1991,3
+83441.0,Salinas,MG,abril,23.2,1961 - 1991,4
+83441.0,Salinas,MG,maio,21.4,1961 - 1991,5
+83441.0,Salinas,MG,junho,19.9,1961 - 1991,6
+83441.0,Salinas,MG,julho,19.7,1961 - 1991,7
+83441.0,Salinas,MG,agosto,21.5,1961 - 1991,8
+83441.0,Salinas,MG,setembro,23.4,1961 - 1991,9
+83441.0,Salinas,MG,outubro,24.4,1961 - 1991,10
+83441.0,Salinas,MG,novembro,24.4,1961 - 1991,11
+83441.0,Salinas,MG,dezembro,24.2,1961 - 1991,12
+83441.0,Salinas,MG,janeiro,24.8,1981 - 2011,1
+83441.0,Salinas,MG,fevereiro,25.2,1981 - 2011,2
+83441.0,Salinas,MG,marco,24.8,1981 - 2011,3
+83441.0,Salinas,MG,abril,23.7,1981 - 2011,4
+83441.0,Salinas,MG,maio,21.9,1981 - 2011,5
+83441.0,Salinas,MG,junho,20.4,1981 - 2011,6
+83441.0,Salinas,MG,julho,20.5,1981 - 2011,7
+83441.0,Salinas,MG,agosto,21.9,1981 - 2011,8
+83441.0,Salinas,MG,setembro,24.0,1981 - 2011,9
+83441.0,Salinas,MG,outubro,25.5,1981 - 2011,10
+83441.0,Salinas,MG,novembro,24.7,1981 - 2011,11
+83441.0,Salinas,MG,dezembro,24.7,1981 - 2011,12
+83441.0,Salinas,MG,janeiro,25.3,1991 - 2021,1
+83441.0,Salinas,MG,fevereiro,25.5,1991 - 2021,2
+83441.0,Salinas,MG,marco,25.3,1991 - 2021,3
+83441.0,Salinas,MG,abril,24.4,1991 - 2021,4
+83441.0,Salinas,MG,maio,22.5,1991 - 2021,5
+83441.0,Salinas,MG,junho,21.2,1991 - 2021,6
+83441.0,Salinas,MG,julho,21.0,1991 - 2021,7
+83441.0,Salinas,MG,agosto,22.3,1991 - 2021,8
+83441.0,Salinas,MG,setembro,24.6,1991 - 2021,9
+83441.0,Salinas,MG,outubro,26.1,1991 - 2021,10
+83441.0,Salinas,MG,novembro,25.1,1991 - 2021,11
+83441.0,Salinas,MG,dezembro,25.1,1991 - 2021,12
+83442.0,Araçuaí,MG,janeiro,25.6,1961 - 1991,1
+83442.0,Araçuaí,MG,fevereiro,26.0,1961 - 1991,2
+83442.0,Araçuaí,MG,marco,25.9,1961 - 1991,3
+83442.0,Araçuaí,MG,abril,24.6,1961 - 1991,4
+83442.0,Araçuaí,MG,maio,22.8,1961 - 1991,5
+83442.0,Araçuaí,MG,junho,21.5,1961 - 1991,6
+83442.0,Araçuaí,MG,julho,21.3,1961 - 1991,7
+83442.0,Araçuaí,MG,agosto,22.5,1961 - 1991,8
+83442.0,Araçuaí,MG,setembro,24.5,1961 - 1991,9
+83442.0,Araçuaí,MG,outubro,25.3,1961 - 1991,10
+83442.0,Araçuaí,MG,novembro,25.0,1961 - 1991,11
+83442.0,Araçuaí,MG,dezembro,24.9,1961 - 1991,12
+83442.0,Araçuaí,MG,janeiro,26.5,1981 - 2011,1
+83442.0,Araçuaí,MG,fevereiro,27.1,1981 - 2011,2
+83442.0,Araçuaí,MG,marco,26.4,1981 - 2011,3
+83442.0,Araçuaí,MG,abril,25.5,1981 - 2011,4
+83442.0,Araçuaí,MG,maio,23.7,1981 - 2011,5
+83442.0,Araçuaí,MG,junho,22.2,1981 - 2011,6
+83442.0,Araçuaí,MG,julho,21.9,1981 - 2011,7
+83442.0,Araçuaí,MG,agosto,23.2,1981 - 2011,8
+83442.0,Araçuaí,MG,setembro,25.3,1981 - 2011,9
+83442.0,Araçuaí,MG,outubro,26.8,1981 - 2011,10
+83442.0,Araçuaí,MG,novembro,26.0,1981 - 2011,11
+83442.0,Araçuaí,MG,dezembro,25.8,1981 - 2011,12
+83442.0,Araçuaí,MG,janeiro,26.7,1991 - 2021,1
+83442.0,Araçuaí,MG,fevereiro,27.2,1991 - 2021,2
+83442.0,Araçuaí,MG,marco,26.7,1991 - 2021,3
+83442.0,Araçuaí,MG,abril,25.7,1991 - 2021,4
+83442.0,Araçuaí,MG,maio,23.8,1991 - 2021,5
+83442.0,Araçuaí,MG,junho,22.5,1991 - 2021,6
+83442.0,Araçuaí,MG,julho,22.2,1991 - 2021,7
+83442.0,Araçuaí,MG,agosto,23.5,1991 - 2021,8
+83442.0,Araçuaí,MG,setembro,25.5,1991 - 2021,9
+83442.0,Araçuaí,MG,outubro,26.9,1991 - 2021,10
+83442.0,Araçuaí,MG,novembro,26.1,1991 - 2021,11
+83442.0,Araçuaí,MG,dezembro,26.2,1991 - 2021,12
+83464.0,Jataí,GO,janeiro,23.9,1961 - 1991,1
+83464.0,Jataí,GO,fevereiro,23.7,1961 - 1991,2
+83464.0,Jataí,GO,marco,23.6,1961 - 1991,3
+83464.0,Jataí,GO,abril,22.7,1961 - 1991,4
+83464.0,Jataí,GO,maio,20.5,1961 - 1991,5
+83464.0,Jataí,GO,junho,18.2,1961 - 1991,6
+83464.0,Jataí,GO,julho,18.2,1961 - 1991,7
+83464.0,Jataí,GO,agosto,20.4,1961 - 1991,8
+83464.0,Jataí,GO,setembro,22.5,1961 - 1991,9
+83464.0,Jataí,GO,outubro,24.1,1961 - 1991,10
+83464.0,Jataí,GO,novembro,24.1,1961 - 1991,11
+83464.0,Jataí,GO,dezembro,23.9,1961 - 1991,12
+83464.0,Jataí,GO,janeiro,24.1,1981 - 2011,1
+83464.0,Jataí,GO,fevereiro,23.9,1981 - 2011,2
+83464.0,Jataí,GO,marco,23.8,1981 - 2011,3
+83464.0,Jataí,GO,abril,22.8,1981 - 2011,4
+83464.0,Jataí,GO,maio,20.2,1981 - 2011,5
+83464.0,Jataí,GO,junho,18.7,1981 - 2011,6
+83464.0,Jataí,GO,julho,18.8,1981 - 2011,7
+83464.0,Jataí,GO,agosto,21.0,1981 - 2011,8
+83464.0,Jataí,GO,setembro,23.3,1981 - 2011,9
+83464.0,Jataí,GO,outubro,24.3,1981 - 2011,10
+83464.0,Jataí,GO,novembro,24.2,1981 - 2011,11
+83464.0,Jataí,GO,dezembro,24.1,1981 - 2011,12
+83464.0,Jataí,GO,janeiro,24.3,1991 - 2021,1
+83464.0,Jataí,GO,fevereiro,24.1,1991 - 2021,2
+83464.0,Jataí,GO,marco,24.0,1991 - 2021,3
+83464.0,Jataí,GO,abril,23.0,1991 - 2021,4
+83464.0,Jataí,GO,maio,20.2,1991 - 2021,5
+83464.0,Jataí,GO,junho,19.3,1991 - 2021,6
+83464.0,Jataí,GO,julho,19.3,1991 - 2021,7
+83464.0,Jataí,GO,agosto,21.5,1991 - 2021,8
+83464.0,Jataí,GO,setembro,24.1,1991 - 2021,9
+83464.0,Jataí,GO,outubro,24.7,1991 - 2021,10
+83464.0,Jataí,GO,novembro,24.4,1991 - 2021,11
+83464.0,Jataí,GO,dezembro,24.4,1991 - 2021,12
+83514.0,Capinópolis,MG,janeiro,23.8,1961 - 1991,1
+83514.0,Capinópolis,MG,fevereiro,24.1,1961 - 1991,2
+83514.0,Capinópolis,MG,marco,24.0,1961 - 1991,3
+83514.0,Capinópolis,MG,abril,23.3,1961 - 1991,4
+83514.0,Capinópolis,MG,maio,21.5,1961 - 1991,5
+83514.0,Capinópolis,MG,junho,20.3,1961 - 1991,6
+83514.0,Capinópolis,MG,julho,20.2,1961 - 1991,7
+83514.0,Capinópolis,MG,agosto,22.5,1961 - 1991,8
+83514.0,Capinópolis,MG,setembro,23.9,1961 - 1991,9
+83514.0,Capinópolis,MG,outubro,24.7,1961 - 1991,10
+83514.0,Capinópolis,MG,novembro,24.3,1961 - 1991,11
+83514.0,Capinópolis,MG,dezembro,23.7,1961 - 1991,12
+83514.0,Capinópolis,MG,janeiro,24.4,1981 - 2011,1
+83514.0,Capinópolis,MG,fevereiro,24.4,1981 - 2011,2
+83514.0,Capinópolis,MG,marco,24.4,1981 - 2011,3
+83514.0,Capinópolis,MG,abril,23.9,1981 - 2011,4
+83514.0,Capinópolis,MG,maio,21.5,1981 - 2011,5
+83514.0,Capinópolis,MG,junho,20.7,1981 - 2011,6
+83514.0,Capinópolis,MG,julho,20.9,1981 - 2011,7
+83514.0,Capinópolis,MG,agosto,22.9,1981 - 2011,8
+83514.0,Capinópolis,MG,setembro,24.5,1981 - 2011,9
+83514.0,Capinópolis,MG,outubro,25.4,1981 - 2011,10
+83514.0,Capinópolis,MG,novembro,24.9,1981 - 2011,11
+83514.0,Capinópolis,MG,dezembro,24.6,1981 - 2011,12
+83514.0,Capinópolis,MG,janeiro,24.3,1991 - 2021,1
+83514.0,Capinópolis,MG,fevereiro,24.4,1991 - 2021,2
+83514.0,Capinópolis,MG,marco,24.4,1991 - 2021,3
+83514.0,Capinópolis,MG,abril,23.9,1991 - 2021,4
+83514.0,Capinópolis,MG,maio,21.7,1991 - 2021,5
+83514.0,Capinópolis,MG,junho,20.8,1991 - 2021,6
+83514.0,Capinópolis,MG,julho,21.0,1991 - 2021,7
+83514.0,Capinópolis,MG,agosto,22.9,1991 - 2021,8
+83514.0,Capinópolis,MG,setembro,24.9,1991 - 2021,9
+83514.0,Capinópolis,MG,outubro,25.6,1991 - 2021,10
+83514.0,Capinópolis,MG,novembro,24.8,1991 - 2021,11
+83514.0,Capinópolis,MG,dezembro,24.7,1991 - 2021,12
+83526.0,Catalão,GO,janeiro,23.0,1961 - 1991,1
+83526.0,Catalão,GO,fevereiro,23.1,1961 - 1991,2
+83526.0,Catalão,GO,marco,23.2,1961 - 1991,3
+83526.0,Catalão,GO,abril,22.4,1961 - 1991,4
+83526.0,Catalão,GO,maio,20.6,1961 - 1991,5
+83526.0,Catalão,GO,junho,19.5,1961 - 1991,6
+83526.0,Catalão,GO,julho,19.2,1961 - 1991,7
+83526.0,Catalão,GO,agosto,21.4,1961 - 1991,8
+83526.0,Catalão,GO,setembro,23.0,1961 - 1991,9
+83526.0,Catalão,GO,outubro,23.3,1961 - 1991,10
+83526.0,Catalão,GO,novembro,23.0,1961 - 1991,11
+83526.0,Catalão,GO,dezembro,22.6,1961 - 1991,12
+83526.0,Catalão,GO,janeiro,23.6,1981 - 2011,1
+83526.0,Catalão,GO,fevereiro,23.9,1981 - 2011,2
+83526.0,Catalão,GO,marco,23.7,1981 - 2011,3
+83526.0,Catalão,GO,abril,23.1,1981 - 2011,4
+83526.0,Catalão,GO,maio,21.2,1981 - 2011,5
+83526.0,Catalão,GO,junho,20.0,1981 - 2011,6
+83526.0,Catalão,GO,julho,20.2,1981 - 2011,7
+83526.0,Catalão,GO,agosto,22.0,1981 - 2011,8
+83526.0,Catalão,GO,setembro,23.7,1981 - 2011,9
+83526.0,Catalão,GO,outubro,24.4,1981 - 2011,10
+83526.0,Catalão,GO,novembro,23.8,1981 - 2011,11
+83526.0,Catalão,GO,dezembro,23.4,1981 - 2011,12
+83526.0,Catalão,GO,janeiro,24.1,1991 - 2021,1
+83526.0,Catalão,GO,fevereiro,24.2,1991 - 2021,2
+83526.0,Catalão,GO,marco,24.0,1991 - 2021,3
+83526.0,Catalão,GO,abril,23.4,1991 - 2021,4
+83526.0,Catalão,GO,maio,21.5,1991 - 2021,5
+83526.0,Catalão,GO,junho,20.6,1991 - 2021,6
+83526.0,Catalão,GO,julho,20.7,1991 - 2021,7
+83526.0,Catalão,GO,agosto,22.5,1991 - 2021,8
+83526.0,Catalão,GO,setembro,24.5,1991 - 2021,9
+83526.0,Catalão,GO,outubro,25.1,1991 - 2021,10
+83526.0,Catalão,GO,novembro,24.0,1991 - 2021,11
+83526.0,Catalão,GO,dezembro,24.0,1991 - 2021,12
+83531.0,Patos de Minas,MG,janeiro,22.1,1961 - 1991,1
+83531.0,Patos de Minas,MG,fevereiro,22.3,1961 - 1991,2
+83531.0,Patos de Minas,MG,marco,22.3,1961 - 1991,3
+83531.0,Patos de Minas,MG,abril,21.1,1961 - 1991,4
+83531.0,Patos de Minas,MG,maio,19.4,1961 - 1991,5
+83531.0,Patos de Minas,MG,junho,18.4,1961 - 1991,6
+83531.0,Patos de Minas,MG,julho,18.3,1961 - 1991,7
+83531.0,Patos de Minas,MG,agosto,20.4,1961 - 1991,8
+83531.0,Patos de Minas,MG,setembro,21.9,1961 - 1991,9
+83531.0,Patos de Minas,MG,outubro,22.2,1961 - 1991,10
+83531.0,Patos de Minas,MG,novembro,22.0,1961 - 1991,11
+83531.0,Patos de Minas,MG,dezembro,21.7,1961 - 1991,12
+83531.0,Patos de Minas,MG,janeiro,22.5,1981 - 2011,1
+83531.0,Patos de Minas,MG,fevereiro,22.8,1981 - 2011,2
+83531.0,Patos de Minas,MG,marco,22.4,1981 - 2011,3
+83531.0,Patos de Minas,MG,abril,21.7,1981 - 2011,4
+83531.0,Patos de Minas,MG,maio,19.8,1981 - 2011,5
+83531.0,Patos de Minas,MG,junho,18.7,1981 - 2011,6
+83531.0,Patos de Minas,MG,julho,18.9,1981 - 2011,7
+83531.0,Patos de Minas,MG,agosto,20.7,1981 - 2011,8
+83531.0,Patos de Minas,MG,setembro,22.4,1981 - 2011,9
+83531.0,Patos de Minas,MG,outubro,23.3,1981 - 2011,10
+83531.0,Patos de Minas,MG,novembro,22.5,1981 - 2011,11
+83531.0,Patos de Minas,MG,dezembro,22.3,1981 - 2011,12
+83531.0,Patos de Minas,MG,janeiro,22.7,1991 - 2021,1
+83531.0,Patos de Minas,MG,fevereiro,22.9,1991 - 2021,2
+83531.0,Patos de Minas,MG,marco,22.4,1991 - 2021,3
+83531.0,Patos de Minas,MG,abril,21.8,1991 - 2021,4
+83531.0,Patos de Minas,MG,maio,19.8,1991 - 2021,5
+83531.0,Patos de Minas,MG,junho,18.9,1991 - 2021,6
+83531.0,Patos de Minas,MG,julho,19.1,1991 - 2021,7
+83531.0,Patos de Minas,MG,agosto,20.7,1991 - 2021,8
+83531.0,Patos de Minas,MG,setembro,22.7,1991 - 2021,9
+83531.0,Patos de Minas,MG,outubro,23.4,1991 - 2021,10
+83531.0,Patos de Minas,MG,novembro,22.5,1991 - 2021,11
+83531.0,Patos de Minas,MG,dezembro,22.5,1991 - 2021,12
+83577.0,Uberaba,MG,janeiro,23.5,1961 - 1991,1
+83577.0,Uberaba,MG,fevereiro,23.5,1961 - 1991,2
+83577.0,Uberaba,MG,marco,23.5,1961 - 1991,3
+83577.0,Uberaba,MG,abril,22.2,1961 - 1991,4
+83577.0,Uberaba,MG,maio,19.8,1961 - 1991,5
+83577.0,Uberaba,MG,junho,18.8,1961 - 1991,6
+83577.0,Uberaba,MG,julho,18.5,1961 - 1991,7
+83577.0,Uberaba,MG,agosto,20.9,1961 - 1991,8
+83577.0,Uberaba,MG,setembro,22.6,1961 - 1991,9
+83577.0,Uberaba,MG,outubro,23.2,1961 - 1991,10
+83577.0,Uberaba,MG,novembro,23.3,1961 - 1991,11
+83577.0,Uberaba,MG,dezembro,23.1,1961 - 1991,12
+83577.0,Uberaba,MG,janeiro,23.6,1981 - 2011,1
+83577.0,Uberaba,MG,fevereiro,23.7,1981 - 2011,2
+83577.0,Uberaba,MG,marco,23.5,1981 - 2011,3
+83577.0,Uberaba,MG,abril,22.5,1981 - 2011,4
+83577.0,Uberaba,MG,maio,19.8,1981 - 2011,5
+83577.0,Uberaba,MG,junho,18.6,1981 - 2011,6
+83577.0,Uberaba,MG,julho,18.9,1981 - 2011,7
+83577.0,Uberaba,MG,agosto,20.9,1981 - 2011,8
+83577.0,Uberaba,MG,setembro,22.8,1981 - 2011,9
+83577.0,Uberaba,MG,outubro,23.9,1981 - 2011,10
+83577.0,Uberaba,MG,novembro,23.7,1981 - 2011,11
+83577.0,Uberaba,MG,dezembro,23.6,1981 - 2011,12
+83577.0,Uberaba,MG,janeiro,23.8,1991 - 2021,1
+83577.0,Uberaba,MG,fevereiro,23.9,1991 - 2021,2
+83577.0,Uberaba,MG,marco,23.6,1991 - 2021,3
+83577.0,Uberaba,MG,abril,22.6,1991 - 2021,4
+83577.0,Uberaba,MG,maio,20.0,1991 - 2021,5
+83577.0,Uberaba,MG,junho,19.0,1991 - 2021,6
+83577.0,Uberaba,MG,julho,19.1,1991 - 2021,7
+83577.0,Uberaba,MG,agosto,21.1,1991 - 2021,8
+83577.0,Uberaba,MG,setembro,23.2,1991 - 2021,9
+83577.0,Uberaba,MG,outubro,24.2,1991 - 2021,10
+83577.0,Uberaba,MG,novembro,23.8,1991 - 2021,11
+83577.0,Uberaba,MG,dezembro,23.8,1991 - 2021,12
+83579.0,Araxá,MG,janeiro,21.5,1961 - 1991,1
+83579.0,Araxá,MG,fevereiro,22.0,1961 - 1991,2
+83579.0,Araxá,MG,marco,22.0,1961 - 1991,3
+83579.0,Araxá,MG,abril,20.3,1961 - 1991,4
+83579.0,Araxá,MG,maio,18.7,1961 - 1991,5
+83579.0,Araxá,MG,junho,17.9,1961 - 1991,6
+83579.0,Araxá,MG,julho,17.5,1961 - 1991,7
+83579.0,Araxá,MG,agosto,19.4,1961 - 1991,8
+83579.0,Araxá,MG,setembro,20.0,1961 - 1991,9
+83579.0,Araxá,MG,outubro,21.1,1961 - 1991,10
+83579.0,Araxá,MG,novembro,21.0,1961 - 1991,11
+83579.0,Araxá,MG,dezembro,21.0,1961 - 1991,12
+83579.0,Araxá,MG,janeiro,22.4,1981 - 2011,1
+83579.0,Araxá,MG,fevereiro,22.5,1981 - 2011,2
+83579.0,Araxá,MG,marco,22.2,1981 - 2011,3
+83579.0,Araxá,MG,abril,21.5,1981 - 2011,4
+83579.0,Araxá,MG,maio,19.4,1981 - 2011,5
+83579.0,Araxá,MG,junho,18.5,1981 - 2011,6
+83579.0,Araxá,MG,julho,18.4,1981 - 2011,7
+83579.0,Araxá,MG,agosto,20.0,1981 - 2011,8
+83579.0,Araxá,MG,setembro,21.6,1981 - 2011,9
+83579.0,Araxá,MG,outubro,22.3,1981 - 2011,10
+83579.0,Araxá,MG,novembro,22.0,1981 - 2011,11
+83579.0,Araxá,MG,dezembro,21.9,1981 - 2011,12
+83579.0,Araxá,MG,janeiro,22.6,1991 - 2021,1
+83579.0,Araxá,MG,fevereiro,22.7,1991 - 2021,2
+83579.0,Araxá,MG,marco,22.2,1991 - 2021,3
+83579.0,Araxá,MG,abril,21.6,1991 - 2021,4
+83579.0,Araxá,MG,maio,19.6,1991 - 2021,5
+83579.0,Araxá,MG,junho,18.7,1991 - 2021,6
+83579.0,Araxá,MG,julho,18.7,1991 - 2021,7
+83579.0,Araxá,MG,agosto,20.3,1991 - 2021,8
+83579.0,Araxá,MG,setembro,21.9,1991 - 2021,9
+83579.0,Araxá,MG,outubro,22.8,1991 - 2021,10
+83579.0,Araxá,MG,novembro,22.1,1991 - 2021,11
+83579.0,Araxá,MG,dezembro,22.3,1991 - 2021,12
+83582.0,Bambuí,MG,janeiro,23.2,1961 - 1991,1
+83582.0,Bambuí,MG,fevereiro,23.4,1961 - 1991,2
+83582.0,Bambuí,MG,marco,23.1,1961 - 1991,3
+83582.0,Bambuí,MG,abril,20.9,1961 - 1991,4
+83582.0,Bambuí,MG,maio,18.2,1961 - 1991,5
+83582.0,Bambuí,MG,junho,16.6,1961 - 1991,6
+83582.0,Bambuí,MG,julho,16.1,1961 - 1991,7
+83582.0,Bambuí,MG,agosto,18.4,1961 - 1991,8
+83582.0,Bambuí,MG,setembro,20.2,1961 - 1991,9
+83582.0,Bambuí,MG,outubro,22.2,1961 - 1991,10
+83582.0,Bambuí,MG,novembro,22.4,1961 - 1991,11
+83582.0,Bambuí,MG,dezembro,22.6,1961 - 1991,12
+83582.0,Bambuí,MG,janeiro,23.6,1981 - 2011,1
+83582.0,Bambuí,MG,fevereiro,23.5,1981 - 2011,2
+83582.0,Bambuí,MG,marco,22.9,1981 - 2011,3
+83582.0,Bambuí,MG,abril,21.6,1981 - 2011,4
+83582.0,Bambuí,MG,maio,18.5,1981 - 2011,5
+83582.0,Bambuí,MG,junho,16.4,1981 - 2011,6
+83582.0,Bambuí,MG,julho,16.4,1981 - 2011,7
+83582.0,Bambuí,MG,agosto,17.8,1981 - 2011,8
+83582.0,Bambuí,MG,setembro,20.7,1981 - 2011,9
+83582.0,Bambuí,MG,outubro,22.6,1981 - 2011,10
+83582.0,Bambuí,MG,novembro,22.8,1981 - 2011,11
+83582.0,Bambuí,MG,dezembro,23.2,1981 - 2011,12
+83582.0,Bambuí,MG,janeiro,23.6,1991 - 2021,1
+83582.0,Bambuí,MG,fevereiro,23.6,1991 - 2021,2
+83582.0,Bambuí,MG,marco,22.9,1991 - 2021,3
+83582.0,Bambuí,MG,abril,21.5,1991 - 2021,4
+83582.0,Bambuí,MG,maio,18.5,1991 - 2021,5
+83582.0,Bambuí,MG,junho,16.7,1991 - 2021,6
+83582.0,Bambuí,MG,julho,16.5,1991 - 2021,7
+83582.0,Bambuí,MG,agosto,17.9,1991 - 2021,8
+83582.0,Bambuí,MG,setembro,20.7,1991 - 2021,9
+83582.0,Bambuí,MG,outubro,22.7,1991 - 2021,10
+83582.0,Bambuí,MG,novembro,22.9,1991 - 2021,11
+83582.0,Bambuí,MG,dezembro,23.3,1991 - 2021,12
+83587.0,Belo Horizonte,MG,janeiro,22.8,1961 - 1991,1
+83587.0,Belo Horizonte,MG,fevereiro,23.0,1961 - 1991,2
+83587.0,Belo Horizonte,MG,marco,22.9,1961 - 1991,3
+83587.0,Belo Horizonte,MG,abril,21.7,1961 - 1991,4
+83587.0,Belo Horizonte,MG,maio,19.6,1961 - 1991,5
+83587.0,Belo Horizonte,MG,junho,18.5,1961 - 1991,6
+83587.0,Belo Horizonte,MG,julho,18.0,1961 - 1991,7
+83587.0,Belo Horizonte,MG,agosto,19.7,1961 - 1991,8
+83587.0,Belo Horizonte,MG,setembro,21.1,1961 - 1991,9
+83587.0,Belo Horizonte,MG,outubro,21.7,1961 - 1991,10
+83587.0,Belo Horizonte,MG,novembro,22.2,1961 - 1991,11
+83587.0,Belo Horizonte,MG,dezembro,22.2,1961 - 1991,12
+83587.0,Belo Horizonte,MG,janeiro,23.4,1981 - 2011,1
+83587.0,Belo Horizonte,MG,fevereiro,23.8,1981 - 2011,2
+83587.0,Belo Horizonte,MG,marco,23.4,1981 - 2011,3
+83587.0,Belo Horizonte,MG,abril,22.5,1981 - 2011,4
+83587.0,Belo Horizonte,MG,maio,20.5,1981 - 2011,5
+83587.0,Belo Horizonte,MG,junho,19.3,1981 - 2011,6
+83587.0,Belo Horizonte,MG,julho,19.1,1981 - 2011,7
+83587.0,Belo Horizonte,MG,agosto,20.3,1981 - 2011,8
+83587.0,Belo Horizonte,MG,setembro,21.6,1981 - 2011,9
+83587.0,Belo Horizonte,MG,outubro,22.6,1981 - 2011,10
+83587.0,Belo Horizonte,MG,novembro,22.7,1981 - 2011,11
+83587.0,Belo Horizonte,MG,dezembro,22.9,1981 - 2011,12
+83587.0,Belo Horizonte,MG,janeiro,23.7,1991 - 2021,1
+83587.0,Belo Horizonte,MG,fevereiro,24.0,1991 - 2021,2
+83587.0,Belo Horizonte,MG,marco,23.5,1991 - 2021,3
+83587.0,Belo Horizonte,MG,abril,22.6,1991 - 2021,4
+83587.0,Belo Horizonte,MG,maio,20.6,1991 - 2021,5
+83587.0,Belo Horizonte,MG,junho,19.6,1991 - 2021,6
+83587.0,Belo Horizonte,MG,julho,19.4,1991 - 2021,7
+83587.0,Belo Horizonte,MG,agosto,20.5,1991 - 2021,8
+83587.0,Belo Horizonte,MG,setembro,22.0,1991 - 2021,9
+83587.0,Belo Horizonte,MG,outubro,23.0,1991 - 2021,10
+83587.0,Belo Horizonte,MG,novembro,22.7,1991 - 2021,11
+83587.0,Belo Horizonte,MG,dezembro,23.3,1991 - 2021,12
+83592.0,Caratinga,MG,janeiro,23.2,1961 - 1991,1
+83592.0,Caratinga,MG,fevereiro,23.6,1961 - 1991,2
+83592.0,Caratinga,MG,marco,23.1,1961 - 1991,3
+83592.0,Caratinga,MG,abril,21.4,1961 - 1991,4
+83592.0,Caratinga,MG,maio,19.4,1961 - 1991,5
+83592.0,Caratinga,MG,junho,18.1,1961 - 1991,6
+83592.0,Caratinga,MG,julho,17.8,1961 - 1991,7
+83592.0,Caratinga,MG,agosto,19.1,1961 - 1991,8
+83592.0,Caratinga,MG,setembro,20.5,1961 - 1991,9
+83592.0,Caratinga,MG,outubro,22.1,1961 - 1991,10
+83592.0,Caratinga,MG,novembro,22.8,1961 - 1991,11
+83592.0,Caratinga,MG,dezembro,22.9,1961 - 1991,12
+83592.0,Caratinga,MG,janeiro,23.6,1981 - 2011,1
+83592.0,Caratinga,MG,fevereiro,24.1,1981 - 2011,2
+83592.0,Caratinga,MG,marco,23.5,1981 - 2011,3
+83592.0,Caratinga,MG,abril,22.0,1981 - 2011,4
+83592.0,Caratinga,MG,maio,19.7,1981 - 2011,5
+83592.0,Caratinga,MG,junho,18.2,1981 - 2011,6
+83592.0,Caratinga,MG,julho,18.2,1981 - 2011,7
+83592.0,Caratinga,MG,agosto,19.4,1981 - 2011,8
+83592.0,Caratinga,MG,setembro,20.9,1981 - 2011,9
+83592.0,Caratinga,MG,outubro,22.5,1981 - 2011,10
+83592.0,Caratinga,MG,novembro,22.9,1981 - 2011,11
+83592.0,Caratinga,MG,dezembro,23.3,1981 - 2011,12
+83592.0,Caratinga,MG,janeiro,23.9,1991 - 2021,1
+83592.0,Caratinga,MG,fevereiro,24.2,1991 - 2021,2
+83592.0,Caratinga,MG,marco,23.6,1991 - 2021,3
+83592.0,Caratinga,MG,abril,22.2,1991 - 2021,4
+83592.0,Caratinga,MG,maio,19.7,1991 - 2021,5
+83592.0,Caratinga,MG,junho,18.5,1991 - 2021,6
+83592.0,Caratinga,MG,julho,18.3,1991 - 2021,7
+83592.0,Caratinga,MG,agosto,19.4,1991 - 2021,8
+83592.0,Caratinga,MG,setembro,21.3,1991 - 2021,9
+83592.0,Caratinga,MG,outubro,22.7,1991 - 2021,10
+83592.0,Caratinga,MG,novembro,22.8,1991 - 2021,11
+83592.0,Caratinga,MG,dezembro,23.5,1991 - 2021,12
+83630.0,Franca,SP,janeiro,21.7,1961 - 1991,1
+83630.0,Franca,SP,fevereiro,22.0,1961 - 1991,2
+83630.0,Franca,SP,marco,22.0,1961 - 1991,3
+83630.0,Franca,SP,abril,21.0,1961 - 1991,4
+83630.0,Franca,SP,maio,19.0,1961 - 1991,5
+83630.0,Franca,SP,junho,17.8,1961 - 1991,6
+83630.0,Franca,SP,julho,17.7,1961 - 1991,7
+83630.0,Franca,SP,agosto,19.7,1961 - 1991,8
+83630.0,Franca,SP,setembro,20.7,1961 - 1991,9
+83630.0,Franca,SP,outubro,21.2,1961 - 1991,10
+83630.0,Franca,SP,novembro,21.5,1961 - 1991,11
+83630.0,Franca,SP,dezembro,21.3,1961 - 1991,12
+83630.0,Franca,SP,janeiro,22.2,1981 - 2011,1
+83630.0,Franca,SP,fevereiro,22.4,1981 - 2011,2
+83630.0,Franca,SP,marco,22.2,1981 - 2011,3
+83630.0,Franca,SP,abril,21.3,1981 - 2011,4
+83630.0,Franca,SP,maio,19.0,1981 - 2011,5
+83630.0,Franca,SP,junho,18.2,1981 - 2011,6
+83630.0,Franca,SP,julho,18.3,1981 - 2011,7
+83630.0,Franca,SP,agosto,20.2,1981 - 2011,8
+83630.0,Franca,SP,setembro,21.2,1981 - 2011,9
+83630.0,Franca,SP,outubro,22.2,1981 - 2011,10
+83630.0,Franca,SP,novembro,22.1,1981 - 2011,11
+83630.0,Franca,SP,dezembro,22.0,1981 - 2011,12
+83630.0,Franca,SP,janeiro,22.6,1991 - 2021,1
+83630.0,Franca,SP,fevereiro,22.7,1991 - 2021,2
+83630.0,Franca,SP,marco,22.4,1991 - 2021,3
+83630.0,Franca,SP,abril,21.6,1991 - 2021,4
+83630.0,Franca,SP,maio,19.2,1991 - 2021,5
+83630.0,Franca,SP,junho,18.7,1991 - 2021,6
+83630.0,Franca,SP,julho,18.8,1991 - 2021,7
+83630.0,Franca,SP,agosto,20.5,1991 - 2021,8
+83630.0,Franca,SP,setembro,22.1,1991 - 2021,9
+83630.0,Franca,SP,outubro,22.8,1991 - 2021,10
+83630.0,Franca,SP,novembro,22.3,1991 - 2021,11
+83630.0,Franca,SP,dezembro,22.5,1991 - 2021,12
+83642.0,Viçosa,MG,janeiro,22.1,1961 - 1991,1
+83642.0,Viçosa,MG,fevereiro,22.2,1961 - 1991,2
+83642.0,Viçosa,MG,marco,21.8,1961 - 1991,3
+83642.0,Viçosa,MG,abril,19.7,1961 - 1991,4
+83642.0,Viçosa,MG,maio,17.2,1961 - 1991,5
+83642.0,Viçosa,MG,junho,15.9,1961 - 1991,6
+83642.0,Viçosa,MG,julho,15.5,1961 - 1991,7
+83642.0,Viçosa,MG,agosto,16.9,1961 - 1991,8
+83642.0,Viçosa,MG,setembro,18.5,1961 - 1991,9
+83642.0,Viçosa,MG,outubro,20.2,1961 - 1991,10
+83642.0,Viçosa,MG,novembro,21.1,1961 - 1991,11
+83642.0,Viçosa,MG,dezembro,21.5,1961 - 1991,12
+83642.0,Viçosa,MG,janeiro,22.7,1981 - 2011,1
+83642.0,Viçosa,MG,fevereiro,22.9,1981 - 2011,2
+83642.0,Viçosa,MG,marco,22.3,1981 - 2011,3
+83642.0,Viçosa,MG,abril,20.7,1981 - 2011,4
+83642.0,Viçosa,MG,maio,18.1,1981 - 2011,5
+83642.0,Viçosa,MG,junho,16.5,1981 - 2011,6
+83642.0,Viçosa,MG,julho,16.2,1981 - 2011,7
+83642.0,Viçosa,MG,agosto,17.5,1981 - 2011,8
+83642.0,Viçosa,MG,setembro,19.2,1981 - 2011,9
+83642.0,Viçosa,MG,outubro,20.9,1981 - 2011,10
+83642.0,Viçosa,MG,novembro,21.6,1981 - 2011,11
+83642.0,Viçosa,MG,dezembro,22.3,1981 - 2011,12
+83642.0,Viçosa,MG,janeiro,22.8,1991 - 2021,1
+83642.0,Viçosa,MG,fevereiro,23.0,1991 - 2021,2
+83642.0,Viçosa,MG,marco,22.3,1991 - 2021,3
+83642.0,Viçosa,MG,abril,20.9,1991 - 2021,4
+83642.0,Viçosa,MG,maio,18.1,1991 - 2021,5
+83642.0,Viçosa,MG,junho,16.7,1991 - 2021,6
+83642.0,Viçosa,MG,julho,16.4,1991 - 2021,7
+83642.0,Viçosa,MG,agosto,17.6,1991 - 2021,8
+83642.0,Viçosa,MG,setembro,19.5,1991 - 2021,9
+83642.0,Viçosa,MG,outubro,21.1,1991 - 2021,10
+83642.0,Viçosa,MG,novembro,21.5,1991 - 2021,11
+83642.0,Viçosa,MG,dezembro,22.5,1991 - 2021,12
+83648.0,Vitória,ES,janeiro,26.2,1961 - 1991,1
+83648.0,Vitória,ES,fevereiro,26.7,1961 - 1991,2
+83648.0,Vitória,ES,marco,26.5,1961 - 1991,3
+83648.0,Vitória,ES,abril,25.1,1961 - 1991,4
+83648.0,Vitória,ES,maio,23.3,1961 - 1991,5
+83648.0,Vitória,ES,junho,22.3,1961 - 1991,6
+83648.0,Vitória,ES,julho,21.6,1961 - 1991,7
+83648.0,Vitória,ES,agosto,22.2,1961 - 1991,8
+83648.0,Vitória,ES,setembro,22.8,1961 - 1991,9
+83648.0,Vitória,ES,outubro,23.5,1961 - 1991,10
+83648.0,Vitória,ES,novembro,24.4,1961 - 1991,11
+83648.0,Vitória,ES,dezembro,25.5,1961 - 1991,12
+83648.0,Vitória,ES,janeiro,26.9,1981 - 2011,1
+83648.0,Vitória,ES,fevereiro,27.4,1981 - 2011,2
+83648.0,Vitória,ES,marco,27.1,1981 - 2011,3
+83648.0,Vitória,ES,abril,25.9,1981 - 2011,4
+83648.0,Vitória,ES,maio,24.0,1981 - 2011,5
+83648.0,Vitória,ES,junho,22.8,1981 - 2011,6
+83648.0,Vitória,ES,julho,22.4,1981 - 2011,7
+83648.0,Vitória,ES,agosto,22.6,1981 - 2011,8
+83648.0,Vitória,ES,setembro,23.2,1981 - 2011,9
+83648.0,Vitória,ES,outubro,24.3,1981 - 2011,10
+83648.0,Vitória,ES,novembro,24.9,1981 - 2011,11
+83648.0,Vitória,ES,dezembro,26.0,1981 - 2011,12
+83648.0,Vitória,ES,janeiro,27.1,1991 - 2021,1
+83648.0,Vitória,ES,fevereiro,27.5,1991 - 2021,2
+83648.0,Vitória,ES,marco,27.1,1991 - 2021,3
+83648.0,Vitória,ES,abril,25.9,1991 - 2021,4
+83648.0,Vitória,ES,maio,24.0,1991 - 2021,5
+83648.0,Vitória,ES,junho,23.1,1991 - 2021,6
+83648.0,Vitória,ES,julho,22.5,1991 - 2021,7
+83648.0,Vitória,ES,agosto,22.6,1991 - 2021,8
+83648.0,Vitória,ES,setembro,23.4,1991 - 2021,9
+83648.0,Vitória,ES,outubro,24.4,1991 - 2021,10
+83648.0,Vitória,ES,novembro,25.0,1991 - 2021,11
+83648.0,Vitória,ES,dezembro,26.3,1991 - 2021,12
+83683.0,Machado,MG,janeiro,22.2,1961 - 1991,1
+83683.0,Machado,MG,fevereiro,22.5,1961 - 1991,2
+83683.0,Machado,MG,marco,22.0,1961 - 1991,3
+83683.0,Machado,MG,abril,20.0,1961 - 1991,4
+83683.0,Machado,MG,maio,17.5,1961 - 1991,5
+83683.0,Machado,MG,junho,16.0,1961 - 1991,6
+83683.0,Machado,MG,julho,15.9,1961 - 1991,7
+83683.0,Machado,MG,agosto,17.9,1961 - 1991,8
+83683.0,Machado,MG,setembro,19.7,1961 - 1991,9
+83683.0,Machado,MG,outubro,20.9,1961 - 1991,10
+83683.0,Machado,MG,novembro,21.5,1961 - 1991,11
+83683.0,Machado,MG,dezembro,21.7,1961 - 1991,12
+83683.0,Machado,MG,janeiro,22.6,1981 - 2011,1
+83683.0,Machado,MG,fevereiro,22.7,1981 - 2011,2
+83683.0,Machado,MG,marco,22.2,1981 - 2011,3
+83683.0,Machado,MG,abril,20.6,1981 - 2011,4
+83683.0,Machado,MG,maio,17.7,1981 - 2011,5
+83683.0,Machado,MG,junho,16.0,1981 - 2011,6
+83683.0,Machado,MG,julho,16.2,1981 - 2011,7
+83683.0,Machado,MG,agosto,17.8,1981 - 2011,8
+83683.0,Machado,MG,setembro,19.8,1981 - 2011,9
+83683.0,Machado,MG,outubro,21.5,1981 - 2011,10
+83683.0,Machado,MG,novembro,21.9,1981 - 2011,11
+83683.0,Machado,MG,dezembro,22.3,1981 - 2011,12
+83683.0,Machado,MG,janeiro,22.9,1991 - 2021,1
+83683.0,Machado,MG,fevereiro,22.9,1991 - 2021,2
+83683.0,Machado,MG,marco,22.3,1991 - 2021,3
+83683.0,Machado,MG,abril,20.8,1991 - 2021,4
+83683.0,Machado,MG,maio,17.7,1991 - 2021,5
+83683.0,Machado,MG,junho,16.3,1991 - 2021,6
+83683.0,Machado,MG,julho,16.3,1991 - 2021,7
+83683.0,Machado,MG,agosto,17.9,1991 - 2021,8
+83683.0,Machado,MG,setembro,20.3,1991 - 2021,9
+83683.0,Machado,MG,outubro,21.8,1991 - 2021,10
+83683.0,Machado,MG,novembro,21.9,1991 - 2021,11
+83683.0,Machado,MG,dezembro,22.7,1991 - 2021,12
+83687.0,Lavras,MG,janeiro,21.8,1961 - 1991,1
+83687.0,Lavras,MG,fevereiro,22.1,1961 - 1991,2
+83687.0,Lavras,MG,marco,21.6,1961 - 1991,3
+83687.0,Lavras,MG,abril,19.8,1961 - 1991,4
+83687.0,Lavras,MG,maio,17.4,1961 - 1991,5
+83687.0,Lavras,MG,junho,16.3,1961 - 1991,6
+83687.0,Lavras,MG,julho,15.9,1961 - 1991,7
+83687.0,Lavras,MG,agosto,17.7,1961 - 1991,8
+83687.0,Lavras,MG,setembro,19.4,1961 - 1991,9
+83687.0,Lavras,MG,outubro,20.4,1961 - 1991,10
+83687.0,Lavras,MG,novembro,20.9,1961 - 1991,11
+83687.0,Lavras,MG,dezembro,21.2,1961 - 1991,12
+83687.0,Lavras,MG,janeiro,22.5,1981 - 2011,1
+83687.0,Lavras,MG,fevereiro,22.8,1981 - 2011,2
+83687.0,Lavras,MG,marco,22.2,1981 - 2011,3
+83687.0,Lavras,MG,abril,20.8,1981 - 2011,4
+83687.0,Lavras,MG,maio,18.2,1981 - 2011,5
+83687.0,Lavras,MG,junho,16.9,1981 - 2011,6
+83687.0,Lavras,MG,julho,16.9,1981 - 2011,7
+83687.0,Lavras,MG,agosto,18.5,1981 - 2011,8
+83687.0,Lavras,MG,setembro,20.1,1981 - 2011,9
+83687.0,Lavras,MG,outubro,21.3,1981 - 2011,10
+83687.0,Lavras,MG,novembro,21.6,1981 - 2011,11
+83687.0,Lavras,MG,dezembro,22.0,1981 - 2011,12
+83687.0,Lavras,MG,janeiro,22.8,1991 - 2021,1
+83687.0,Lavras,MG,fevereiro,23.0,1991 - 2021,2
+83687.0,Lavras,MG,marco,22.4,1991 - 2021,3
+83687.0,Lavras,MG,abril,21.1,1991 - 2021,4
+83687.0,Lavras,MG,maio,18.3,1991 - 2021,5
+83687.0,Lavras,MG,junho,17.2,1991 - 2021,6
+83687.0,Lavras,MG,julho,17.2,1991 - 2021,7
+83687.0,Lavras,MG,agosto,18.7,1991 - 2021,8
+83687.0,Lavras,MG,setembro,20.5,1991 - 2021,9
+83687.0,Lavras,MG,outubro,21.9,1991 - 2021,10
+83687.0,Lavras,MG,novembro,21.8,1991 - 2021,11
+83687.0,Lavras,MG,dezembro,22.5,1991 - 2021,12
+83692.0,Juiz de Fora,MG,janeiro,21.9,1961 - 1991,1
+83692.0,Juiz de Fora,MG,fevereiro,22.4,1961 - 1991,2
+83692.0,Juiz de Fora,MG,marco,21.4,1961 - 1991,3
+83692.0,Juiz de Fora,MG,abril,19.5,1961 - 1991,4
+83692.0,Juiz de Fora,MG,maio,17.6,1961 - 1991,5
+83692.0,Juiz de Fora,MG,junho,16.5,1961 - 1991,6
+83692.0,Juiz de Fora,MG,julho,16.1,1961 - 1991,7
+83692.0,Juiz de Fora,MG,agosto,17.2,1961 - 1991,8
+83692.0,Juiz de Fora,MG,setembro,18.0,1961 - 1991,9
+83692.0,Juiz de Fora,MG,outubro,19.4,1961 - 1991,10
+83692.0,Juiz de Fora,MG,novembro,20.3,1961 - 1991,11
+83692.0,Juiz de Fora,MG,dezembro,21.1,1961 - 1991,12
+83692.0,Juiz de Fora,MG,janeiro,21.3,1981 - 2011,1
+83692.0,Juiz de Fora,MG,fevereiro,21.8,1981 - 2011,2
+83692.0,Juiz de Fora,MG,marco,21.0,1981 - 2011,3
+83692.0,Juiz de Fora,MG,abril,19.6,1981 - 2011,4
+83692.0,Juiz de Fora,MG,maio,17.5,1981 - 2011,5
+83692.0,Juiz de Fora,MG,junho,16.7,1981 - 2011,6
+83692.0,Juiz de Fora,MG,julho,16.4,1981 - 2011,7
+83692.0,Juiz de Fora,MG,agosto,17.1,1981 - 2011,8
+83692.0,Juiz de Fora,MG,setembro,17.8,1981 - 2011,9
+83692.0,Juiz de Fora,MG,outubro,19.3,1981 - 2011,10
+83692.0,Juiz de Fora,MG,novembro,19.9,1981 - 2011,11
+83692.0,Juiz de Fora,MG,dezembro,20.7,1981 - 2011,12
+83692.0,Juiz de Fora,MG,janeiro,21.8,1991 - 2021,1
+83692.0,Juiz de Fora,MG,fevereiro,22.1,1991 - 2021,2
+83692.0,Juiz de Fora,MG,marco,21.3,1991 - 2021,3
+83692.0,Juiz de Fora,MG,abril,20.0,1991 - 2021,4
+83692.0,Juiz de Fora,MG,maio,17.6,1991 - 2021,5
+83692.0,Juiz de Fora,MG,junho,16.9,1991 - 2021,6
+83692.0,Juiz de Fora,MG,julho,16.7,1991 - 2021,7
+83692.0,Juiz de Fora,MG,agosto,17.3,1991 - 2021,8
+83692.0,Juiz de Fora,MG,setembro,18.5,1991 - 2021,9
+83692.0,Juiz de Fora,MG,outubro,19.6,1991 - 2021,10
+83692.0,Juiz de Fora,MG,novembro,19.9,1991 - 2021,11
+83692.0,Juiz de Fora,MG,dezembro,21.2,1991 - 2021,12
+83695.0,Itaperuna,RJ,janeiro,26.0,1961 - 1991,1
+83695.0,Itaperuna,RJ,fevereiro,26.4,1961 - 1991,2
+83695.0,Itaperuna,RJ,marco,25.8,1961 - 1991,3
+83695.0,Itaperuna,RJ,abril,23.9,1961 - 1991,4
+83695.0,Itaperuna,RJ,maio,21.8,1961 - 1991,5
+83695.0,Itaperuna,RJ,junho,20.6,1961 - 1991,6
+83695.0,Itaperuna,RJ,julho,20.0,1961 - 1991,7
+83695.0,Itaperuna,RJ,agosto,21.3,1961 - 1991,8
+83695.0,Itaperuna,RJ,setembro,22.2,1961 - 1991,9
+83695.0,Itaperuna,RJ,outubro,23.2,1961 - 1991,10
+83695.0,Itaperuna,RJ,novembro,24.1,1961 - 1991,11
+83695.0,Itaperuna,RJ,dezembro,24.9,1961 - 1991,12
+83695.0,Itaperuna,RJ,janeiro,26.8,1981 - 2011,1
+83695.0,Itaperuna,RJ,fevereiro,27.0,1981 - 2011,2
+83695.0,Itaperuna,RJ,marco,26.3,1981 - 2011,3
+83695.0,Itaperuna,RJ,abril,24.9,1981 - 2011,4
+83695.0,Itaperuna,RJ,maio,22.3,1981 - 2011,5
+83695.0,Itaperuna,RJ,junho,20.9,1981 - 2011,6
+83695.0,Itaperuna,RJ,julho,20.8,1981 - 2011,7
+83695.0,Itaperuna,RJ,agosto,21.7,1981 - 2011,8
+83695.0,Itaperuna,RJ,setembro,22.9,1981 - 2011,9
+83695.0,Itaperuna,RJ,outubro,24.3,1981 - 2011,10
+83695.0,Itaperuna,RJ,novembro,25.0,1981 - 2011,11
+83695.0,Itaperuna,RJ,dezembro,25.9,1981 - 2011,12
+83695.0,Itaperuna,RJ,janeiro,27.0,1991 - 2021,1
+83695.0,Itaperuna,RJ,fevereiro,27.1,1991 - 2021,2
+83695.0,Itaperuna,RJ,marco,26.3,1991 - 2021,3
+83695.0,Itaperuna,RJ,abril,24.8,1991 - 2021,4
+83695.0,Itaperuna,RJ,maio,22.2,1991 - 2021,5
+83695.0,Itaperuna,RJ,junho,21.0,1991 - 2021,6
+83695.0,Itaperuna,RJ,julho,20.9,1991 - 2021,7
+83695.0,Itaperuna,RJ,agosto,21.8,1991 - 2021,8
+83695.0,Itaperuna,RJ,setembro,23.2,1991 - 2021,9
+83695.0,Itaperuna,RJ,outubro,24.5,1991 - 2021,10
+83695.0,Itaperuna,RJ,novembro,24.9,1991 - 2021,11
+83695.0,Itaperuna,RJ,dezembro,26.1,1991 - 2021,12
+83698.0,Campos ,RJ,janeiro,26.2,1961 - 1991,1
+83698.0,Campos ,RJ,fevereiro,26.6,1961 - 1991,2
+83698.0,Campos ,RJ,marco,26.3,1961 - 1991,3
+83698.0,Campos ,RJ,abril,24.3,1961 - 1991,4
+83698.0,Campos ,RJ,maio,22.6,1961 - 1991,5
+83698.0,Campos ,RJ,junho,21.4,1961 - 1991,6
+83698.0,Campos ,RJ,julho,20.7,1961 - 1991,7
+83698.0,Campos ,RJ,agosto,21.6,1961 - 1991,8
+83698.0,Campos ,RJ,setembro,22.2,1961 - 1991,9
+83698.0,Campos ,RJ,outubro,23.2,1961 - 1991,10
+83698.0,Campos ,RJ,novembro,24.4,1961 - 1991,11
+83698.0,Campos ,RJ,dezembro,25.3,1961 - 1991,12
+83698.0,Campos ,RJ,janeiro,26.7,1981 - 2011,1
+83698.0,Campos ,RJ,fevereiro,27.4,1981 - 2011,2
+83698.0,Campos ,RJ,marco,26.9,1981 - 2011,3
+83698.0,Campos ,RJ,abril,25.3,1981 - 2011,4
+83698.0,Campos ,RJ,maio,23.3,1981 - 2011,5
+83698.0,Campos ,RJ,junho,22.0,1981 - 2011,6
+83698.0,Campos ,RJ,julho,21.6,1981 - 2011,7
+83698.0,Campos ,RJ,agosto,22.1,1981 - 2011,8
+83698.0,Campos ,RJ,setembro,22.7,1981 - 2011,9
+83698.0,Campos ,RJ,outubro,24.0,1981 - 2011,10
+83698.0,Campos ,RJ,novembro,25.0,1981 - 2011,11
+83698.0,Campos ,RJ,dezembro,26.1,1981 - 2011,12
+83698.0,Campos ,RJ,janeiro,26.9,1991 - 2021,1
+83698.0,Campos ,RJ,fevereiro,27.5,1991 - 2021,2
+83698.0,Campos ,RJ,marco,26.9,1991 - 2021,3
+83698.0,Campos ,RJ,abril,25.6,1991 - 2021,4
+83698.0,Campos ,RJ,maio,23.3,1991 - 2021,5
+83698.0,Campos ,RJ,junho,22.2,1991 - 2021,6
+83698.0,Campos ,RJ,julho,21.7,1991 - 2021,7
+83698.0,Campos ,RJ,agosto,22.1,1991 - 2021,8
+83698.0,Campos ,RJ,setembro,23.0,1991 - 2021,9
+83698.0,Campos ,RJ,outubro,24.2,1991 - 2021,10
+83698.0,Campos ,RJ,novembro,24.9,1991 - 2021,11
+83698.0,Campos ,RJ,dezembro,26.3,1991 - 2021,12
+83736.0,São Lourenço,MG,janeiro,22.2,1961 - 1991,1
+83736.0,São Lourenço,MG,fevereiro,22.3,1961 - 1991,2
+83736.0,São Lourenço,MG,marco,21.7,1961 - 1991,3
+83736.0,São Lourenço,MG,abril,19.5,1961 - 1991,4
+83736.0,São Lourenço,MG,maio,16.2,1961 - 1991,5
+83736.0,São Lourenço,MG,junho,14.6,1961 - 1991,6
+83736.0,São Lourenço,MG,julho,14.3,1961 - 1991,7
+83736.0,São Lourenço,MG,agosto,16.4,1961 - 1991,8
+83736.0,São Lourenço,MG,setembro,18.7,1961 - 1991,9
+83736.0,São Lourenço,MG,outubro,20.4,1961 - 1991,10
+83736.0,São Lourenço,MG,novembro,21.3,1961 - 1991,11
+83736.0,São Lourenço,MG,dezembro,21.7,1961 - 1991,12
+83736.0,São Lourenço,MG,janeiro,22.4,1981 - 2011,1
+83736.0,São Lourenço,MG,fevereiro,22.3,1981 - 2011,2
+83736.0,São Lourenço,MG,marco,21.7,1981 - 2011,3
+83736.0,São Lourenço,MG,abril,20.0,1981 - 2011,4
+83736.0,São Lourenço,MG,maio,16.5,1981 - 2011,5
+83736.0,São Lourenço,MG,junho,14.8,1981 - 2011,6
+83736.0,São Lourenço,MG,julho,14.8,1981 - 2011,7
+83736.0,São Lourenço,MG,agosto,16.6,1981 - 2011,8
+83736.0,São Lourenço,MG,setembro,18.8,1981 - 2011,9
+83736.0,São Lourenço,MG,outubro,20.8,1981 - 2011,10
+83736.0,São Lourenço,MG,novembro,21.5,1981 - 2011,11
+83736.0,São Lourenço,MG,dezembro,22.0,1981 - 2011,12
+83736.0,São Lourenço,MG,janeiro,22.4,1991 - 2021,1
+83736.0,São Lourenço,MG,fevereiro,22.3,1991 - 2021,2
+83736.0,São Lourenço,MG,marco,21.6,1991 - 2021,3
+83736.0,São Lourenço,MG,abril,19.8,1991 - 2021,4
+83736.0,São Lourenço,MG,maio,16.4,1991 - 2021,5
+83736.0,São Lourenço,MG,junho,15.1,1991 - 2021,6
+83736.0,São Lourenço,MG,julho,14.8,1991 - 2021,7
+83736.0,São Lourenço,MG,agosto,16.6,1991 - 2021,8
+83736.0,São Lourenço,MG,setembro,19.2,1991 - 2021,9
+83736.0,São Lourenço,MG,outubro,21.0,1991 - 2021,10
+83736.0,São Lourenço,MG,novembro,21.3,1991 - 2021,11
+83736.0,São Lourenço,MG,dezembro,22.1,1991 - 2021,12
+83767.0,Maringá,PR,janeiro,24.5,1961 - 1991,1
+83767.0,Maringá,PR,fevereiro,24.5,1961 - 1991,2
+83767.0,Maringá,PR,marco,24.0,1961 - 1991,3
+83767.0,Maringá,PR,abril,22.0,1961 - 1991,4
+83767.0,Maringá,PR,maio,19.5,1961 - 1991,5
+83767.0,Maringá,PR,junho,17.8,1961 - 1991,6
+83767.0,Maringá,PR,julho,18.0,1961 - 1991,7
+83767.0,Maringá,PR,agosto,19.6,1961 - 1991,8
+83767.0,Maringá,PR,setembro,20.5,1961 - 1991,9
+83767.0,Maringá,PR,outubro,22.3,1961 - 1991,10
+83767.0,Maringá,PR,novembro,23.6,1961 - 1991,11
+83767.0,Maringá,PR,dezembro,24.0,1961 - 1991,12
+83767.0,Maringá,PR,janeiro,24.9,1981 - 2011,1
+83767.0,Maringá,PR,fevereiro,24.6,1981 - 2011,2
+83767.0,Maringá,PR,marco,24.5,1981 - 2011,3
+83767.0,Maringá,PR,abril,22.9,1981 - 2011,4
+83767.0,Maringá,PR,maio,19.4,1981 - 2011,5
+83767.0,Maringá,PR,junho,18.4,1981 - 2011,6
+83767.0,Maringá,PR,julho,18.3,1981 - 2011,7
+83767.0,Maringá,PR,agosto,20.1,1981 - 2011,8
+83767.0,Maringá,PR,setembro,21.1,1981 - 2011,9
+83767.0,Maringá,PR,outubro,23.2,1981 - 2011,10
+83767.0,Maringá,PR,novembro,24.2,1981 - 2011,11
+83767.0,Maringá,PR,dezembro,24.7,1981 - 2011,12
+83767.0,Maringá,PR,janeiro,25.0,1991 - 2021,1
+83767.0,Maringá,PR,fevereiro,24.9,1991 - 2021,2
+83767.0,Maringá,PR,marco,24.6,1991 - 2021,3
+83767.0,Maringá,PR,abril,23.0,1991 - 2021,4
+83767.0,Maringá,PR,maio,19.6,1991 - 2021,5
+83767.0,Maringá,PR,junho,18.7,1991 - 2021,6
+83767.0,Maringá,PR,julho,18.6,1991 - 2021,7
+83767.0,Maringá,PR,agosto,20.6,1991 - 2021,8
+83767.0,Maringá,PR,setembro,22.2,1991 - 2021,9
+83767.0,Maringá,PR,outubro,23.7,1991 - 2021,10
+83767.0,Maringá,PR,novembro,24.4,1991 - 2021,11
+83767.0,Maringá,PR,dezembro,25.0,1991 - 2021,12
+83781.0,São Paulo (Mir. de Santana),SP,janeiro,22.1,1961 - 1991,1
+83781.0,São Paulo (Mir. de Santana),SP,fevereiro,22.4,1961 - 1991,2
+83781.0,São Paulo (Mir. de Santana),SP,marco,21.8,1961 - 1991,3
+83781.0,São Paulo (Mir. de Santana),SP,abril,19.7,1961 - 1991,4
+83781.0,São Paulo (Mir. de Santana),SP,maio,17.4,1961 - 1991,5
+83781.0,São Paulo (Mir. de Santana),SP,junho,16.3,1961 - 1991,6
+83781.0,São Paulo (Mir. de Santana),SP,julho,15.8,1961 - 1991,7
+83781.0,São Paulo (Mir. de Santana),SP,agosto,17.1,1961 - 1991,8
+83781.0,São Paulo (Mir. de Santana),SP,setembro,17.9,1961 - 1991,9
+83781.0,São Paulo (Mir. de Santana),SP,outubro,19.0,1961 - 1991,10
+83781.0,São Paulo (Mir. de Santana),SP,novembro,20.2,1961 - 1991,11
+83781.0,São Paulo (Mir. de Santana),SP,dezembro,21.1,1961 - 1991,12
+83781.0,São Paulo (Mir. de Santana),SP,janeiro,22.9,1981 - 2011,1
+83781.0,São Paulo (Mir. de Santana),SP,fevereiro,23.2,1981 - 2011,2
+83781.0,São Paulo (Mir. de Santana),SP,marco,22.4,1981 - 2011,3
+83781.0,São Paulo (Mir. de Santana),SP,abril,21.0,1981 - 2011,4
+83781.0,São Paulo (Mir. de Santana),SP,maio,18.2,1981 - 2011,5
+83781.0,São Paulo (Mir. de Santana),SP,junho,17.1,1981 - 2011,6
+83781.0,São Paulo (Mir. de Santana),SP,julho,16.7,1981 - 2011,7
+83781.0,São Paulo (Mir. de Santana),SP,agosto,17.7,1981 - 2011,8
+83781.0,São Paulo (Mir. de Santana),SP,setembro,18.5,1981 - 2011,9
+83781.0,São Paulo (Mir. de Santana),SP,outubro,20.0,1981 - 2011,10
+83781.0,São Paulo (Mir. de Santana),SP,novembro,21.2,1981 - 2011,11
+83781.0,São Paulo (Mir. de Santana),SP,dezembro,22.1,1981 - 2011,12
+83781.0,São Paulo (Mir. de Santana),SP,janeiro,23.1,1991 - 2021,1
+83781.0,São Paulo (Mir. de Santana),SP,fevereiro,23.5,1991 - 2021,2
+83781.0,São Paulo (Mir. de Santana),SP,marco,22.5,1991 - 2021,3
+83781.0,São Paulo (Mir. de Santana),SP,abril,21.2,1991 - 2021,4
+83781.0,São Paulo (Mir. de Santana),SP,maio,18.4,1991 - 2021,5
+83781.0,São Paulo (Mir. de Santana),SP,junho,17.5,1991 - 2021,6
+83781.0,São Paulo (Mir. de Santana),SP,julho,17.2,1991 - 2021,7
+83781.0,São Paulo (Mir. de Santana),SP,agosto,18.1,1991 - 2021,8
+83781.0,São Paulo (Mir. de Santana),SP,setembro,19.1,1991 - 2021,9
+83781.0,São Paulo (Mir. de Santana),SP,outubro,20.5,1991 - 2021,10
+83781.0,São Paulo (Mir. de Santana),SP,novembro,21.2,1991 - 2021,11
+83781.0,São Paulo (Mir. de Santana),SP,dezembro,22.6,1991 - 2021,12
+83836.0,Irati,PR,janeiro,20.4,1961 - 1991,1
+83836.0,Irati,PR,fevereiro,20.7,1961 - 1991,2
+83836.0,Irati,PR,marco,19.7,1961 - 1991,3
+83836.0,Irati,PR,abril,16.5,1961 - 1991,4
+83836.0,Irati,PR,maio,14.5,1961 - 1991,5
+83836.0,Irati,PR,junho,13.1,1961 - 1991,6
+83836.0,Irati,PR,julho,13.3,1961 - 1991,7
+83836.0,Irati,PR,agosto,14.0,1961 - 1991,8
+83836.0,Irati,PR,setembro,15.5,1961 - 1991,9
+83836.0,Irati,PR,outubro,17.1,1961 - 1991,10
+83836.0,Irati,PR,novembro,18.6,1961 - 1991,11
+83836.0,Irati,PR,dezembro,19.8,1961 - 1991,12
+83836.0,Irati,PR,janeiro,21.1,1981 - 2011,1
+83836.0,Irati,PR,fevereiro,21.1,1981 - 2011,2
+83836.0,Irati,PR,marco,20.1,1981 - 2011,3
+83836.0,Irati,PR,abril,17.7,1981 - 2011,4
+83836.0,Irati,PR,maio,14.1,1981 - 2011,5
+83836.0,Irati,PR,junho,13.3,1981 - 2011,6
+83836.0,Irati,PR,julho,12.9,1981 - 2011,7
+83836.0,Irati,PR,agosto,14.5,1981 - 2011,8
+83836.0,Irati,PR,setembro,15.8,1981 - 2011,9
+83836.0,Irati,PR,outubro,17.8,1981 - 2011,10
+83836.0,Irati,PR,novembro,19.3,1981 - 2011,11
+83836.0,Irati,PR,dezembro,20.6,1981 - 2011,12
+83836.0,Irati,PR,janeiro,21.2,1991 - 2021,1
+83836.0,Irati,PR,fevereiro,21.1,1991 - 2021,2
+83836.0,Irati,PR,marco,20.1,1991 - 2021,3
+83836.0,Irati,PR,abril,17.8,1991 - 2021,4
+83836.0,Irati,PR,maio,14.4,1991 - 2021,5
+83836.0,Irati,PR,junho,13.4,1991 - 2021,6
+83836.0,Irati,PR,julho,12.9,1991 - 2021,7
+83836.0,Irati,PR,agosto,14.4,1991 - 2021,8
+83836.0,Irati,PR,setembro,16.1,1991 - 2021,9
+83836.0,Irati,PR,outubro,18.1,1991 - 2021,10
+83836.0,Irati,PR,novembro,19.3,1991 - 2021,11
+83836.0,Irati,PR,dezembro,20.8,1991 - 2021,12
+83842.0,Curitiba,PR,janeiro,20.4,1961 - 1991,1
+83842.0,Curitiba,PR,fevereiro,20.6,1961 - 1991,2
+83842.0,Curitiba,PR,marco,19.6,1961 - 1991,3
+83842.0,Curitiba,PR,abril,17.2,1961 - 1991,4
+83842.0,Curitiba,PR,maio,14.5,1961 - 1991,5
+83842.0,Curitiba,PR,junho,13.1,1961 - 1991,6
+83842.0,Curitiba,PR,julho,12.9,1961 - 1991,7
+83842.0,Curitiba,PR,agosto,14.1,1961 - 1991,8
+83842.0,Curitiba,PR,setembro,15.0,1961 - 1991,9
+83842.0,Curitiba,PR,outubro,16.5,1961 - 1991,10
+83842.0,Curitiba,PR,novembro,18.2,1961 - 1991,11
+83842.0,Curitiba,PR,dezembro,19.3,1961 - 1991,12
+83842.0,Curitiba,PR,janeiro,20.9,1981 - 2011,1
+83842.0,Curitiba,PR,fevereiro,21.0,1981 - 2011,2
+83842.0,Curitiba,PR,marco,20.1,1981 - 2011,3
+83842.0,Curitiba,PR,abril,18.3,1981 - 2011,4
+83842.0,Curitiba,PR,maio,15.1,1981 - 2011,5
+83842.0,Curitiba,PR,junho,13.9,1981 - 2011,6
+83842.0,Curitiba,PR,julho,13.5,1981 - 2011,7
+83842.0,Curitiba,PR,agosto,14.6,1981 - 2011,8
+83842.0,Curitiba,PR,setembro,15.3,1981 - 2011,9
+83842.0,Curitiba,PR,outubro,17.1,1981 - 2011,10
+83842.0,Curitiba,PR,novembro,18.9,1981 - 2011,11
+83842.0,Curitiba,PR,dezembro,20.2,1981 - 2011,12
+83842.0,Curitiba,PR,janeiro,21.3,1991 - 2021,1
+83842.0,Curitiba,PR,fevereiro,21.4,1991 - 2021,2
+83842.0,Curitiba,PR,marco,20.3,1991 - 2021,3
+83842.0,Curitiba,PR,abril,18.5,1991 - 2021,4
+83842.0,Curitiba,PR,maio,15.5,1991 - 2021,5
+83842.0,Curitiba,PR,junho,14.3,1991 - 2021,6
+83842.0,Curitiba,PR,julho,13.8,1991 - 2021,7
+83842.0,Curitiba,PR,agosto,14.9,1991 - 2021,8
+83842.0,Curitiba,PR,setembro,16.0,1991 - 2021,9
+83842.0,Curitiba,PR,outubro,17.7,1991 - 2021,10
+83842.0,Curitiba,PR,novembro,18.9,1991 - 2021,11
+83842.0,Curitiba,PR,dezembro,20.7,1991 - 2021,12
+83883.0,Chapecó,SC,janeiro,22.8,1961 - 1991,1
+83883.0,Chapecó,SC,fevereiro,22.9,1961 - 1991,2
+83883.0,Chapecó,SC,marco,21.5,1961 - 1991,3
+83883.0,Chapecó,SC,abril,18.5,1961 - 1991,4
+83883.0,Chapecó,SC,maio,16.0,1961 - 1991,5
+83883.0,Chapecó,SC,junho,14.1,1961 - 1991,6
+83883.0,Chapecó,SC,julho,15.0,1961 - 1991,7
+83883.0,Chapecó,SC,agosto,15.6,1961 - 1991,8
+83883.0,Chapecó,SC,setembro,16.4,1961 - 1991,9
+83883.0,Chapecó,SC,outubro,19.1,1961 - 1991,10
+83883.0,Chapecó,SC,novembro,20.6,1961 - 1991,11
+83883.0,Chapecó,SC,dezembro,22.2,1961 - 1991,12
+83883.0,Chapecó,SC,janeiro,23.5,1981 - 2011,1
+83883.0,Chapecó,SC,fevereiro,22.9,1981 - 2011,2
+83883.0,Chapecó,SC,marco,22.0,1981 - 2011,3
+83883.0,Chapecó,SC,abril,19.3,1981 - 2011,4
+83883.0,Chapecó,SC,maio,15.9,1981 - 2011,5
+83883.0,Chapecó,SC,junho,14.8,1981 - 2011,6
+83883.0,Chapecó,SC,julho,14.4,1981 - 2011,7
+83883.0,Chapecó,SC,agosto,16.1,1981 - 2011,8
+83883.0,Chapecó,SC,setembro,17.1,1981 - 2011,9
+83883.0,Chapecó,SC,outubro,19.8,1981 - 2011,10
+83883.0,Chapecó,SC,novembro,21.4,1981 - 2011,11
+83883.0,Chapecó,SC,dezembro,23.0,1981 - 2011,12
+83883.0,Chapecó,SC,janeiro,23.6,1991 - 2021,1
+83883.0,Chapecó,SC,fevereiro,23.1,1991 - 2021,2
+83883.0,Chapecó,SC,marco,22.0,1991 - 2021,3
+83883.0,Chapecó,SC,abril,19.5,1991 - 2021,4
+83883.0,Chapecó,SC,maio,15.8,1991 - 2021,5
+83883.0,Chapecó,SC,junho,14.7,1991 - 2021,6
+83883.0,Chapecó,SC,julho,14.4,1991 - 2021,7
+83883.0,Chapecó,SC,agosto,16.6,1991 - 2021,8
+83883.0,Chapecó,SC,setembro,17.4,1991 - 2021,9
+83883.0,Chapecó,SC,outubro,19.8,1991 - 2021,10
+83883.0,Chapecó,SC,novembro,21.5,1991 - 2021,11
+83883.0,Chapecó,SC,dezembro,23.1,1991 - 2021,12
+83887.0,Campos Novos,SC,janeiro,20.7,1961 - 1991,1
+83887.0,Campos Novos,SC,fevereiro,20.7,1961 - 1991,2
+83887.0,Campos Novos,SC,marco,19.5,1961 - 1991,3
+83887.0,Campos Novos,SC,abril,16.5,1961 - 1991,4
+83887.0,Campos Novos,SC,maio,14.2,1961 - 1991,5
+83887.0,Campos Novos,SC,junho,12.5,1961 - 1991,6
+83887.0,Campos Novos,SC,julho,12.9,1961 - 1991,7
+83887.0,Campos Novos,SC,agosto,13.3,1961 - 1991,8
+83887.0,Campos Novos,SC,setembro,14.7,1961 - 1991,9
+83887.0,Campos Novos,SC,outubro,16.4,1961 - 1991,10
+83887.0,Campos Novos,SC,novembro,18.2,1961 - 1991,11
+83887.0,Campos Novos,SC,dezembro,19.9,1961 - 1991,12
+83887.0,Campos Novos,SC,janeiro,20.8,1981 - 2011,1
+83887.0,Campos Novos,SC,fevereiro,20.5,1981 - 2011,2
+83887.0,Campos Novos,SC,marco,19.5,1981 - 2011,3
+83887.0,Campos Novos,SC,abril,17.1,1981 - 2011,4
+83887.0,Campos Novos,SC,maio,13.6,1981 - 2011,5
+83887.0,Campos Novos,SC,junho,12.6,1981 - 2011,6
+83887.0,Campos Novos,SC,julho,12.1,1981 - 2011,7
+83887.0,Campos Novos,SC,agosto,13.7,1981 - 2011,8
+83887.0,Campos Novos,SC,setembro,14.5,1981 - 2011,9
+83887.0,Campos Novos,SC,outubro,16.9,1981 - 2011,10
+83887.0,Campos Novos,SC,novembro,18.8,1981 - 2011,11
+83887.0,Campos Novos,SC,dezembro,20.4,1981 - 2011,12
+83887.0,Campos Novos,SC,janeiro,20.8,1991 - 2021,1
+83887.0,Campos Novos,SC,fevereiro,20.6,1991 - 2021,2
+83887.0,Campos Novos,SC,marco,19.4,1991 - 2021,3
+83887.0,Campos Novos,SC,abril,17.1,1991 - 2021,4
+83887.0,Campos Novos,SC,maio,13.6,1991 - 2021,5
+83887.0,Campos Novos,SC,junho,12.5,1991 - 2021,6
+83887.0,Campos Novos,SC,julho,12.1,1991 - 2021,7
+83887.0,Campos Novos,SC,agosto,13.8,1991 - 2021,8
+83887.0,Campos Novos,SC,setembro,14.6,1991 - 2021,9
+83887.0,Campos Novos,SC,outubro,17.0,1991 - 2021,10
+83887.0,Campos Novos,SC,novembro,18.7,1991 - 2021,11
+83887.0,Campos Novos,SC,dezembro,20.4,1991 - 2021,12
+83891.0,Lages,SC,janeiro,20.2,1961 - 1991,1
+83891.0,Lages,SC,fevereiro,20.3,1961 - 1991,2
+83891.0,Lages,SC,marco,18.8,1961 - 1991,3
+83891.0,Lages,SC,abril,15.6,1961 - 1991,4
+83891.0,Lages,SC,maio,12.9,1961 - 1991,5
+83891.0,Lages,SC,junho,11.1,1961 - 1991,6
+83891.0,Lages,SC,julho,11.1,1961 - 1991,7
+83891.0,Lages,SC,agosto,11.9,1961 - 1991,8
+83891.0,Lages,SC,setembro,14.0,1961 - 1991,9
+83891.0,Lages,SC,outubro,15.4,1961 - 1991,10
+83891.0,Lages,SC,novembro,17.3,1961 - 1991,11
+83891.0,Lages,SC,dezembro,19.0,1961 - 1991,12
+83891.0,Lages,SC,janeiro,20.6,1981 - 2011,1
+83891.0,Lages,SC,fevereiro,20.4,1981 - 2011,2
+83891.0,Lages,SC,marco,19.4,1981 - 2011,3
+83891.0,Lages,SC,abril,16.6,1981 - 2011,4
+83891.0,Lages,SC,maio,13.1,1981 - 2011,5
+83891.0,Lages,SC,junho,11.6,1981 - 2011,6
+83891.0,Lages,SC,julho,11.1,1981 - 2011,7
+83891.0,Lages,SC,agosto,12.6,1981 - 2011,8
+83891.0,Lages,SC,setembro,13.9,1981 - 2011,9
+83891.0,Lages,SC,outubro,16.2,1981 - 2011,10
+83891.0,Lages,SC,novembro,18.0,1981 - 2011,11
+83891.0,Lages,SC,dezembro,19.9,1981 - 2011,12
+83891.0,Lages,SC,janeiro,20.6,1991 - 2021,1
+83891.0,Lages,SC,fevereiro,20.6,1991 - 2021,2
+83891.0,Lages,SC,marco,19.2,1991 - 2021,3
+83891.0,Lages,SC,abril,16.7,1991 - 2021,4
+83891.0,Lages,SC,maio,13.0,1991 - 2021,5
+83891.0,Lages,SC,junho,11.5,1991 - 2021,6
+83891.0,Lages,SC,julho,11.1,1991 - 2021,7
+83891.0,Lages,SC,agosto,12.8,1991 - 2021,8
+83891.0,Lages,SC,setembro,13.9,1991 - 2021,9
+83891.0,Lages,SC,outubro,16.2,1991 - 2021,10
+83891.0,Lages,SC,novembro,17.9,1991 - 2021,11
+83891.0,Lages,SC,dezembro,19.9,1991 - 2021,12
+83897.0,Florianópolis,SC,janeiro,24.2,1961 - 1991,1
+83897.0,Florianópolis,SC,fevereiro,24.6,1961 - 1991,2
+83897.0,Florianópolis,SC,marco,23.6,1961 - 1991,3
+83897.0,Florianópolis,SC,abril,21.1,1961 - 1991,4
+83897.0,Florianópolis,SC,maio,18.9,1961 - 1991,5
+83897.0,Florianópolis,SC,junho,16.7,1961 - 1991,6
+83897.0,Florianópolis,SC,julho,16.5,1961 - 1991,7
+83897.0,Florianópolis,SC,agosto,16.9,1961 - 1991,8
+83897.0,Florianópolis,SC,setembro,17.9,1961 - 1991,9
+83897.0,Florianópolis,SC,outubro,19.6,1961 - 1991,10
+83897.0,Florianópolis,SC,novembro,21.3,1961 - 1991,11
+83897.0,Florianópolis,SC,dezembro,23.0,1961 - 1991,12
+83897.0,Florianópolis,SC,janeiro,24.9,1981 - 2011,1
+83897.0,Florianópolis,SC,fevereiro,25.1,1981 - 2011,2
+83897.0,Florianópolis,SC,marco,24.5,1981 - 2011,3
+83897.0,Florianópolis,SC,abril,22.2,1981 - 2011,4
+83897.0,Florianópolis,SC,maio,19.2,1981 - 2011,5
+83897.0,Florianópolis,SC,junho,17.2,1981 - 2011,6
+83897.0,Florianópolis,SC,julho,16.4,1981 - 2011,7
+83897.0,Florianópolis,SC,agosto,17.0,1981 - 2011,8
+83897.0,Florianópolis,SC,setembro,18.3,1981 - 2011,9
+83897.0,Florianópolis,SC,outubro,20.3,1981 - 2011,10
+83897.0,Florianópolis,SC,novembro,22.2,1981 - 2011,11
+83897.0,Florianópolis,SC,dezembro,24.0,1981 - 2011,12
+83897.0,Florianópolis,SC,janeiro,25.2,1991 - 2021,1
+83897.0,Florianópolis,SC,fevereiro,25.3,1991 - 2021,2
+83897.0,Florianópolis,SC,marco,24.4,1991 - 2021,3
+83897.0,Florianópolis,SC,abril,22.4,1991 - 2021,4
+83897.0,Florianópolis,SC,maio,19.5,1991 - 2021,5
+83897.0,Florianópolis,SC,junho,17.2,1991 - 2021,6
+83897.0,Florianópolis,SC,julho,16.5,1991 - 2021,7
+83897.0,Florianópolis,SC,agosto,17.4,1991 - 2021,8
+83897.0,Florianópolis,SC,setembro,18.7,1991 - 2021,9
+83897.0,Florianópolis,SC,outubro,20.6,1991 - 2021,10
+83897.0,Florianópolis,SC,novembro,22.3,1991 - 2021,11
+83897.0,Florianópolis,SC,dezembro,24.2,1991 - 2021,12
+83907.0,São Luiz Gonzaga,RS,janeiro,24.9,1961 - 1991,1
+83907.0,São Luiz Gonzaga,RS,fevereiro,24.5,1961 - 1991,2
+83907.0,São Luiz Gonzaga,RS,marco,22.8,1961 - 1991,3
+83907.0,São Luiz Gonzaga,RS,abril,19.4,1961 - 1991,4
+83907.0,São Luiz Gonzaga,RS,maio,16.9,1961 - 1991,5
+83907.0,São Luiz Gonzaga,RS,junho,14.6,1961 - 1991,6
+83907.0,São Luiz Gonzaga,RS,julho,14.9,1961 - 1991,7
+83907.0,São Luiz Gonzaga,RS,agosto,15.5,1961 - 1991,8
+83907.0,São Luiz Gonzaga,RS,setembro,17.6,1961 - 1991,9
+83907.0,São Luiz Gonzaga,RS,outubro,19.8,1961 - 1991,10
+83907.0,São Luiz Gonzaga,RS,novembro,22.0,1961 - 1991,11
+83907.0,São Luiz Gonzaga,RS,dezembro,24.2,1961 - 1991,12
+83907.0,São Luiz Gonzaga,RS,janeiro,26.0,1981 - 2011,1
+83907.0,São Luiz Gonzaga,RS,fevereiro,25.0,1981 - 2011,2
+83907.0,São Luiz Gonzaga,RS,marco,24.0,1981 - 2011,3
+83907.0,São Luiz Gonzaga,RS,abril,20.9,1981 - 2011,4
+83907.0,São Luiz Gonzaga,RS,maio,17.3,1981 - 2011,5
+83907.0,São Luiz Gonzaga,RS,junho,15.8,1981 - 2011,6
+83907.0,São Luiz Gonzaga,RS,julho,14.7,1981 - 2011,7
+83907.0,São Luiz Gonzaga,RS,agosto,16.7,1981 - 2011,8
+83907.0,São Luiz Gonzaga,RS,setembro,18.0,1981 - 2011,9
+83907.0,São Luiz Gonzaga,RS,outubro,20.9,1981 - 2011,10
+83907.0,São Luiz Gonzaga,RS,novembro,23.1,1981 - 2011,11
+83907.0,São Luiz Gonzaga,RS,dezembro,25.5,1981 - 2011,12
+83907.0,São Luiz Gonzaga,RS,janeiro,26.0,1991 - 2021,1
+83907.0,São Luiz Gonzaga,RS,fevereiro,25.2,1991 - 2021,2
+83907.0,São Luiz Gonzaga,RS,marco,23.8,1991 - 2021,3
+83907.0,São Luiz Gonzaga,RS,abril,21.1,1991 - 2021,4
+83907.0,São Luiz Gonzaga,RS,maio,17.3,1991 - 2021,5
+83907.0,São Luiz Gonzaga,RS,junho,15.6,1991 - 2021,6
+83907.0,São Luiz Gonzaga,RS,julho,14.9,1991 - 2021,7
+83907.0,São Luiz Gonzaga,RS,agosto,16.9,1991 - 2021,8
+83907.0,São Luiz Gonzaga,RS,setembro,18.2,1991 - 2021,9
+83907.0,São Luiz Gonzaga,RS,outubro,21.0,1991 - 2021,10
+83907.0,São Luiz Gonzaga,RS,novembro,23.3,1991 - 2021,11
+83907.0,São Luiz Gonzaga,RS,dezembro,25.4,1991 - 2021,12
+83912.0,Cruz Alta,RS,janeiro,23.3,1961 - 1991,1
+83912.0,Cruz Alta,RS,fevereiro,23.0,1961 - 1991,2
+83912.0,Cruz Alta,RS,marco,21.4,1961 - 1991,3
+83912.0,Cruz Alta,RS,abril,18.5,1961 - 1991,4
+83912.0,Cruz Alta,RS,maio,16.0,1961 - 1991,5
+83912.0,Cruz Alta,RS,junho,13.5,1961 - 1991,6
+83912.0,Cruz Alta,RS,julho,13.6,1961 - 1991,7
+83912.0,Cruz Alta,RS,agosto,14.7,1961 - 1991,8
+83912.0,Cruz Alta,RS,setembro,16.3,1961 - 1991,9
+83912.0,Cruz Alta,RS,outubro,18.4,1961 - 1991,10
+83912.0,Cruz Alta,RS,novembro,20.8,1961 - 1991,11
+83912.0,Cruz Alta,RS,dezembro,22.6,1961 - 1991,12
+83912.0,Cruz Alta,RS,janeiro,23.6,1981 - 2011,1
+83912.0,Cruz Alta,RS,fevereiro,22.8,1981 - 2011,2
+83912.0,Cruz Alta,RS,marco,21.8,1981 - 2011,3
+83912.0,Cruz Alta,RS,abril,19.0,1981 - 2011,4
+83912.0,Cruz Alta,RS,maio,15.5,1981 - 2011,5
+83912.0,Cruz Alta,RS,junho,13.7,1981 - 2011,6
+83912.0,Cruz Alta,RS,julho,12.9,1981 - 2011,7
+83912.0,Cruz Alta,RS,agosto,14.8,1981 - 2011,8
+83912.0,Cruz Alta,RS,setembro,15.9,1981 - 2011,9
+83912.0,Cruz Alta,RS,outubro,18.8,1981 - 2011,10
+83912.0,Cruz Alta,RS,novembro,21.1,1981 - 2011,11
+83912.0,Cruz Alta,RS,dezembro,23.3,1981 - 2011,12
+83912.0,Cruz Alta,RS,janeiro,23.7,1991 - 2021,1
+83912.0,Cruz Alta,RS,fevereiro,23.0,1991 - 2021,2
+83912.0,Cruz Alta,RS,marco,21.8,1991 - 2021,3
+83912.0,Cruz Alta,RS,abril,19.2,1991 - 2021,4
+83912.0,Cruz Alta,RS,maio,15.7,1991 - 2021,5
+83912.0,Cruz Alta,RS,junho,13.8,1991 - 2021,6
+83912.0,Cruz Alta,RS,julho,13.0,1991 - 2021,7
+83912.0,Cruz Alta,RS,agosto,15.0,1991 - 2021,8
+83912.0,Cruz Alta,RS,setembro,16.3,1991 - 2021,9
+83912.0,Cruz Alta,RS,outubro,19.1,1991 - 2021,10
+83912.0,Cruz Alta,RS,novembro,21.4,1991 - 2021,11
+83912.0,Cruz Alta,RS,dezembro,23.3,1991 - 2021,12
+83914.0,Passo Fundo,RS,janeiro,22.1,1961 - 1991,1
+83914.0,Passo Fundo,RS,fevereiro,22.0,1961 - 1991,2
+83914.0,Passo Fundo,RS,marco,20.5,1961 - 1991,3
+83914.0,Passo Fundo,RS,abril,17.6,1961 - 1991,4
+83914.0,Passo Fundo,RS,maio,15.2,1961 - 1991,5
+83914.0,Passo Fundo,RS,junho,12.9,1961 - 1991,6
+83914.0,Passo Fundo,RS,julho,13.3,1961 - 1991,7
+83914.0,Passo Fundo,RS,agosto,13.9,1961 - 1991,8
+83914.0,Passo Fundo,RS,setembro,15.7,1961 - 1991,9
+83914.0,Passo Fundo,RS,outubro,17.6,1961 - 1991,10
+83914.0,Passo Fundo,RS,novembro,19.6,1961 - 1991,11
+83914.0,Passo Fundo,RS,dezembro,21.4,1961 - 1991,12
+83914.0,Passo Fundo,RS,janeiro,22.2,1981 - 2011,1
+83914.0,Passo Fundo,RS,fevereiro,21.7,1981 - 2011,2
+83914.0,Passo Fundo,RS,marco,20.7,1981 - 2011,3
+83914.0,Passo Fundo,RS,abril,18.0,1981 - 2011,4
+83914.0,Passo Fundo,RS,maio,14.8,1981 - 2011,5
+83914.0,Passo Fundo,RS,junho,13.1,1981 - 2011,6
+83914.0,Passo Fundo,RS,julho,12.4,1981 - 2011,7
+83914.0,Passo Fundo,RS,agosto,14.1,1981 - 2011,8
+83914.0,Passo Fundo,RS,setembro,15.1,1981 - 2011,9
+83914.0,Passo Fundo,RS,outubro,18.0,1981 - 2011,10
+83914.0,Passo Fundo,RS,novembro,20.0,1981 - 2011,11
+83914.0,Passo Fundo,RS,dezembro,21.8,1981 - 2011,12
+83914.0,Passo Fundo,RS,janeiro,22.3,1991 - 2021,1
+83914.0,Passo Fundo,RS,fevereiro,21.8,1991 - 2021,2
+83914.0,Passo Fundo,RS,marco,20.8,1991 - 2021,3
+83914.0,Passo Fundo,RS,abril,18.3,1991 - 2021,4
+83914.0,Passo Fundo,RS,maio,14.7,1991 - 2021,5
+83914.0,Passo Fundo,RS,junho,13.1,1991 - 2021,6
+83914.0,Passo Fundo,RS,julho,12.5,1991 - 2021,7
+83914.0,Passo Fundo,RS,agosto,14.4,1991 - 2021,8
+83914.0,Passo Fundo,RS,setembro,15.6,1991 - 2021,9
+83914.0,Passo Fundo,RS,outubro,18.2,1991 - 2021,10
+83914.0,Passo Fundo,RS,novembro,20.2,1991 - 2021,11
+83914.0,Passo Fundo,RS,dezembro,22.0,1991 - 2021,12
+83919.0,Bom Jesus,RS,janeiro,18.6,1961 - 1991,1
+83919.0,Bom Jesus,RS,fevereiro,19.0,1961 - 1991,2
+83919.0,Bom Jesus,RS,marco,17.7,1961 - 1991,3
+83919.0,Bom Jesus,RS,abril,14.8,1961 - 1991,4
+83919.0,Bom Jesus,RS,maio,12.6,1961 - 1991,5
+83919.0,Bom Jesus,RS,junho,11.0,1961 - 1991,6
+83919.0,Bom Jesus,RS,julho,11.3,1961 - 1991,7
+83919.0,Bom Jesus,RS,agosto,11.6,1961 - 1991,8
+83919.0,Bom Jesus,RS,setembro,13.2,1961 - 1991,9
+83919.0,Bom Jesus,RS,outubro,14.2,1961 - 1991,10
+83919.0,Bom Jesus,RS,novembro,15.6,1961 - 1991,11
+83919.0,Bom Jesus,RS,dezembro,17.8,1961 - 1991,12
+83919.0,Bom Jesus,RS,janeiro,19.0,1981 - 2011,1
+83919.0,Bom Jesus,RS,fevereiro,18.9,1981 - 2011,2
+83919.0,Bom Jesus,RS,marco,17.9,1981 - 2011,3
+83919.0,Bom Jesus,RS,abril,15.3,1981 - 2011,4
+83919.0,Bom Jesus,RS,maio,12.0,1981 - 2011,5
+83919.0,Bom Jesus,RS,junho,10.9,1981 - 2011,6
+83919.0,Bom Jesus,RS,julho,10.2,1981 - 2011,7
+83919.0,Bom Jesus,RS,agosto,11.7,1981 - 2011,8
+83919.0,Bom Jesus,RS,setembro,12.5,1981 - 2011,9
+83919.0,Bom Jesus,RS,outubro,15.0,1981 - 2011,10
+83919.0,Bom Jesus,RS,novembro,16.5,1981 - 2011,11
+83919.0,Bom Jesus,RS,dezembro,18.2,1981 - 2011,12
+83919.0,Bom Jesus,RS,janeiro,19.4,1991 - 2021,1
+83919.0,Bom Jesus,RS,fevereiro,19.2,1991 - 2021,2
+83919.0,Bom Jesus,RS,marco,18.0,1991 - 2021,3
+83919.0,Bom Jesus,RS,abril,15.6,1991 - 2021,4
+83919.0,Bom Jesus,RS,maio,12.3,1991 - 2021,5
+83919.0,Bom Jesus,RS,junho,11.1,1991 - 2021,6
+83919.0,Bom Jesus,RS,julho,10.5,1991 - 2021,7
+83919.0,Bom Jesus,RS,agosto,12.2,1991 - 2021,8
+83919.0,Bom Jesus,RS,setembro,13.2,1991 - 2021,9
+83919.0,Bom Jesus,RS,outubro,15.3,1991 - 2021,10
+83919.0,Bom Jesus,RS,novembro,16.7,1991 - 2021,11
+83919.0,Bom Jesus,RS,dezembro,18.6,1991 - 2021,12
+83920.0,São Joaquim,SC,janeiro,16.8,1961 - 1991,1
+83920.0,São Joaquim,SC,fevereiro,17.1,1961 - 1991,2
+83920.0,São Joaquim,SC,marco,15.9,1961 - 1991,3
+83920.0,São Joaquim,SC,abril,13.2,1961 - 1991,4
+83920.0,São Joaquim,SC,maio,11.4,1961 - 1991,5
+83920.0,São Joaquim,SC,junho,9.7,1961 - 1991,6
+83920.0,São Joaquim,SC,julho,9.8,1961 - 1991,7
+83920.0,São Joaquim,SC,agosto,10.7,1961 - 1991,8
+83920.0,São Joaquim,SC,setembro,12.0,1961 - 1991,9
+83920.0,São Joaquim,SC,outubro,12.8,1961 - 1991,10
+83920.0,São Joaquim,SC,novembro,14.4,1961 - 1991,11
+83920.0,São Joaquim,SC,dezembro,16.0,1961 - 1991,12
+83920.0,São Joaquim,SC,janeiro,17.1,1981 - 2011,1
+83920.0,São Joaquim,SC,fevereiro,17.1,1981 - 2011,2
+83920.0,São Joaquim,SC,marco,16.1,1981 - 2011,3
+83920.0,São Joaquim,SC,abril,13.8,1981 - 2011,4
+83920.0,São Joaquim,SC,maio,10.9,1981 - 2011,5
+83920.0,São Joaquim,SC,junho,10.0,1981 - 2011,6
+83920.0,São Joaquim,SC,julho,9.5,1981 - 2011,7
+83920.0,São Joaquim,SC,agosto,11.1,1981 - 2011,8
+83920.0,São Joaquim,SC,setembro,11.2,1981 - 2011,9
+83920.0,São Joaquim,SC,outubro,13.5,1981 - 2011,10
+83920.0,São Joaquim,SC,novembro,14.9,1981 - 2011,11
+83920.0,São Joaquim,SC,dezembro,16.4,1981 - 2011,12
+83920.0,São Joaquim,SC,janeiro,17.2,1991 - 2021,1
+83920.0,São Joaquim,SC,fevereiro,17.3,1991 - 2021,2
+83920.0,São Joaquim,SC,marco,16.1,1991 - 2021,3
+83920.0,São Joaquim,SC,abril,13.9,1991 - 2021,4
+83920.0,São Joaquim,SC,maio,10.8,1991 - 2021,5
+83920.0,São Joaquim,SC,junho,9.8,1991 - 2021,6
+83920.0,São Joaquim,SC,julho,9.5,1991 - 2021,7
+83920.0,São Joaquim,SC,agosto,11.3,1991 - 2021,8
+83920.0,São Joaquim,SC,setembro,11.5,1991 - 2021,9
+83920.0,São Joaquim,SC,outubro,13.5,1991 - 2021,10
+83920.0,São Joaquim,SC,novembro,14.7,1991 - 2021,11
+83920.0,São Joaquim,SC,dezembro,16.6,1991 - 2021,12
+83927.0,Uruguaiana,RS,janeiro,25.9,1961 - 1991,1
+83927.0,Uruguaiana,RS,fevereiro,25.1,1961 - 1991,2
+83927.0,Uruguaiana,RS,marco,23.1,1961 - 1991,3
+83927.0,Uruguaiana,RS,abril,19.8,1961 - 1991,4
+83927.0,Uruguaiana,RS,maio,16.8,1961 - 1991,5
+83927.0,Uruguaiana,RS,junho,13.8,1961 - 1991,6
+83927.0,Uruguaiana,RS,julho,14.2,1961 - 1991,7
+83927.0,Uruguaiana,RS,agosto,14.6,1961 - 1991,8
+83927.0,Uruguaiana,RS,setembro,17.1,1961 - 1991,9
+83927.0,Uruguaiana,RS,outubro,19.6,1961 - 1991,10
+83927.0,Uruguaiana,RS,novembro,22.3,1961 - 1991,11
+83927.0,Uruguaiana,RS,dezembro,24.7,1961 - 1991,12
+83927.0,Uruguaiana,RS,janeiro,25.8,1981 - 2011,1
+83927.0,Uruguaiana,RS,fevereiro,24.2,1981 - 2011,2
+83927.0,Uruguaiana,RS,marco,23.1,1981 - 2011,3
+83927.0,Uruguaiana,RS,abril,19.5,1981 - 2011,4
+83927.0,Uruguaiana,RS,maio,15.9,1981 - 2011,5
+83927.0,Uruguaiana,RS,junho,13.4,1981 - 2011,6
+83927.0,Uruguaiana,RS,julho,12.6,1981 - 2011,7
+83927.0,Uruguaiana,RS,agosto,14.5,1981 - 2011,8
+83927.0,Uruguaiana,RS,setembro,16.4,1981 - 2011,9
+83927.0,Uruguaiana,RS,outubro,19.4,1981 - 2011,10
+83927.0,Uruguaiana,RS,novembro,22.1,1981 - 2011,11
+83927.0,Uruguaiana,RS,dezembro,24.5,1981 - 2011,12
+83927.0,Uruguaiana,RS,janeiro,25.8,1991 - 2021,1
+83927.0,Uruguaiana,RS,fevereiro,24.7,1991 - 2021,2
+83927.0,Uruguaiana,RS,marco,23.0,1991 - 2021,3
+83927.0,Uruguaiana,RS,abril,19.6,1991 - 2021,4
+83927.0,Uruguaiana,RS,maio,15.9,1991 - 2021,5
+83927.0,Uruguaiana,RS,junho,13.5,1991 - 2021,6
+83927.0,Uruguaiana,RS,julho,12.9,1991 - 2021,7
+83927.0,Uruguaiana,RS,agosto,14.9,1991 - 2021,8
+83927.0,Uruguaiana,RS,setembro,16.7,1991 - 2021,9
+83927.0,Uruguaiana,RS,outubro,19.7,1991 - 2021,10
+83927.0,Uruguaiana,RS,novembro,22.3,1991 - 2021,11
+83927.0,Uruguaiana,RS,dezembro,24.6,1991 - 2021,12
+83936.0,Santa Maria,RS,janeiro,24.2,1961 - 1991,1
+83936.0,Santa Maria,RS,fevereiro,23.9,1961 - 1991,2
+83936.0,Santa Maria,RS,marco,21.9,1961 - 1991,3
+83936.0,Santa Maria,RS,abril,18.4,1961 - 1991,4
+83936.0,Santa Maria,RS,maio,15.9,1961 - 1991,5
+83936.0,Santa Maria,RS,junho,13.9,1961 - 1991,6
+83936.0,Santa Maria,RS,julho,14.1,1961 - 1991,7
+83936.0,Santa Maria,RS,agosto,14.2,1961 - 1991,8
+83936.0,Santa Maria,RS,setembro,16.5,1961 - 1991,9
+83936.0,Santa Maria,RS,outubro,18.6,1961 - 1991,10
+83936.0,Santa Maria,RS,novembro,21.0,1961 - 1991,11
+83936.0,Santa Maria,RS,dezembro,23.3,1961 - 1991,12
+83936.0,Santa Maria,RS,janeiro,24.9,1981 - 2011,1
+83936.0,Santa Maria,RS,fevereiro,24.0,1981 - 2011,2
+83936.0,Santa Maria,RS,marco,22.9,1981 - 2011,3
+83936.0,Santa Maria,RS,abril,19.4,1981 - 2011,4
+83936.0,Santa Maria,RS,maio,16.0,1981 - 2011,5
+83936.0,Santa Maria,RS,junho,14.2,1981 - 2011,6
+83936.0,Santa Maria,RS,julho,13.4,1981 - 2011,7
+83936.0,Santa Maria,RS,agosto,15.1,1981 - 2011,8
+83936.0,Santa Maria,RS,setembro,16.4,1981 - 2011,9
+83936.0,Santa Maria,RS,outubro,19.4,1981 - 2011,10
+83936.0,Santa Maria,RS,novembro,21.6,1981 - 2011,11
+83936.0,Santa Maria,RS,dezembro,24.1,1981 - 2011,12
+83936.0,Santa Maria,RS,janeiro,25.0,1991 - 2021,1
+83936.0,Santa Maria,RS,fevereiro,24.2,1991 - 2021,2
+83936.0,Santa Maria,RS,marco,22.8,1991 - 2021,3
+83936.0,Santa Maria,RS,abril,19.6,1991 - 2021,4
+83936.0,Santa Maria,RS,maio,16.0,1991 - 2021,5
+83936.0,Santa Maria,RS,junho,14.2,1991 - 2021,6
+83936.0,Santa Maria,RS,julho,13.5,1991 - 2021,7
+83936.0,Santa Maria,RS,agosto,15.4,1991 - 2021,8
+83936.0,Santa Maria,RS,setembro,16.7,1991 - 2021,9
+83936.0,Santa Maria,RS,outubro,19.5,1991 - 2021,10
+83936.0,Santa Maria,RS,novembro,21.8,1991 - 2021,11
+83936.0,Santa Maria,RS,dezembro,24.2,1991 - 2021,12
+83948.0,Torres,RS,janeiro,22.8,1961 - 1991,1
+83948.0,Torres,RS,fevereiro,23.3,1961 - 1991,2
+83948.0,Torres,RS,marco,22.4,1961 - 1991,3
+83948.0,Torres,RS,abril,20.1,1961 - 1991,4
+83948.0,Torres,RS,maio,17.5,1961 - 1991,5
+83948.0,Torres,RS,junho,15.1,1961 - 1991,6
+83948.0,Torres,RS,julho,14.8,1961 - 1991,7
+83948.0,Torres,RS,agosto,15.3,1961 - 1991,8
+83948.0,Torres,RS,setembro,16.3,1961 - 1991,9
+83948.0,Torres,RS,outubro,18.2,1961 - 1991,10
+83948.0,Torres,RS,novembro,19.9,1961 - 1991,11
+83948.0,Torres,RS,dezembro,21.7,1961 - 1991,12
+83948.0,Torres,RS,janeiro,23.4,1981 - 2011,1
+83948.0,Torres,RS,fevereiro,23.6,1981 - 2011,2
+83948.0,Torres,RS,marco,23.3,1981 - 2011,3
+83948.0,Torres,RS,abril,20.9,1981 - 2011,4
+83948.0,Torres,RS,maio,17.9,1981 - 2011,5
+83948.0,Torres,RS,junho,15.4,1981 - 2011,6
+83948.0,Torres,RS,julho,14.3,1981 - 2011,7
+83948.0,Torres,RS,agosto,15.2,1981 - 2011,8
+83948.0,Torres,RS,setembro,16.5,1981 - 2011,9
+83948.0,Torres,RS,outubro,18.8,1981 - 2011,10
+83948.0,Torres,RS,novembro,20.5,1981 - 2011,11
+83948.0,Torres,RS,dezembro,22.4,1981 - 2011,12
+83948.0,Torres,RS,janeiro,23.9,1991 - 2021,1
+83948.0,Torres,RS,fevereiro,24.0,1991 - 2021,2
+83948.0,Torres,RS,marco,23.3,1991 - 2021,3
+83948.0,Torres,RS,abril,21.1,1991 - 2021,4
+83948.0,Torres,RS,maio,17.9,1991 - 2021,5
+83948.0,Torres,RS,junho,15.4,1991 - 2021,6
+83948.0,Torres,RS,julho,14.3,1991 - 2021,7
+83948.0,Torres,RS,agosto,15.5,1991 - 2021,8
+83948.0,Torres,RS,setembro,16.9,1991 - 2021,9
+83948.0,Torres,RS,outubro,19.1,1991 - 2021,10
+83948.0,Torres,RS,novembro,20.7,1991 - 2021,11
+83948.0,Torres,RS,dezembro,22.7,1991 - 2021,12
+83964.0,Encruzilhada do Sul,RS,janeiro,22.0,1961 - 1991,1
+83964.0,Encruzilhada do Sul,RS,fevereiro,21.8,1961 - 1991,2
+83964.0,Encruzilhada do Sul,RS,marco,20.2,1961 - 1991,3
+83964.0,Encruzilhada do Sul,RS,abril,17.3,1961 - 1991,4
+83964.0,Encruzilhada do Sul,RS,maio,14.8,1961 - 1991,5
+83964.0,Encruzilhada do Sul,RS,junho,12.3,1961 - 1991,6
+83964.0,Encruzilhada do Sul,RS,julho,12.4,1961 - 1991,7
+83964.0,Encruzilhada do Sul,RS,agosto,12.8,1961 - 1991,8
+83964.0,Encruzilhada do Sul,RS,setembro,14.5,1961 - 1991,9
+83964.0,Encruzilhada do Sul,RS,outubro,16.4,1961 - 1991,10
+83964.0,Encruzilhada do Sul,RS,novembro,18.5,1961 - 1991,11
+83964.0,Encruzilhada do Sul,RS,dezembro,21.0,1961 - 1991,12
+83964.0,Encruzilhada do Sul,RS,janeiro,22.5,1981 - 2011,1
+83964.0,Encruzilhada do Sul,RS,fevereiro,21.9,1981 - 2011,2
+83964.0,Encruzilhada do Sul,RS,marco,21.1,1981 - 2011,3
+83964.0,Encruzilhada do Sul,RS,abril,18.1,1981 - 2011,4
+83964.0,Encruzilhada do Sul,RS,maio,14.8,1981 - 2011,5
+83964.0,Encruzilhada do Sul,RS,junho,12.4,1981 - 2011,6
+83964.0,Encruzilhada do Sul,RS,julho,11.7,1981 - 2011,7
+83964.0,Encruzilhada do Sul,RS,agosto,13.3,1981 - 2011,8
+83964.0,Encruzilhada do Sul,RS,setembro,14.3,1981 - 2011,9
+83964.0,Encruzilhada do Sul,RS,outubro,17.1,1981 - 2011,10
+83964.0,Encruzilhada do Sul,RS,novembro,19.3,1981 - 2011,11
+83964.0,Encruzilhada do Sul,RS,dezembro,21.5,1981 - 2011,12
+83964.0,Encruzilhada do Sul,RS,janeiro,22.8,1991 - 2021,1
+83964.0,Encruzilhada do Sul,RS,fevereiro,22.3,1991 - 2021,2
+83964.0,Encruzilhada do Sul,RS,marco,21.1,1991 - 2021,3
+83964.0,Encruzilhada do Sul,RS,abril,18.3,1991 - 2021,4
+83964.0,Encruzilhada do Sul,RS,maio,14.9,1991 - 2021,5
+83964.0,Encruzilhada do Sul,RS,junho,12.7,1991 - 2021,6
+83964.0,Encruzilhada do Sul,RS,julho,11.9,1991 - 2021,7
+83964.0,Encruzilhada do Sul,RS,agosto,13.7,1991 - 2021,8
+83964.0,Encruzilhada do Sul,RS,setembro,14.7,1991 - 2021,9
+83964.0,Encruzilhada do Sul,RS,outubro,17.3,1991 - 2021,10
+83964.0,Encruzilhada do Sul,RS,novembro,19.5,1991 - 2021,11
+83964.0,Encruzilhada do Sul,RS,dezembro,21.7,1991 - 2021,12
+83967.0,Porto Alegre,RS,janeiro,24.6,1961 - 1991,1
+83967.0,Porto Alegre,RS,fevereiro,24.6,1961 - 1991,2
+83967.0,Porto Alegre,RS,marco,23.1,1961 - 1991,3
+83967.0,Porto Alegre,RS,abril,19.9,1961 - 1991,4
+83967.0,Porto Alegre,RS,maio,16.9,1961 - 1991,5
+83967.0,Porto Alegre,RS,junho,14.3,1961 - 1991,6
+83967.0,Porto Alegre,RS,julho,14.4,1961 - 1991,7
+83967.0,Porto Alegre,RS,agosto,15.2,1961 - 1991,8
+83967.0,Porto Alegre,RS,setembro,16.8,1961 - 1991,9
+83967.0,Porto Alegre,RS,outubro,19.1,1961 - 1991,10
+83967.0,Porto Alegre,RS,novembro,21.2,1961 - 1991,11
+83967.0,Porto Alegre,RS,dezembro,23.3,1961 - 1991,12
+83967.0,Porto Alegre,RS,janeiro,24.7,1981 - 2011,1
+83967.0,Porto Alegre,RS,fevereiro,24.5,1981 - 2011,2
+83967.0,Porto Alegre,RS,marco,23.5,1981 - 2011,3
+83967.0,Porto Alegre,RS,abril,20.3,1981 - 2011,4
+83967.0,Porto Alegre,RS,maio,16.9,1981 - 2011,5
+83967.0,Porto Alegre,RS,junho,14.4,1981 - 2011,6
+83967.0,Porto Alegre,RS,julho,13.8,1981 - 2011,7
+83967.0,Porto Alegre,RS,agosto,15.3,1981 - 2011,8
+83967.0,Porto Alegre,RS,setembro,16.7,1981 - 2011,9
+83967.0,Porto Alegre,RS,outubro,19.4,1981 - 2011,10
+83967.0,Porto Alegre,RS,novembro,21.5,1981 - 2011,11
+83967.0,Porto Alegre,RS,dezembro,23.6,1981 - 2011,12
+83967.0,Porto Alegre,RS,janeiro,25.0,1991 - 2021,1
+83967.0,Porto Alegre,RS,fevereiro,24.7,1991 - 2021,2
+83967.0,Porto Alegre,RS,marco,23.5,1991 - 2021,3
+83967.0,Porto Alegre,RS,abril,20.7,1991 - 2021,4
+83967.0,Porto Alegre,RS,maio,17.2,1991 - 2021,5
+83967.0,Porto Alegre,RS,junho,14.8,1991 - 2021,6
+83967.0,Porto Alegre,RS,julho,14.1,1991 - 2021,7
+83967.0,Porto Alegre,RS,agosto,15.7,1991 - 2021,8
+83967.0,Porto Alegre,RS,setembro,17.2,1991 - 2021,9
+83967.0,Porto Alegre,RS,outubro,19.7,1991 - 2021,10
+83967.0,Porto Alegre,RS,novembro,21.7,1991 - 2021,11
+83967.0,Porto Alegre,RS,dezembro,24.0,1991 - 2021,12
+83980.0,Bagé,RS,janeiro,23.9,1961 - 1991,1
+83980.0,Bagé,RS,fevereiro,23.3,1961 - 1991,2
+83980.0,Bagé,RS,marco,21.4,1961 - 1991,3
+83980.0,Bagé,RS,abril,17.8,1961 - 1991,4
+83980.0,Bagé,RS,maio,15.0,1961 - 1991,5
+83980.0,Bagé,RS,junho,12.4,1961 - 1991,6
+83980.0,Bagé,RS,julho,12.5,1961 - 1991,7
+83980.0,Bagé,RS,agosto,13.1,1961 - 1991,8
+83980.0,Bagé,RS,setembro,15.1,1961 - 1991,9
+83980.0,Bagé,RS,outubro,17.5,1961 - 1991,10
+83980.0,Bagé,RS,novembro,20.0,1961 - 1991,11
+83980.0,Bagé,RS,dezembro,22.8,1961 - 1991,12
+83980.0,Bagé,RS,janeiro,23.5,1981 - 2011,1
+83980.0,Bagé,RS,fevereiro,22.7,1981 - 2011,2
+83980.0,Bagé,RS,marco,21.5,1981 - 2011,3
+83980.0,Bagé,RS,abril,18.1,1981 - 2011,4
+83980.0,Bagé,RS,maio,14.6,1981 - 2011,5
+83980.0,Bagé,RS,junho,12.2,1981 - 2011,6
+83980.0,Bagé,RS,julho,11.6,1981 - 2011,7
+83980.0,Bagé,RS,agosto,13.2,1981 - 2011,8
+83980.0,Bagé,RS,setembro,14.6,1981 - 2011,9
+83980.0,Bagé,RS,outubro,17.5,1981 - 2011,10
+83980.0,Bagé,RS,novembro,20.0,1981 - 2011,11
+83980.0,Bagé,RS,dezembro,22.4,1981 - 2011,12
+83980.0,Bagé,RS,janeiro,23.8,1991 - 2021,1
+83980.0,Bagé,RS,fevereiro,23.1,1991 - 2021,2
+83980.0,Bagé,RS,marco,21.5,1991 - 2021,3
+83980.0,Bagé,RS,abril,18.3,1991 - 2021,4
+83980.0,Bagé,RS,maio,14.7,1991 - 2021,5
+83980.0,Bagé,RS,junho,12.6,1991 - 2021,6
+83980.0,Bagé,RS,julho,11.8,1991 - 2021,7
+83980.0,Bagé,RS,agosto,13.6,1991 - 2021,8
+83980.0,Bagé,RS,setembro,15.0,1991 - 2021,9
+83980.0,Bagé,RS,outubro,17.7,1991 - 2021,10
+83980.0,Bagé,RS,novembro,20.3,1991 - 2021,11
+83980.0,Bagé,RS,dezembro,22.7,1991 - 2021,12
+83985.0,Pelotas,RS,janeiro,23.1,1961 - 1991,1
+83985.0,Pelotas,RS,fevereiro,23.4,1961 - 1991,2
+83985.0,Pelotas,RS,marco,21.3,1961 - 1991,3
+83985.0,Pelotas,RS,abril,18.2,1961 - 1991,4
+83985.0,Pelotas,RS,maio,14.8,1961 - 1991,5
+83985.0,Pelotas,RS,junho,12.6,1961 - 1991,6
+83985.0,Pelotas,RS,julho,12.8,1961 - 1991,7
+83985.0,Pelotas,RS,agosto,13.1,1961 - 1991,8
+83985.0,Pelotas,RS,setembro,15.2,1961 - 1991,9
+83985.0,Pelotas,RS,outubro,17.4,1961 - 1991,10
+83985.0,Pelotas,RS,novembro,19.6,1961 - 1991,11
+83985.0,Pelotas,RS,dezembro,21.7,1961 - 1991,12
+83985.0,Pelotas,RS,janeiro,23.5,1981 - 2011,1
+83985.0,Pelotas,RS,fevereiro,23.0,1981 - 2011,2
+83985.0,Pelotas,RS,marco,21.8,1981 - 2011,3
+83985.0,Pelotas,RS,abril,18.8,1981 - 2011,4
+83985.0,Pelotas,RS,maio,15.1,1981 - 2011,5
+83985.0,Pelotas,RS,junho,12.7,1981 - 2011,6
+83985.0,Pelotas,RS,julho,12.2,1981 - 2011,7
+83985.0,Pelotas,RS,agosto,13.5,1981 - 2011,8
+83985.0,Pelotas,RS,setembro,15.0,1981 - 2011,9
+83985.0,Pelotas,RS,outubro,17.8,1981 - 2011,10
+83985.0,Pelotas,RS,novembro,20.0,1981 - 2011,11
+83985.0,Pelotas,RS,dezembro,22.2,1981 - 2011,12
+83985.0,Pelotas,RS,janeiro,23.5,1991 - 2021,1
+83985.0,Pelotas,RS,fevereiro,23.2,1991 - 2021,2
+83985.0,Pelotas,RS,marco,21.9,1991 - 2021,3
+83985.0,Pelotas,RS,abril,19.0,1991 - 2021,4
+83985.0,Pelotas,RS,maio,15.6,1991 - 2021,5
+83985.0,Pelotas,RS,junho,13.1,1991 - 2021,6
+83985.0,Pelotas,RS,julho,12.3,1991 - 2021,7
+83985.0,Pelotas,RS,agosto,13.8,1991 - 2021,8
+83985.0,Pelotas,RS,setembro,15.3,1991 - 2021,9
+83985.0,Pelotas,RS,outubro,17.9,1991 - 2021,10
+83985.0,Pelotas,RS,novembro,20.1,1991 - 2021,11
+83985.0,Pelotas,RS,dezembro,22.2,1991 - 2021,12
+83997.0,Santa Vitória do Palmar,RS,janeiro,22.2,1961 - 1991,1
+83997.0,Santa Vitória do Palmar,RS,fevereiro,22.0,1961 - 1991,2
+83997.0,Santa Vitória do Palmar,RS,marco,20.3,1961 - 1991,3
+83997.0,Santa Vitória do Palmar,RS,abril,17.2,1961 - 1991,4
+83997.0,Santa Vitória do Palmar,RS,maio,14.3,1961 - 1991,5
+83997.0,Santa Vitória do Palmar,RS,junho,11.7,1961 - 1991,6
+83997.0,Santa Vitória do Palmar,RS,julho,11.5,1961 - 1991,7
+83997.0,Santa Vitória do Palmar,RS,agosto,11.9,1961 - 1991,8
+83997.0,Santa Vitória do Palmar,RS,setembro,13.7,1961 - 1991,9
+83997.0,Santa Vitória do Palmar,RS,outubro,15.8,1961 - 1991,10
+83997.0,Santa Vitória do Palmar,RS,novembro,18.0,1961 - 1991,11
+83997.0,Santa Vitória do Palmar,RS,dezembro,20.5,1961 - 1991,12
+83997.0,Santa Vitória do Palmar,RS,janeiro,22.5,1981 - 2011,1
+83997.0,Santa Vitória do Palmar,RS,fevereiro,22.1,1981 - 2011,2
+83997.0,Santa Vitória do Palmar,RS,marco,21.0,1981 - 2011,3
+83997.0,Santa Vitória do Palmar,RS,abril,17.9,1981 - 2011,4
+83997.0,Santa Vitória do Palmar,RS,maio,14.4,1981 - 2011,5
+83997.0,Santa Vitória do Palmar,RS,junho,11.7,1981 - 2011,6
+83997.0,Santa Vitória do Palmar,RS,julho,10.9,1981 - 2011,7
+83997.0,Santa Vitória do Palmar,RS,agosto,12.0,1981 - 2011,8
+83997.0,Santa Vitória do Palmar,RS,setembro,13.3,1981 - 2011,9
+83997.0,Santa Vitória do Palmar,RS,outubro,16.1,1981 - 2011,10
+83997.0,Santa Vitória do Palmar,RS,novembro,18.4,1981 - 2011,11
+83997.0,Santa Vitória do Palmar,RS,dezembro,20.7,1981 - 2011,12
+83997.0,Santa Vitória do Palmar,RS,janeiro,22.6,1991 - 2021,1
+83997.0,Santa Vitória do Palmar,RS,fevereiro,22.4,1991 - 2021,2
+83997.0,Santa Vitória do Palmar,RS,marco,21.1,1991 - 2021,3
+83997.0,Santa Vitória do Palmar,RS,abril,18.1,1991 - 2021,4
+83997.0,Santa Vitória do Palmar,RS,maio,14.8,1991 - 2021,5
+83997.0,Santa Vitória do Palmar,RS,junho,12.1,1991 - 2021,6
+83997.0,Santa Vitória do Palmar,RS,julho,11.2,1991 - 2021,7
+83997.0,Santa Vitória do Palmar,RS,agosto,12.5,1991 - 2021,8
+83997.0,Santa Vitória do Palmar,RS,setembro,13.8,1991 - 2021,9
+83997.0,Santa Vitória do Palmar,RS,outubro,16.4,1991 - 2021,10
+83997.0,Santa Vitória do Palmar,RS,novembro,18.7,1991 - 2021,11
+83997.0,Santa Vitória do Palmar,RS,dezembro,21.1,1991 - 2021,12

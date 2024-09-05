@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Variação das temperaturas médias mensais</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Roboto", sans-serif;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 10px;
+        background-color: #f0f0f0;
+        color: #333;
+      }
+      #chart {
+        background-color: white;
+        width: 100%;
+        padding: 10px;
+        height: 560px;
+        border-radius: 8px;
+      }
+      .grid line {
+        stroke: #e0e0e0;
+        stroke-opacity: 0.7;
+      }
+      .grid path {
+        stroke-width: 0;
+      }
+      .legend-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 8px;
+        font-size: 14px;
+      }
+      .legend-color {
+        width: 16px;
+        height: 16px;
+        margin-right: 8px;
+        border-radius: 50%;
+      }
+      .amplitude-label {
+        font-size: 22px;
+        font-weight: bold;
+        fill: #d32f2f;
+      }
+      .amplitude-bar {
+        fill: #e0e0e0;
+        stroke: #bdbdbd;
+      }
+      .amplitude-line {
+        stroke-width: 4;
+      }
+      .amplitude-title {
+        font-size: 12px;
+        font-weight: bold;
+      }
+      .variation-indicator {
+        stroke: #757575;
+        stroke-width: 1;
+      }
+      h1 {
+        font-size: 28px;
+        margin-bottom: 8px;
+        color: black;
+      }
+      p {
+        font-size: 16px;
+        margin-top: 0;
+        color: #616161;
+      }
+      #estacaoSelect {
+        padding: 10px;
+        margin-bottom: 20px;
+        font-size: 16px;
+        border: 1px solid #bdbdbd;
+        border-radius: 4px;
+        background-color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Um pouco mais quente a cada década</h1>
+    <p>
+      Normais climatológicas do Inmet mostram as temperaturas médias mensais em
+      intervalos de 30 anos;<br />variação é maior em regiões mais quentes
+    </p>
+    <select id="estacaoSelect"></select>
+    <div id="chart"></div>
+
+    <script>
+      const meses = [
+        "Jan",
+        "Fev",
+        "Mar",
+        "Abr",
+        "Mai",
+        "Jun",
+        "Jul",
+        "Ago",
+        "Set",
+        "Out",
+        "Nov",
+        "Dez",
+      ];
+
+      function calcularMedia(dados) {
+        const temperaturas = dados
+          .map((d) => +d.temperatura)
+          .filter((t) => !isNaN(t));
+        return d3.mean(temperaturas);
+      }
+
+      function criarGrafico(data, estacaoCompleta) {
+        const [estacao, uf] = estacaoCompleta.split(" - ");
+        const dadosEstacao = data.filter(
+          (d) => d.nome_estacao === estacao && d.uf === uf
+        );
+        const anos = [...new Set(dadosEstacao.map((d) => d.ano))].sort(
+          (a, b) => a - b
+        );
+
+        const margin = { top: 40, right: 150, bottom: 50, left: 60 };
+        const width = 900 - margin.left - margin.right;
+        const height = 500 - margin.top - margin.bottom;
+
+        d3.select("#chart").html("");
+
+        const svg = d3
+          .select("#chart")
+          .append("svg")
+          .attr(
+            "viewBox",
+            `0 0 ${width + margin.left + margin.right} ${
+              height + margin.top + margin.bottom
+            }`
+          )
+          .append("g")
+          .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        const x = d3
+          .scalePoint()
+          .domain(meses)
+          .range([0, width - 50]);
+
+        const temperaturas = dadosEstacao
+          .map((d) => +d.temperatura)
+          .filter((t) => !isNaN(t));
+        const minTemp = Math.floor(d3.min(temperaturas));
+        const maxTemp = Math.ceil(d3.max(temperaturas));
+
+        const y = d3
+          .scaleLinear()
+          .domain([minTemp, maxTemp])
+          .range([height, 0]);
+
+        const line = d3
+          .line()
+          .curve(d3.curveMonotoneX)
+          .x((d) => x(meses[+d.mes_num - 1]))
+          .y((d) => y(+d.temperatura));
+
+        const color = d3
+          .scaleOrdinal()
+          .domain(anos)
+          .range(["#003f5c", "#bc5090", "#ffa600"]);
+
+        const medias = anos.map((ano) => ({
+          ano: ano,
+          media: calcularMedia(dadosEstacao.filter((d) => d.ano === ano)),
+        }));
+
+        medias.forEach((d) => {
+          svg
+            .append("line")
+            .attr("class", "grid")
+            .attr("x1", 0)
+            .attr("x2", width - 50)
+            .attr("y1", y(d.media))
+            .attr("y2", y(d.media))
+            .style("stroke", "#e0e0e0")
+            .style("stroke-opacity", 0.7);
+        });
+
+        anos.forEach((ano, index) => {
+          const dadosAno = dadosEstacao.filter((d) => d.ano === ano);
+          svg
+            .append("path")
+            .datum(dadosAno)
+            .attr("fill", "none")
+            .attr("stroke", color(ano))
+            .attr("stroke-width", 3)
+            .attr("d", line);
+        });
+
+        const minMedia = d3.min(medias, (d) => d.media);
+        const maxMedia = d3.max(medias, (d) => d.media);
+        const amplitudeHeight = y(minMedia) - y(maxMedia);
+
+        svg
+          .append("rect")
+          .attr("class", "amplitude-bar")
+          .attr("x", width - 40)
+          .attr("y", y(maxMedia))
+          .attr("width", 30)
+          .attr("height", amplitudeHeight);
+
+        svg
+          .append("text")
+          .attr("class", "amplitude-title")
+          .attr("x", width - 42)
+          .attr("y", y(minMedia) + 30)
+          .selectAll("tspan")
+          .data([
+            "As linhas horizontais indicam a",
+            "média anual do período. A barra",
+            "indica a variação total.",
+          ])
+          .enter()
+          .append("tspan")
+          .attr("x", width - 42)
+          .attr("dy", (d, i) => (i ? "1.2em" : 0))
+          .text((d) => d);
+
+        medias.forEach((d) => {
+          svg
+            .append("line")
+            .attr("class", "amplitude-line")
+            .attr("x1", width - 40)
+            .attr("x2", width - 10)
+            .attr("y1", y(d.media))
+            .attr("y2", y(d.media))
+            .attr("stroke", color(d.ano));
+        });
+
+        const media1961 = medias.find((d) => d.ano === "1961 - 1991").media;
+        const media1991 = medias.find((d) => d.ano === "1991 - 2021").media;
+        const diferenca = media1991 - media1961;
+
+        const indicatorGroup = svg
+          .append("g")
+          .attr("class", "variation-indicator");
+        indicatorGroup
+          .append("line")
+          .attr("x1", width)
+          .attr("x2", width + 15)
+          .attr("y1", y(media1961))
+          .attr("y2", y(media1961));
+        indicatorGroup
+          .append("line")
+          .attr("x1", width)
+          .attr("x2", width + 15)
+          .attr("y1", y(media1991))
+          .attr("y2", y(media1991));
+        indicatorGroup
+          .append("line")
+          .attr("x1", width + 15)
+          .attr("x2", width + 15)
+          .attr("y1", y(media1961))
+          .attr("y2", y(media1991));
+
+        svg
+          .append("text")
+          .attr("class", "amplitude-label")
+          .attr("x", width + 25)
+          .attr("y", (y(media1961) + y(media1991)) / 2)
+          .attr("dy", "0.35em")
+          .text(`${diferenca > 0 ? "+" : ""}${diferenca.toFixed(1)}°C`);
+
+        svg
+          .append("g")
+          .attr("transform", `translate(0,${height})`)
+          .call(d3.axisBottom(x))
+          .style("font-size", "12px");
+
+        svg
+          .append("g")
+          .call(d3.axisLeft(y).ticks(5))
+          .style("font-size", "12px");
+
+        svg
+          .append("text")
+          .attr("x", (width - 50) / 2)
+          .attr("y", height + 35)
+          .style("text-anchor", "middle")
+          .style("font-size", "14px")
+          .text("Mês");
+
+        svg
+          .append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("y", -45)
+          .attr("x", 0 - height / 2)
+          .attr("dy", "1em")
+          .style("text-anchor", "middle")
+          .style("font-size", "14px")
+          .text("Temperatura (°C)");
+
+        const legend = svg
+          .append("g")
+          .attr("class", "legend")
+          .attr("transform", `translate(${width + 10}, 0)`);
+
+        const legendItems = legend
+          .selectAll(".legend-item")
+          .data(medias.slice().reverse()) // Usa slice() para criar uma cópia antes de reverter
+          .enter()
+          .append("g")
+          .attr("class", "legend-item")
+          .attr("transform", (d, i) => `translate(0, ${i * 25})`);
+
+        legendItems
+          .append("rect")
+          .attr("class", "legend-color")
+          .attr("width", 16)
+          .attr("height", 16)
+          .attr("fill", (d) => color(d.ano));
+
+        legendItems
+          .append("text")
+          .attr("class", "legend-text")
+          .attr("x", 24)
+          .attr("y", 9)
+          .attr("dy", ".35em")
+          .text((d) => d.ano);
+
+        svg
+          .append("text")
+          .attr("x", width / 2)
+          .attr("y", -20)
+          .attr("text-anchor", "middle")
+          .style("font-size", "18px")
+          .style("font-weight", "bold")
+          .text(`${estacao} - ${uf}`);
+      }
+
+      d3.csv("data/dados_inmet_completos.csv")
+        .then(function (data) {
+          const estacoes = [
+            ...new Set(data.map((d) => `${d.nome_estacao} - ${d.uf}`)),
+          ];
+          const select = document.getElementById("estacaoSelect");
+          estacoes.forEach((estacao) => {
+            const option = document.createElement("option");
+            option.value = estacao;
+            option.textContent = estacao;
+            select.appendChild(option);
+          });
+
+          criarGrafico(data, estacoes[0]);
+
+          select.addEventListener("change", (event) => {
+            criarGrafico(data, event.target.value);
+          });
+        })
+        .catch(function (error) {
+          console.log("Erro ao carregar o arquivo CSV:", error);
+        });
+    </script>
+  </body>
+</html>
