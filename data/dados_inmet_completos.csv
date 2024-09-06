@@ -899,42 +899,42 @@ codigo,nome_estacao,uf,mes,temperatura,ano,mes_num
 82863.0,Pedro Afonso,TO,outubro,27.6,1991 - 2021,10
 82863.0,Pedro Afonso,TO,novembro,26.8,1991 - 2021,11
 82863.0,Pedro Afonso,TO,dezembro,26.4,1991 - 2021,12
-82900.0,Recife (Curado),PE,janeiro,26.5,1961 - 1991,1
-82900.0,Recife (Curado),PE,fevereiro,26.5,1961 - 1991,2
-82900.0,Recife (Curado),PE,marco,26.4,1961 - 1991,3
-82900.0,Recife (Curado),PE,abril,25.9,1961 - 1991,4
-82900.0,Recife (Curado),PE,maio,25.2,1961 - 1991,5
-82900.0,Recife (Curado),PE,junho,24.5,1961 - 1991,6
-82900.0,Recife (Curado),PE,julho,23.9,1961 - 1991,7
-82900.0,Recife (Curado),PE,agosto,23.9,1961 - 1991,8
-82900.0,Recife (Curado),PE,setembro,24.6,1961 - 1991,9
-82900.0,Recife (Curado),PE,outubro,25.5,1961 - 1991,10
-82900.0,Recife (Curado),PE,novembro,26.1,1961 - 1991,11
-82900.0,Recife (Curado),PE,dezembro,26.4,1961 - 1991,12
-82900.0,Recife (Curado),PE,janeiro,26.9,1981 - 2011,1
-82900.0,Recife (Curado),PE,fevereiro,27.1,1981 - 2011,2
-82900.0,Recife (Curado),PE,marco,27.1,1981 - 2011,3
-82900.0,Recife (Curado),PE,abril,26.5,1981 - 2011,4
-82900.0,Recife (Curado),PE,maio,25.7,1981 - 2011,5
-82900.0,Recife (Curado),PE,junho,24.7,1981 - 2011,6
-82900.0,Recife (Curado),PE,julho,24.1,1981 - 2011,7
-82900.0,Recife (Curado),PE,agosto,24.2,1981 - 2011,8
-82900.0,Recife (Curado),PE,setembro,25.1,1981 - 2011,9
-82900.0,Recife (Curado),PE,outubro,25.9,1981 - 2011,10
-82900.0,Recife (Curado),PE,novembro,26.6,1981 - 2011,11
-82900.0,Recife (Curado),PE,dezembro,26.9,1981 - 2011,12
-82900.0,Recife (Curado),PE,janeiro,27.1,1991 - 2021,1
-82900.0,Recife (Curado),PE,fevereiro,27.3,1991 - 2021,2
-82900.0,Recife (Curado),PE,marco,27.2,1991 - 2021,3
-82900.0,Recife (Curado),PE,abril,26.6,1991 - 2021,4
-82900.0,Recife (Curado),PE,maio,25.8,1991 - 2021,5
-82900.0,Recife (Curado),PE,junho,24.8,1991 - 2021,6
-82900.0,Recife (Curado),PE,julho,24.2,1991 - 2021,7
-82900.0,Recife (Curado),PE,agosto,24.2,1991 - 2021,8
-82900.0,Recife (Curado),PE,setembro,25.2,1991 - 2021,9
-82900.0,Recife (Curado),PE,outubro,26.1,1991 - 2021,10
-82900.0,Recife (Curado),PE,novembro,26.7,1991 - 2021,11
-82900.0,Recife (Curado),PE,dezembro,27.1,1991 - 2021,12
+82900.0,Recife,PE,janeiro,26.5,1961 - 1991,1
+82900.0,Recife,PE,fevereiro,26.5,1961 - 1991,2
+82900.0,Recife,PE,marco,26.4,1961 - 1991,3
+82900.0,Recife,PE,abril,25.9,1961 - 1991,4
+82900.0,Recife,PE,maio,25.2,1961 - 1991,5
+82900.0,Recife,PE,junho,24.5,1961 - 1991,6
+82900.0,Recife,PE,julho,23.9,1961 - 1991,7
+82900.0,Recife,PE,agosto,23.9,1961 - 1991,8
+82900.0,Recife,PE,setembro,24.6,1961 - 1991,9
+82900.0,Recife,PE,outubro,25.5,1961 - 1991,10
+82900.0,Recife,PE,novembro,26.1,1961 - 1991,11
+82900.0,Recife,PE,dezembro,26.4,1961 - 1991,12
+82900.0,Recife,PE,janeiro,26.9,1981 - 2011,1
+82900.0,Recife,PE,fevereiro,27.1,1981 - 2011,2
+82900.0,Recife,PE,marco,27.1,1981 - 2011,3
+82900.0,Recife,PE,abril,26.5,1981 - 2011,4
+82900.0,Recife,PE,maio,25.7,1981 - 2011,5
+82900.0,Recife,PE,junho,24.7,1981 - 2011,6
+82900.0,Recife,PE,julho,24.1,1981 - 2011,7
+82900.0,Recife,PE,agosto,24.2,1981 - 2011,8
+82900.0,Recife,PE,setembro,25.1,1981 - 2011,9
+82900.0,Recife,PE,outubro,25.9,1981 - 2011,10
+82900.0,Recife,PE,novembro,26.6,1981 - 2011,11
+82900.0,Recife,PE,dezembro,26.9,1981 - 2011,12
+82900.0,Recife,PE,janeiro,27.1,1991 - 2021,1
+82900.0,Recife,PE,fevereiro,27.3,1991 - 2021,2
+82900.0,Recife,PE,marco,27.2,1991 - 2021,3
+82900.0,Recife,PE,abril,26.6,1991 - 2021,4
+82900.0,Recife,PE,maio,25.8,1991 - 2021,5
+82900.0,Recife,PE,junho,24.8,1991 - 2021,6
+82900.0,Recife,PE,julho,24.2,1991 - 2021,7
+82900.0,Recife,PE,agosto,24.2,1991 - 2021,8
+82900.0,Recife,PE,setembro,25.2,1991 - 2021,9
+82900.0,Recife,PE,outubro,26.1,1991 - 2021,10
+82900.0,Recife,PE,novembro,26.7,1991 - 2021,11
+82900.0,Recife,PE,dezembro,27.1,1991 - 2021,12
 82983.0,Petrolina,PE,janeiro,27.2,1961 - 1991,1
 82983.0,Petrolina,PE,fevereiro,26.8,1961 - 1991,2
 82983.0,Petrolina,PE,marco,27.1,1961 - 1991,3
@@ -1187,42 +1187,42 @@ codigo,nome_estacao,uf,mes,temperatura,ano,mes_num
 83228.0,Peixe,TO,outubro,28.1,1991 - 2021,10
 83228.0,Peixe,TO,novembro,26.8,1991 - 2021,11
 83228.0,Peixe,TO,dezembro,26.3,1991 - 2021,12
-83229.0,Salvador (Ondina),BA,janeiro,26.4,1961 - 1991,1
-83229.0,Salvador (Ondina),BA,fevereiro,26.5,1961 - 1991,2
-83229.0,Salvador (Ondina),BA,marco,26.6,1961 - 1991,3
-83229.0,Salvador (Ondina),BA,abril,26.2,1961 - 1991,4
-83229.0,Salvador (Ondina),BA,maio,25.2,1961 - 1991,5
-83229.0,Salvador (Ondina),BA,junho,24.3,1961 - 1991,6
-83229.0,Salvador (Ondina),BA,julho,23.7,1961 - 1991,7
-83229.0,Salvador (Ondina),BA,agosto,23.6,1961 - 1991,8
-83229.0,Salvador (Ondina),BA,setembro,24.3,1961 - 1991,9
-83229.0,Salvador (Ondina),BA,outubro,25.1,1961 - 1991,10
-83229.0,Salvador (Ondina),BA,novembro,25.5,1961 - 1991,11
-83229.0,Salvador (Ondina),BA,dezembro,25.9,1961 - 1991,12
-83229.0,Salvador (Ondina),BA,janeiro,27.0,1981 - 2011,1
-83229.0,Salvador (Ondina),BA,fevereiro,27.1,1981 - 2011,2
-83229.0,Salvador (Ondina),BA,marco,27.1,1981 - 2011,3
-83229.0,Salvador (Ondina),BA,abril,26.4,1981 - 2011,4
-83229.0,Salvador (Ondina),BA,maio,25.5,1981 - 2011,5
-83229.0,Salvador (Ondina),BA,junho,24.4,1981 - 2011,6
-83229.0,Salvador (Ondina),BA,julho,23.8,1981 - 2011,7
-83229.0,Salvador (Ondina),BA,agosto,23.7,1981 - 2011,8
-83229.0,Salvador (Ondina),BA,setembro,24.4,1981 - 2011,9
-83229.0,Salvador (Ondina),BA,outubro,25.5,1981 - 2011,10
-83229.0,Salvador (Ondina),BA,novembro,26.1,1981 - 2011,11
-83229.0,Salvador (Ondina),BA,dezembro,26.6,1981 - 2011,12
-83229.0,Salvador (Ondina),BA,janeiro,26.9,1991 - 2021,1
-83229.0,Salvador (Ondina),BA,fevereiro,27.1,1991 - 2021,2
-83229.0,Salvador (Ondina),BA,marco,27.1,1991 - 2021,3
-83229.0,Salvador (Ondina),BA,abril,26.4,1991 - 2021,4
-83229.0,Salvador (Ondina),BA,maio,25.3,1991 - 2021,5
-83229.0,Salvador (Ondina),BA,junho,24.3,1991 - 2021,6
-83229.0,Salvador (Ondina),BA,julho,23.7,1991 - 2021,7
-83229.0,Salvador (Ondina),BA,agosto,23.6,1991 - 2021,8
-83229.0,Salvador (Ondina),BA,setembro,24.3,1991 - 2021,9
-83229.0,Salvador (Ondina),BA,outubro,25.4,1991 - 2021,10
-83229.0,Salvador (Ondina),BA,novembro,26.1,1991 - 2021,11
-83229.0,Salvador (Ondina),BA,dezembro,26.6,1991 - 2021,12
+83229.0,Salvador,BA,janeiro,26.4,1961 - 1991,1
+83229.0,Salvador,BA,fevereiro,26.5,1961 - 1991,2
+83229.0,Salvador,BA,marco,26.6,1961 - 1991,3
+83229.0,Salvador,BA,abril,26.2,1961 - 1991,4
+83229.0,Salvador,BA,maio,25.2,1961 - 1991,5
+83229.0,Salvador,BA,junho,24.3,1961 - 1991,6
+83229.0,Salvador,BA,julho,23.7,1961 - 1991,7
+83229.0,Salvador,BA,agosto,23.6,1961 - 1991,8
+83229.0,Salvador,BA,setembro,24.3,1961 - 1991,9
+83229.0,Salvador,BA,outubro,25.1,1961 - 1991,10
+83229.0,Salvador,BA,novembro,25.5,1961 - 1991,11
+83229.0,Salvador,BA,dezembro,25.9,1961 - 1991,12
+83229.0,Salvador,BA,janeiro,27.0,1981 - 2011,1
+83229.0,Salvador,BA,fevereiro,27.1,1981 - 2011,2
+83229.0,Salvador,BA,marco,27.1,1981 - 2011,3
+83229.0,Salvador,BA,abril,26.4,1981 - 2011,4
+83229.0,Salvador,BA,maio,25.5,1981 - 2011,5
+83229.0,Salvador,BA,junho,24.4,1981 - 2011,6
+83229.0,Salvador,BA,julho,23.8,1981 - 2011,7
+83229.0,Salvador,BA,agosto,23.7,1981 - 2011,8
+83229.0,Salvador,BA,setembro,24.4,1981 - 2011,9
+83229.0,Salvador,BA,outubro,25.5,1981 - 2011,10
+83229.0,Salvador,BA,novembro,26.1,1981 - 2011,11
+83229.0,Salvador,BA,dezembro,26.6,1981 - 2011,12
+83229.0,Salvador,BA,janeiro,26.9,1991 - 2021,1
+83229.0,Salvador,BA,fevereiro,27.1,1991 - 2021,2
+83229.0,Salvador,BA,marco,27.1,1991 - 2021,3
+83229.0,Salvador,BA,abril,26.4,1991 - 2021,4
+83229.0,Salvador,BA,maio,25.3,1991 - 2021,5
+83229.0,Salvador,BA,junho,24.3,1991 - 2021,6
+83229.0,Salvador,BA,julho,23.7,1991 - 2021,7
+83229.0,Salvador,BA,agosto,23.6,1991 - 2021,8
+83229.0,Salvador,BA,setembro,24.3,1991 - 2021,9
+83229.0,Salvador,BA,outubro,25.4,1991 - 2021,10
+83229.0,Salvador,BA,novembro,26.1,1991 - 2021,11
+83229.0,Salvador,BA,dezembro,26.6,1991 - 2021,12
 83235.0,Taguatinga,TO,janeiro,24.2,1961 - 1991,1
 83235.0,Taguatinga,TO,fevereiro,24.3,1961 - 1991,2
 83235.0,Taguatinga,TO,marco,24.4,1961 - 1991,3
@@ -2375,42 +2375,42 @@ codigo,nome_estacao,uf,mes,temperatura,ano,mes_num
 83767.0,Maringá,PR,outubro,23.7,1991 - 2021,10
 83767.0,Maringá,PR,novembro,24.4,1991 - 2021,11
 83767.0,Maringá,PR,dezembro,25.0,1991 - 2021,12
-83781.0,São Paulo (Mir. de Santana),SP,janeiro,22.1,1961 - 1991,1
-83781.0,São Paulo (Mir. de Santana),SP,fevereiro,22.4,1961 - 1991,2
-83781.0,São Paulo (Mir. de Santana),SP,marco,21.8,1961 - 1991,3
-83781.0,São Paulo (Mir. de Santana),SP,abril,19.7,1961 - 1991,4
-83781.0,São Paulo (Mir. de Santana),SP,maio,17.4,1961 - 1991,5
-83781.0,São Paulo (Mir. de Santana),SP,junho,16.3,1961 - 1991,6
-83781.0,São Paulo (Mir. de Santana),SP,julho,15.8,1961 - 1991,7
-83781.0,São Paulo (Mir. de Santana),SP,agosto,17.1,1961 - 1991,8
-83781.0,São Paulo (Mir. de Santana),SP,setembro,17.9,1961 - 1991,9
-83781.0,São Paulo (Mir. de Santana),SP,outubro,19.0,1961 - 1991,10
-83781.0,São Paulo (Mir. de Santana),SP,novembro,20.2,1961 - 1991,11
-83781.0,São Paulo (Mir. de Santana),SP,dezembro,21.1,1961 - 1991,12
-83781.0,São Paulo (Mir. de Santana),SP,janeiro,22.9,1981 - 2011,1
-83781.0,São Paulo (Mir. de Santana),SP,fevereiro,23.2,1981 - 2011,2
-83781.0,São Paulo (Mir. de Santana),SP,marco,22.4,1981 - 2011,3
-83781.0,São Paulo (Mir. de Santana),SP,abril,21.0,1981 - 2011,4
-83781.0,São Paulo (Mir. de Santana),SP,maio,18.2,1981 - 2011,5
-83781.0,São Paulo (Mir. de Santana),SP,junho,17.1,1981 - 2011,6
-83781.0,São Paulo (Mir. de Santana),SP,julho,16.7,1981 - 2011,7
-83781.0,São Paulo (Mir. de Santana),SP,agosto,17.7,1981 - 2011,8
-83781.0,São Paulo (Mir. de Santana),SP,setembro,18.5,1981 - 2011,9
-83781.0,São Paulo (Mir. de Santana),SP,outubro,20.0,1981 - 2011,10
-83781.0,São Paulo (Mir. de Santana),SP,novembro,21.2,1981 - 2011,11
-83781.0,São Paulo (Mir. de Santana),SP,dezembro,22.1,1981 - 2011,12
-83781.0,São Paulo (Mir. de Santana),SP,janeiro,23.1,1991 - 2021,1
-83781.0,São Paulo (Mir. de Santana),SP,fevereiro,23.5,1991 - 2021,2
-83781.0,São Paulo (Mir. de Santana),SP,marco,22.5,1991 - 2021,3
-83781.0,São Paulo (Mir. de Santana),SP,abril,21.2,1991 - 2021,4
-83781.0,São Paulo (Mir. de Santana),SP,maio,18.4,1991 - 2021,5
-83781.0,São Paulo (Mir. de Santana),SP,junho,17.5,1991 - 2021,6
-83781.0,São Paulo (Mir. de Santana),SP,julho,17.2,1991 - 2021,7
-83781.0,São Paulo (Mir. de Santana),SP,agosto,18.1,1991 - 2021,8
-83781.0,São Paulo (Mir. de Santana),SP,setembro,19.1,1991 - 2021,9
-83781.0,São Paulo (Mir. de Santana),SP,outubro,20.5,1991 - 2021,10
-83781.0,São Paulo (Mir. de Santana),SP,novembro,21.2,1991 - 2021,11
-83781.0,São Paulo (Mir. de Santana),SP,dezembro,22.6,1991 - 2021,12
+83781.0,São Paulo,SP,janeiro,22.1,1961 - 1991,1
+83781.0,São Paulo,SP,fevereiro,22.4,1961 - 1991,2
+83781.0,São Paulo,SP,marco,21.8,1961 - 1991,3
+83781.0,São Paulo,SP,abril,19.7,1961 - 1991,4
+83781.0,São Paulo,SP,maio,17.4,1961 - 1991,5
+83781.0,São Paulo,SP,junho,16.3,1961 - 1991,6
+83781.0,São Paulo,SP,julho,15.8,1961 - 1991,7
+83781.0,São Paulo,SP,agosto,17.1,1961 - 1991,8
+83781.0,São Paulo,SP,setembro,17.9,1961 - 1991,9
+83781.0,São Paulo,SP,outubro,19.0,1961 - 1991,10
+83781.0,São Paulo,SP,novembro,20.2,1961 - 1991,11
+83781.0,São Paulo,SP,dezembro,21.1,1961 - 1991,12
+83781.0,São Paulo,SP,janeiro,22.9,1981 - 2011,1
+83781.0,São Paulo,SP,fevereiro,23.2,1981 - 2011,2
+83781.0,São Paulo,SP,marco,22.4,1981 - 2011,3
+83781.0,São Paulo,SP,abril,21.0,1981 - 2011,4
+83781.0,São Paulo,SP,maio,18.2,1981 - 2011,5
+83781.0,São Paulo,SP,junho,17.1,1981 - 2011,6
+83781.0,São Paulo,SP,julho,16.7,1981 - 2011,7
+83781.0,São Paulo,SP,agosto,17.7,1981 - 2011,8
+83781.0,São Paulo,SP,setembro,18.5,1981 - 2011,9
+83781.0,São Paulo,SP,outubro,20.0,1981 - 2011,10
+83781.0,São Paulo,SP,novembro,21.2,1981 - 2011,11
+83781.0,São Paulo,SP,dezembro,22.1,1981 - 2011,12
+83781.0,São Paulo,SP,janeiro,23.1,1991 - 2021,1
+83781.0,São Paulo,SP,fevereiro,23.5,1991 - 2021,2
+83781.0,São Paulo,SP,marco,22.5,1991 - 2021,3
+83781.0,São Paulo,SP,abril,21.2,1991 - 2021,4
+83781.0,São Paulo,SP,maio,18.4,1991 - 2021,5
+83781.0,São Paulo,SP,junho,17.5,1991 - 2021,6
+83781.0,São Paulo,SP,julho,17.2,1991 - 2021,7
+83781.0,São Paulo,SP,agosto,18.1,1991 - 2021,8
+83781.0,São Paulo,SP,setembro,19.1,1991 - 2021,9
+83781.0,São Paulo,SP,outubro,20.5,1991 - 2021,10
+83781.0,São Paulo,SP,novembro,21.2,1991 - 2021,11
+83781.0,São Paulo,SP,dezembro,22.6,1991 - 2021,12
 83836.0,Irati,PR,janeiro,20.4,1961 - 1991,1
 83836.0,Irati,PR,fevereiro,20.7,1961 - 1991,2
 83836.0,Irati,PR,marco,19.7,1961 - 1991,3
