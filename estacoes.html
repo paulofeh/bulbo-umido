@@ -6,12 +6,12 @@
     <title>Variação das temperaturas médias mensais</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;800&display=swap"
       rel="stylesheet"
     />
     <style>
       body {
-        font-family: "Roboto", sans-serif;
+        font-family: "Source Sans Pro", sans-serif;
         max-width: 1000px;
         margin: 0 auto;
         padding: 10px;
@@ -68,6 +68,7 @@
         font-size: 28px;
         margin-bottom: 8px;
         color: black;
+        font-weight: 700;
       }
       p {
         font-size: 16px;
@@ -87,15 +88,24 @@
         border-radius: 4px;
         background-color: white;
       }
+      select {
+        padding-right: 30px; /* Ajuste este valor conforme necessário */
+        appearance: none; /* Remove a aparência padrão do navegador */
+        -webkit-appearance: none; /* Para Safari/Chrome */
+        -moz-appearance: none; /* Para Firefox */
+        background-image: url('data:image/svg+xml;utf8,<svg fill="black" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>');
+        background-repeat: no-repeat;
+        background-position: right 10px center; /* Ajuste este valor para mover a seta */
+        background-size: 16px;
+      }
     </style>
   </head>
   <body>
     <h1>Um pouco mais quente a cada década</h1>
     <p>
-      Normais climatológicas do INMET mostram a evolução da temperatura média
-      mensal em intervalos de 30 anos. <br />
-      Regiões mais quentes sofreram as maiores variações, com acréscimo de mais
-      de 1°C em 24 das 86 estações analisadas; somente uma registrou queda.
+      Normais climatológicas mostram médias mensais de temperatura para
+      intervalos de 30 anos, sendo úteis na análise de tendências de longo
+      prazo. Os dados mostram acréscimo de mais de 1°C em 24 das 86 estações avaliadas; regiões Norte e Nordeste tiveram as maiores variações, e somente uma localidade (Uruguaiana - RS) registrou queda.
     </p>
     <select id="estacaoSelect"></select>
     <div id="grafico"></div>
