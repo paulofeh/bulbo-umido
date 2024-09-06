@@ -18,7 +18,7 @@
         background-color: #f0f0f0;
         color: #333;
       }
-      #chart {
+      #grafico {
         background-color: white;
         width: 100%;
         padding: 10px;
@@ -32,35 +32,35 @@
       .grid path {
         stroke-width: 0;
       }
-      .legend-item {
+      .item-legenda {
         display: flex;
         align-items: center;
         margin-bottom: 8px;
         font-size: 14px;
       }
-      .legend-color {
+      .cor-legenda {
         width: 16px;
         height: 16px;
         margin-right: 8px;
         border-radius: 50%;
       }
-      .amplitude-label {
+      .rotulo-amplitude {
         font-size: 22px;
         font-weight: bold;
         fill: #d32f2f;
       }
-      .amplitude-bar {
+      .barra-amplitude {
         fill: #e0e0e0;
         stroke: #bdbdbd;
       }
-      .amplitude-line {
+      .linha-amplitude {
         stroke-width: 4;
       }
-      .amplitude-title {
+      .titulo-amplitude {
         font-size: 12px;
         font-weight: bold;
       }
-      .variation-indicator {
+      .indicador-variacao {
         stroke: #757575;
         stroke-width: 1;
       }
@@ -73,6 +73,11 @@
         font-size: 16px;
         margin-top: 0;
         color: #616161;
+      }
+      .fonte {
+        font-size: 12px;
+        color: #757575;
+        margin-top: 20px;
       }
       #estacaoSelect {
         padding: 10px;
@@ -87,11 +92,13 @@
   <body>
     <h1>Um pouco mais quente a cada década</h1>
     <p>
-      Normais climatológicas do Inmet mostram as temperaturas médias mensais em
-      intervalos de 30 anos;<br />variação é maior em regiões mais quentes
+      Normais climatológicas do INMET mostram a evolução da temperatura média
+      mensal em intervalos de 30 anos. <br />
+      Regiões mais quentes sofreram as maiores variações, com acréscimo de mais
+      de 1°C em 24 das 86 estações analisadas; somente uma registrou queda.
     </p>
     <select id="estacaoSelect"></select>
-    <div id="chart"></div>
+    <div id="grafico"></div>
 
     <script>
       const meses = [
@@ -109,6 +116,8 @@
         "Dez",
       ];
 
+      // Calcula a média das temperaturas de um conjunto de dados,
+      // ignorando valores não numéricos
       function calcularMedia(dados) {
         const temperaturas = dados
           .map((d) => +d.temperatura)
@@ -116,7 +125,10 @@
         return d3.mean(temperaturas);
       }
 
+      // Cria um gráfico de linha interativo mostrando a variação de temperatura ao longo do tempo.
+      // Permite a visualização de dados de diferentes estações meteorológicas.
       function criarGrafico(data, estacaoCompleta) {
+        // Extrai informações da estação e filtra os dados relevantes
         const [estacao, uf] = estacaoCompleta.split(" - ");
         const dadosEstacao = data.filter(
           (d) => d.nome_estacao === estacao && d.uf === uf
@@ -129,10 +141,11 @@
         const width = 900 - margin.left - margin.right;
         const height = 500 - margin.top - margin.bottom;
 
-        d3.select("#chart").html("");
+        d3.select("#grafico").html("");
 
+        // Cria o elemento SVG que conterá o gráfico
         const svg = d3
-          .select("#chart")
+          .select("#grafico")
           .append("svg")
           .attr(
             "viewBox",
@@ -143,6 +156,7 @@
           .append("g")
           .attr("transform", `translate(${margin.left},${margin.top})`);
 
+        // Configura as escalas para os eixos X e Y
         const x = d3
           .scalePoint()
           .domain(meses)
@@ -159,6 +173,7 @@
           .domain([minTemp, maxTemp])
           .range([height, 0]);
 
+        // Define a função de linha para traçar os dados
         const line = d3
           .line()
           .curve(d3.curveMonotoneX)
@@ -170,6 +185,7 @@
           .domain(anos)
           .range(["#003f5c", "#bc5090", "#ffa600"]);
 
+        // Calcula e desenha as médias anuais
         const medias = anos.map((ano) => ({
           ano: ano,
           media: calcularMedia(dadosEstacao.filter((d) => d.ano === ano)),
@@ -187,6 +203,7 @@
             .style("stroke-opacity", 0.7);
         });
 
+        // Desenha as linhas do gráfico para cada período
         anos.forEach((ano, index) => {
           const dadosAno = dadosEstacao.filter((d) => d.ano === ano);
           svg
@@ -202,9 +219,10 @@
         const maxMedia = d3.max(medias, (d) => d.media);
         const amplitudeHeight = y(minMedia) - y(maxMedia);
 
+        // Adiciona a barra de amplitude térmica
         svg
           .append("rect")
-          .attr("class", "amplitude-bar")
+          .attr("class", "barra-amplitude")
           .attr("x", width - 40)
           .attr("y", y(maxMedia))
           .attr("width", 30)
@@ -212,7 +230,7 @@
 
         svg
           .append("text")
-          .attr("class", "amplitude-title")
+          .attr("class", "titulo-amplitude")
           .attr("x", width - 42)
           .attr("y", y(minMedia) + 30)
           .selectAll("tspan")
@@ -230,7 +248,7 @@
         medias.forEach((d) => {
           svg
             .append("line")
-            .attr("class", "amplitude-line")
+            .attr("class", "linha-amplitude")
             .attr("x1", width - 40)
             .attr("x2", width - 10)
             .attr("y1", y(d.media))
@@ -242,9 +260,10 @@
         const media1991 = medias.find((d) => d.ano === "1991 - 2021").media;
         const diferenca = media1991 - media1961;
 
+        // Cria o indicador de variação entre períodos
         const indicatorGroup = svg
           .append("g")
-          .attr("class", "variation-indicator");
+          .attr("class", "indicador-variacao");
         indicatorGroup
           .append("line")
           .attr("x1", width)
@@ -266,12 +285,13 @@
 
         svg
           .append("text")
-          .attr("class", "amplitude-label")
+          .attr("class", "rotulo-amplitude")
           .attr("x", width + 25)
           .attr("y", (y(media1961) + y(media1991)) / 2)
           .attr("dy", "0.35em")
           .text(`${diferenca > 0 ? "+" : ""}${diferenca.toFixed(1)}°C`);
 
+        // Adiciona os eixos X e Y
         svg
           .append("g")
           .attr("transform", `translate(0,${height})`)
@@ -301,34 +321,36 @@
           .style("font-size", "14px")
           .text("Temperatura (°C)");
 
+        // Cria a legenda
         const legend = svg
           .append("g")
           .attr("class", "legend")
           .attr("transform", `translate(${width + 10}, 0)`);
 
         const legendItems = legend
-          .selectAll(".legend-item")
+          .selectAll(".item-legenda")
           .data(medias.slice().reverse()) // Usa slice() para criar uma cópia antes de reverter
           .enter()
           .append("g")
-          .attr("class", "legend-item")
+          .attr("class", "item-legenda")
           .attr("transform", (d, i) => `translate(0, ${i * 25})`);
 
         legendItems
           .append("rect")
-          .attr("class", "legend-color")
+          .attr("class", "cor-legenda")
           .attr("width", 16)
           .attr("height", 16)
           .attr("fill", (d) => color(d.ano));
 
         legendItems
           .append("text")
-          .attr("class", "legend-text")
+          .attr("class", "texto-legenda")
           .attr("x", 24)
           .attr("y", 9)
           .attr("dy", ".35em")
           .text((d) => d.ano);
 
+        // Adiciona o título do gráfico
         svg
           .append("text")
           .attr("x", width / 2)
@@ -339,6 +361,7 @@
           .text(`${estacao} - ${uf}`);
       }
 
+      //
       d3.csv("data/dados_inmet_completos.csv")
         .then(function (data) {
           const estacoes = [
@@ -354,6 +377,7 @@
 
           criarGrafico(data, estacoes[0]);
 
+          // Atualiza o gráfico ao selecionar uma estação
           select.addEventListener("change", (event) => {
             criarGrafico(data, event.target.value);
           });
@@ -362,5 +386,11 @@
           console.log("Erro ao carregar o arquivo CSV:", error);
         });
     </script>
+    <p class="fonte">
+      Dados:
+      <a href="https://portal.inmet.gov.br/normais">
+        INMET - Normais climatológicas do Brasil
+      </a>
+    </p>
   </body>
 </html>
