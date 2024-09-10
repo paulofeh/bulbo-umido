@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Variação das temperaturas médias mensais</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Source Sans Pro", sans-serif;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 10px;
+        background-color: #f0f0f0;
+        color: #333;
+      }
+      #grafico {
+        background-color: white;
+        width: 100%;
+        padding: 10px;
+        height: 560px;
+        border-radius: 8px;
+      }
+      .grid line {
+        stroke: #e0e0e0;
+        stroke-opacity: 0.7;
+      }
+      .grid path {
+        stroke-width: 0;
+      }
+      .item-legenda {
+        display: flex;
+        align-items: center;
+        margin-bottom: 8px;
+        font-size: 14px;
+      }
+      .cor-legenda {
+        width: 16px;
+        height: 16px;
+        margin-right: 8px;
+        border-radius: 50%;
+      }
+      .rotulo-amplitude {
+        font-size: 22px;
+        font-weight: bold;
+        fill: #d32f2f;
+      }
+      .barra-amplitude {
+        fill: #e0e0e0;
+        stroke: #bdbdbd;
+      }
+      .linha-amplitude {
+        stroke-width: 4;
+      }
+      .titulo-amplitude {
+        font-size: 12px;
+        font-weight: bold;
+      }
+      .indicador-variacao {
+        stroke: #757575;
+        stroke-width: 1;
+      }
+      h1 {
+        font-size: 28px;
+        margin-bottom: 8px;
+        color: black;
+        font-weight: 700;
+      }
+      p {
+        font-size: 16px;
+        margin-top: 0;
+        color: #616161;
+      }
+      .fonte {
+        font-size: 12px;
+        color: #757575;
+        margin-top: 20px;
+      }
+      #estacaoSelect {
+        padding: 10px;
+        margin-bottom: 20px;
+        font-size: 16px;
+        border: 1px solid #bdbdbd;
+        border-radius: 4px;
+        background-color: white;
+      }
+      select {
+        padding-right: 30px; /* Ajuste este valor conforme necessário */
+        appearance: none; /* Remove a aparência padrão do navegador */
+        -webkit-appearance: none; /* Para Safari/Chrome */
+        -moz-appearance: none; /* Para Firefox */
+        background-image: url('data:image/svg+xml;utf8,<svg fill="black" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>');
+        background-repeat: no-repeat;
+        background-position: right 10px center; /* Ajuste este valor para mover a seta */
+        background-size: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Um pouco mais quente a cada década</h1>
+    <p>
+      Normais climatológicas mostram médias mensais de temperatura para
+      intervalos de 30 anos, sendo úteis na análise de tendências de longo
+      prazo. Os dados mostram acréscimo de mais de 1°C em 24 das 86 estações
+      avaliadas; regiões Norte e Nordeste tiveram as maiores variações, e
+      somente uma localidade (Uruguaiana - RS) registrou queda.
+    </p>
+    <select id="estacaoSelect"></select>
+    <div id="grafico"></div>
+
+    <script>
+      function criarGrafico(data, estacaoCompleta) {
+        const [estacao, uf] = estacaoCompleta.split(" - ");
+        const dadosEstacao = data.filter(
+          (d) => d.nome_estacao === estacao && d.uf === uf
+        );
+
+        const margin = { top: 40, right: 150, bottom: 50, left: 60 };
+        const width = 900 - margin.left - margin.right;
+        const height = 500 - margin.top - margin.bottom;
+
+        d3.select("#grafico").html("");
+
+        const svg = d3
+          .select("#grafico")
+          .append("svg")
+          .attr(
+            "viewBox",
+            `0 0 ${width + margin.left + margin.right} ${
+              height + margin.top + margin.bottom
+            }`
+          )
+          .append("g")
+          .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        const meses = [
+          "Jan",
+          "Fev",
+          "Mar",
+          "Abr",
+          "Mai",
+          "Jun",
+          "Jul",
+          "Ago",
+          "Set",
+          "Out",
+          "Nov",
+          "Dez",
+        ];
+
+        const periodos = ["1991 - 2021", "1981 - 2011", "1961 - 1991"];
+
+        const x = d3.scaleBand().domain(meses).range([0, width]).padding(0.05);
+
+        const y = d3
+          .scaleBand()
+          .domain(periodos)
+          .range([0, height])
+          .padding(0.05);
+
+        const temperaturas = dadosEstacao
+          .map((d) => +d.temperatura)
+          .filter((t) => !isNaN(t));
+        const minTemp = Math.floor(d3.min(temperaturas));
+        const maxTemp = Math.ceil(d3.max(temperaturas));
+
+        const colorScale = d3
+          .scaleSequential(d3.interpolateViridis)
+          .domain([minTemp, maxTemp]);
+
+        periodos.forEach((periodo) => {
+          const dadosPeriodo = dadosEstacao.filter((d) => d.ano === periodo);
+
+          svg
+            .selectAll()
+            .data(dadosPeriodo)
+            .enter()
+            .append("rect")
+            .attr("x", (d) => x(meses[+d.mes_num - 1]))
+            .attr("y", y(periodo))
+            .attr("width", x.bandwidth())
+            .attr("height", y.bandwidth())
+            .style("fill", (d) => colorScale(+d.temperatura));
+        });
+
+        svg
+          .append("g")
+          .attr("transform", `translate(0,${height})`)
+          .call(d3.axisBottom(x))
+          .style("font-size", "12px");
+
+        svg.append("g").call(d3.axisLeft(y)).style("font-size", "12px");
+
+        svg
+          .append("text")
+          .attr("x", width / 2)
+          .attr("y", height + 35)
+          .style("text-anchor", "middle")
+          .style("font-size", "14px")
+          .text("Mês");
+
+        svg
+          .append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("y", -45)
+          .attr("x", 0 - height / 2)
+          .attr("dy", "1em")
+          .style("text-anchor", "middle")
+          .style("font-size", "14px")
+          .text("Período");
+
+        // Adiciona o título do gráfico
+        svg
+          .append("text")
+          .attr("x", width / 2)
+          .attr("y", -20)
+          .attr("text-anchor", "middle")
+          .style("font-size", "18px")
+          .style("font-weight", "bold")
+          .text(`${estacao} - ${uf}`);
+
+        // Adiciona a legenda de cor
+        const legendWidth = 20;
+        const legendHeight = height;
+        const legendX = width + 20;
+
+        const legend = svg
+          .append("g")
+          .attr("transform", `translate(${legendX},0)`);
+
+        const legendScale = d3
+          .scaleLinear()
+          .domain([maxTemp, minTemp])
+          .range([0, legendHeight]);
+
+        const legendAxis = d3.axisRight(legendScale).ticks(5);
+
+        legend
+          .selectAll("rect")
+          .data(d3.range(legendHeight))
+          .enter()
+          .append("rect")
+          .attr("y", (d, i) => i)
+          .attr("width", legendWidth)
+          .attr("height", 1)
+          .style("fill", (d) => colorScale(legendScale.invert(d)));
+
+        legend
+          .append("g")
+          .attr("transform", `translate(${legendWidth},0)`)
+          .call(legendAxis);
+
+        legend
+          .append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("x", -legendHeight / 2)
+          .attr("y", -30)
+          .style("text-anchor", "middle")
+          .text("Temperatura (°C)");
+      }
+
+      // O restante do código permanece o mesmo
+      d3.csv("data/dados_inmet_completos.csv")
+        .then(function (data) {
+          const estacoes = [
+            ...new Set(data.map((d) => `${d.nome_estacao} - ${d.uf}`)),
+          ];
+          const select = document.getElementById("estacaoSelect");
+          estacoes.forEach((estacao) => {
+            const option = document.createElement("option");
+            option.value = estacao;
+            option.textContent = estacao;
+            select.appendChild(option);
+          });
+
+          criarGrafico(data, estacoes[0]);
+
+          // Atualiza o gráfico ao selecionar uma estação
+          select.addEventListener("change", (event) => {
+            criarGrafico(data, event.target.value);
+          });
+        })
+        .catch(function (error) {
+          console.log("Erro ao carregar o arquivo CSV:", error);
+        });
+    </script>
+    <p class="fonte">
+      Dados:
+      <a href="https://portal.inmet.gov.br/normais">
+        INMET - Normais climatológicas do Brasil
+      </a>
+    </p>
+  </body>
+</html>
