@@ -105,7 +105,9 @@
     <p>
       Normais climatológicas mostram médias mensais de temperatura para
       intervalos de 30 anos, sendo úteis na análise de tendências de longo
-      prazo. Os dados mostram acréscimo de mais de 1°C em 24 das 86 estações avaliadas; regiões Norte e Nordeste tiveram as maiores variações, e somente uma localidade (Uruguaiana - RS) registrou queda.
+      prazo. Os dados mostram acréscimo de mais de 1°C em 24 das 86 estações
+      avaliadas; regiões Norte e Nordeste tiveram as maiores variações, e
+      somente uma localidade (Uruguaiana - RS) registrou queda.
     </p>
     <select id="estacaoSelect"></select>
     <div id="grafico"></div>
@@ -193,7 +195,7 @@
         const color = d3
           .scaleOrdinal()
           .domain(anos)
-          .range(["#003f5c", "#bc5090", "#ffa600"]);
+          .range(["#fee0d2", "#fc9272", "#de2d26"]);
 
         // Calcula e desenha as médias anuais
         const medias = anos.map((ano) => ({
